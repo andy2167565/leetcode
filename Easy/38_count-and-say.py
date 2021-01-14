@@ -4,7 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: str
         """
-        # <Iterative Solution>
+#======== <Iterative Solution> ========#
         result = "1"
         # Loop n-1 times since the string for n=1 is already defined
         while n > 1:
@@ -25,7 +25,7 @@ class Solution(object):
             n -= 1
         return result
         
-        # <Recursive Solution>
+#======== <Recursive Solution> ========#
         if n == 1:
             return "1"
         
