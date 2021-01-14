@@ -4,10 +4,10 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        # <Solution 1>
+#======== <Solution 1> ========#
         return int(sqrt(x))
         
-        # <Solution 2>: Binary Search
+#======== <Solution 2>: Binary Search ========#
         low = 1
         high = x
         while low <= high:
