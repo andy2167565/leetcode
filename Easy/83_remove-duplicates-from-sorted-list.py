@@ -9,7 +9,7 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        # <Iterative Solution>
+#======== <Iterative Solution> ========#
         current = head
         # Loop through each type of digits -> 1, 2, 3, etc.
         while current:
@@ -19,7 +19,7 @@ class Solution(object):
             current = current.next
         return head
         
-        # <Recursive Solution>
+#======== <Recursive Solution> ========#
         if head and head.next:
             if head.val == head.next.val:
                 # Remove head.next and delete duplicates for head again
