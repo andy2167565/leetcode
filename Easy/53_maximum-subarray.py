@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # <Solution 1>
+#======== <Solution 1> ========#
         result = nums[0]
         current_sum = 0
         for num in nums:
@@ -15,7 +15,7 @@ class Solution(object):
             result = max(result, current_sum)
         return result
         
-        # <Solution 2>
+#======== <Solution 2> ========#
         result = nums[0]
         current_sum = 0
         for num in nums:
