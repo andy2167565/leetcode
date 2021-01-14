@@ -10,7 +10,7 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
-        # <Recursive Solution>
+#======== <Recursive Solution> ========#
         if not l1:
             return l2
         if not l2:
@@ -23,7 +23,7 @@ class Solution(object):
             l2.next = self.mergeTwoLists(l2.next, l1)
             return l2
         
-        # <Iterative Solution>
+#======== <Iterative Solution> ========#
         # Ref: https://stackoverflow.com/questions/56515975/python-logic-of-listnode-in-leetcode
         result = ListNode(0)
         result_tail = result
