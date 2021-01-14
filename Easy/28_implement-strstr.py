@@ -5,7 +5,7 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        # <Solution-1>
+#======== <Solution 1> ========#
         if not needle:
             return 0
         
@@ -21,13 +21,13 @@ class Solution(object):
                 hs_id += 1
         return -1
         
-        # <Solution-2>
+#======== <Solution 2> ========#
         for hs_id in range(len(haystack) - len(needle) + 1):
             if all(haystack[hs_id+nd_id] == needle[nd_id] for nd_id in range(len(needle))):
                 return hs_id
         return -1
         
-        # <Solution-3>
+#======== <Solution 3> ========#
         try:
             return haystack.index(needle)
         except:
