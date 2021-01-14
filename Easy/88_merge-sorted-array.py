@@ -7,18 +7,18 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
-        # <Solution 1>
+#======== <Solution 1> ========#
         while nums2:
             nums1.append(nums2[-1])
             nums1.remove(0)
             del nums2[-1]
         nums1.sort()
         
-        # <Solution 2>
+#======== <Solution 2> ========#
         nums1[m:] = nums2
         nums1.sort()
         
-        # <Solution 3>
+#======== <Solution 3> ========#
         i = m + n - 1
         m -= 1
         n -= 1
