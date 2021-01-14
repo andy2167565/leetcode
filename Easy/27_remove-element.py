@@ -5,7 +5,7 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        # <Two Pointers Solution>
+#======== <Two Pointers Solution> ========#
         if len(nums) == 0:
             return 0
         
@@ -17,7 +17,7 @@ class Solution(object):
         
         return remain_index
         
-        # <Two Pointers with Rare Elements Solution>
+#======== <Two Pointers with Rare Elements Solution> ========#
         if len(nums) == 0:
             return 0
         
