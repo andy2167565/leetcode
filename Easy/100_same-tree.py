@@ -11,15 +11,23 @@ class Solution(object):
         :type q: TreeNode
         :rtype: bool
         """
-        # <Recursive Solution>
+#======== <Recursive Solution 1> ========#
         if not p and not q:
             return True
         elif p and q:
-            return (p.val == q.val) and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+            same_val = p.val == q.val
+            same_left = self.isSameTree(p.left, q.left)
+            same_right = self.isSameTree(p.right, q.right)
+            return same_val and same_left and same_right
         else:
             return False
         
-        # <Iterative Solution>
+#======== <Recursive Solution 2> ========#
+        if not p or not q:
+            return p == q
+        return (p.val == q.val) and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        
+#======== <Iterative Solution> ========#
         stack = [(p, q)]
         while stack:
             # Pop last pair from the stack
