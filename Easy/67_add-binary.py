@@ -5,10 +5,10 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        # <Solution 1>
+#======== <Solution 1> ========#
         return bin(int(a, 2) + int(b, 2))[2:]
         
-        # <Solution 2>
+#======== <Solution 2> ========#
         a_len = len(a)
         b_len = len(b)
         carry = 0
