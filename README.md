@@ -1,4 +1,4 @@
-<p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
+<p align="center"><img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png"></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/29/1803-Solved/Total-blue.svg" alt="">
