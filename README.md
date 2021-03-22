@@ -9,4 +9,4 @@
 
 | # | Title | Difficulty | Solution
 |:--:|:-----:|:---------:|:----:|
-| 0001 | [Two Sum](./Easy/1_two-sum.py) | Easy | [Python](./Easy/1_two-sum.py) [JavaScript](./Easy/1_two-sum.js) |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Easy/1_two-sum.py) [JavaScript](./Easy/1_two-sum.js) |
