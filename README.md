@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/29/1803-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-27-green.svg" alt="">
+    <img src="https://img.shields.io/badge/30/1804-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-28-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-2-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
 </p>
@@ -37,4 +37,5 @@
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Python](./Easy/0110_balanced-binary-tree/balanced-binary-tree.py) |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Python](./Easy/0111_minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Python](./Easy/0112_path-sum/path-sum.py) |
+| 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [Python](./Easy/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
