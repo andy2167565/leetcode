@@ -2,7 +2,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/30/2077-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-27-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-28-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-3-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
 </p>
@@ -29,6 +29,7 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Python](./Easy/0070_climbing-stairs/climbing-stairs.py) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Python](./Easy/0083_remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Python](./Easy/0088_merge-sorted-array/merge-sorted-array.py) |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Python](./Easy/0094_binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Python](./Easy/0100_same-tree/same-tree.py) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Python](./Easy/0101_symmetric-tree/symmetric-tree.py) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Python](./Easy/0104_maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
