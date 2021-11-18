@@ -2,15 +2,15 @@
 
 <p>
     <img src="https://img.shields.io/badge/30/1804-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-28-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-2-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-27-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-3-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
 |:--:|:-----:|:---------:|:----:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Easy/0001_two-sum/two-sum.py) [JavaScript](./Easy/0001_two-sum/two-sum.js) |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Python](./Medium/0007_reverse-integer/reverse-integer.py) [JavaScript](./Medium/0007_reverse-integer/reverse-integer.js) |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Python](./Medium/0007_reverse-integer/reverse-integer.py) [JavaScript](./Medium/0007_reverse-integer/reverse-integer.js) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./Easy/0009_palindrome-number/palindrome-number.py) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_roman-to-integer/roman-to-integer.py) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](./Easy/0014_longest-common-prefix/longest-common-prefix.py) |
