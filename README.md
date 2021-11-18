@@ -10,7 +10,7 @@
 | # | Title | Difficulty | Solution
 |:--:|:-----:|:---------:|:----:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Easy/0001_two-sum/two-sum.py) [JavaScript](./Easy/0001_two-sum/two-sum.js) |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Python](./Easy/0007_reverse-integer/reverse-integer.py) [JavaScript](./Easy/0007_reverse-integer/reverse-integer.js) |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Python](./Medium/0007_reverse-integer/reverse-integer.py) [JavaScript](./Medium/0007_reverse-integer/reverse-integer.js) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./Easy/0009_palindrome-number/palindrome-number.py) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_roman-to-integer/roman-to-integer.py) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](./Easy/0014_longest-common-prefix/longest-common-prefix.py) |
