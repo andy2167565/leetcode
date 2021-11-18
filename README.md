@@ -1,7 +1,7 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/30/2077-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/31/2077-Solved/Total-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-28-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-3-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
