@@ -39,4 +39,4 @@
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Python](./Easy/0111_minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Python](./Easy/0112_path-sum/path-sum.py) |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
-| 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [Python](./Easy/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
+| 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
