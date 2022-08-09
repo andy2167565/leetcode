@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-31/2370-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-32/2370-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-26/588-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-5/1262-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-6/1262-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/520-red.svg" alt="">
 </p>
 
@@ -14,6 +14,7 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./Easy/0009_palindrome-number/palindrome-number.py) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_roman-to-integer/roman-to-integer.py) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](./Easy/0014_longest-common-prefix/longest-common-prefix.py) |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Python](./Medium/0015_3sum/3sum.py) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./Easy/0020_valid-parentheses/valid-parentheses.py) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Python](./Easy/0021_merge-two-sorted-lists/merge-two-sorted-lists.py) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](./Easy/0026_remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
