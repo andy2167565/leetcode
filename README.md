@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/31/2077-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-28-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-3-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/31/2370-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-26-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-5-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
 </p>
 
@@ -21,7 +21,7 @@
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Python](./Easy/0028_implement-strstr/implement-strstr.py) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Python](./Easy/0035_search-insert-position/search-insert-position.py) |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Python](./Medium/0038_count-and-say/count-and-say.py) |
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Python](./Easy/0053_maximum-subarray/maximum-subarray.py) |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](./Easy/0058_length-of-last-word/length-of-last-word.py) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./Easy/0066_plus-one/plus-one.py) |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](./Easy/0067_add-binary/add-binary.py) |
