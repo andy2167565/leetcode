@@ -5,6 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+#======== <Solution 1> ========#
         left = 0
         right = len(numbers) - 1
         
@@ -15,3 +16,11 @@ class Solution(object):
                 left += 1
             else:
                 return [left+1, right+1]
+
+#======== <Solution 2> ========#
+        seen = {}
+        for i, num in enumerate(numbers):
+            if target - num in seen:
+                return [seen[target - num]+1, i+1]
+            else:
+                seen[num] = i
