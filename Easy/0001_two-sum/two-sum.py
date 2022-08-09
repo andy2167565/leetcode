@@ -16,3 +16,12 @@ class Solution(object):
             num = nums.pop()
             if target - num in nums:
                 return [nums.index(target - num), len(nums)]
+
+#======== <Solution 3> ========#
+        seen = {}
+        for i, num in enumerate(nums):
+            remaining = target - nums[i]
+            if remaining in seen:
+                return [seen[remaining], i]
+            else:
+                seen[num] = i
