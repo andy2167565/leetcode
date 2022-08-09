@@ -20,8 +20,7 @@ class Solution(object):
 #======== <Solution 3> ========#
         seen = {}
         for i, num in enumerate(nums):
-            remaining = target - nums[i]
-            if remaining in seen:
-                return [seen[remaining], i]
+            if target - num in seen:
+                return [seen[target - num], i]
             else:
                 seen[num] = i
