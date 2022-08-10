@@ -1,9 +1,5 @@
-class Solution(object):
-    def climbStairs(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def climbStairs(self, n: int) -> int:
 #======== <Solution 1>: Fibonacci Sequence - Bottom-up ========#
         if n < 3:
             return n
