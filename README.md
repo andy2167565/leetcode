@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-32/2370-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-33/2370-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-26/588-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-6/1262-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-7/1262-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/520-red.svg" alt="">
 </p>
 
@@ -11,6 +11,7 @@
 |:--:|:-----:|:---------:|:----:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Easy/0001_two-sum/two-sum.py) [JavaScript](./Easy/0001_two-sum/two-sum.js) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Python](./Medium/0007_reverse-integer/reverse-integer.py) [JavaScript](./Medium/0007_reverse-integer/reverse-integer.js) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Python](./Medium/0008_string-to-integer-atoi/string-to-integer-atoi.py) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./Easy/0009_palindrome-number/palindrome-number.py) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_roman-to-integer/roman-to-integer.py) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](./Easy/0014_longest-common-prefix/longest-common-prefix.py) |
