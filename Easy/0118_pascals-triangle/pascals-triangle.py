@@ -1,9 +1,5 @@
-class Solution(object):
-    def generate(self, numRows):
-        """
-        :type numRows: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def generate(self, numRows: int) -> List[List[int]]:
 #======== <Solution 1> ========#
         result = [[1]]
         if numRows == 1:
