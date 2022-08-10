@@ -23,3 +23,11 @@ class Solution:
         if carry != 0:
             bin_sum = ''.join((str(carry), bin_sum))
         return bin_sum
+
+#======== <Solution 3> ========#
+        from itertools import zip_longest
+        carry, ans = 0, []
+        for i, j in zip_longest(reversed(a), reversed(b), fillvalue='0'):
+            carry, digit = divmod(int(i) + int(j) + carry, 2)
+            ans.append(str(digit))
+        return '1' * carry + ''.join(reversed(ans))
