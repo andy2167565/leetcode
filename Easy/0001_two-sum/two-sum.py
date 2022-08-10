@@ -1,10 +1,5 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
 #======== <Solution 1> ========#
         from itertools import combinations
         for (i, j) in combinations(range(len(nums)), 2):
