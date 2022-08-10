@@ -1,12 +1,8 @@
-class Solution(object):
-    def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         res = []
-        for i in xrange(len(nums)-2):
+        for i in range(len(nums)-2):
             if i > 0 and nums[i] == nums[i-1]:
                 continue
             left = i + 1
