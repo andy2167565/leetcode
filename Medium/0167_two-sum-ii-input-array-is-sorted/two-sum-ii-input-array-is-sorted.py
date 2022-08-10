@@ -1,10 +1,5 @@
-class Solution(object):
-    def twoSum(self, numbers, target):
-        """
-        :type numbers: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
 #======== <Solution 1> ========#
         left = 0
         right = len(numbers) - 1
