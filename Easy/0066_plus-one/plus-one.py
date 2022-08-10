@@ -1,9 +1,5 @@
-class Solution(object):
-    def plusOne(self, digits):
-        """
-        :type digits: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
 #======== <Solution 1> ========#
         num = int("".join(str(i) for i in digits))
         if num == 0:
