@@ -1,9 +1,5 @@
-class Solution(object):
-    def countAndSay(self, n):
-        """
-        :type n: int
-        :rtype: str
-        """
+class Solution:
+    def countAndSay(self, n: int) -> str:
 #======== <Iterative Solution> ========#
         result = "1"
         # Loop n-1 times since the string for n=1 is already defined
