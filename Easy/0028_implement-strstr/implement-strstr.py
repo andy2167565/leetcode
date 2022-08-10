@@ -1,10 +1,5 @@
-class Solution(object):
-    def strStr(self, haystack, needle):
-        """
-        :type haystack: str
-        :type needle: str
-        :rtype: int
-        """
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
 #======== <Solution 1> ========#
         if not needle:
             return 0
