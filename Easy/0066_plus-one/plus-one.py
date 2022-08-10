@@ -14,3 +14,10 @@ class Solution:
         else:
             digits[-1] += 1
         return digits
+
+#======== <Solution 4> ========#
+        carry = 1
+        for i in reversed(range(len(digits))):
+            carry, digits[i] = divmod(digits[i] + carry, 10)
+            if carry == 0: return digits
+        return [carry] + digits
