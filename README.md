@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-33/2370-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-26/588-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-34/2370-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-27/588-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-7/1262-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/520-red.svg" alt="">
 </p>
@@ -42,3 +42,4 @@
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Python](./Easy/0112_path-sum/path-sum.py) |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
+| 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
