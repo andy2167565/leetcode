@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-34/2370-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-27/588-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-35/2370-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-28/588-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-7/1262-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/520-red.svg" alt="">
 </p>
@@ -43,3 +43,4 @@
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
+| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Python](./Easy/0171_excel-sheet-column-number/excel-sheet-column-number.py) |
