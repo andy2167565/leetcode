@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-37/2370-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-37/2371-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-29/588-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-8/1262-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-0/520-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-0/521-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
