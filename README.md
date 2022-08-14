@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-40/2371-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-32/588-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-41/2371-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-33/588-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-8/1262-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/521-red.svg" alt="">
 </p>
@@ -49,3 +49,4 @@
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Python](./Easy/0263_ugly-number/ugly-number.py) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](./Easy/0268_missing-number/missing-number.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](./Easy/0326_power-of-three/power-of-three.py) |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
