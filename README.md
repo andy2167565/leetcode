@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-38/2371-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-30/588-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-39/2371-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-31/588-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-8/1262-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/521-red.svg" alt="">
 </p>
@@ -47,3 +47,4 @@
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [Python](./Medium/0204_count-primes/count-primes.py) |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](./Easy/0231_power-of-two/power-of-two.py) |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Python](./Easy/0263_ugly-number/ugly-number.py) |
+| 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](./Easy/0268_missing-number/missing-number.py) |
