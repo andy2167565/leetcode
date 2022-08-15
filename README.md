@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-43/2376-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-35/589-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-44/2376-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-36/589-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-8/1265-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/522-red.svg" alt="">
 </p>
@@ -52,3 +52,4 @@
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | [Python](./Easy/0504_base-7/base-7.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
