@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-49/2377-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-50/2378-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-36/590-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-13/1265-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-14/1266-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/522-red.svg" alt="">
 </p>
 
@@ -57,4 +57,5 @@
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | [Python](./Easy/0504_base-7/base-7.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
