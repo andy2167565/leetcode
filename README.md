@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-51/2378-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-36/590-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-15/1266-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-0/522-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-52/2386-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-16/1271-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-0/524-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -59,4 +59,5 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
