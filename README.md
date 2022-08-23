@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-53/2386-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-54/2386-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-17/1271-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-18/1271-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/524-red.svg" alt="">
 </p>
 
@@ -61,4 +61,5 @@
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
