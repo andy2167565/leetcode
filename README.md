@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-57/2386-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-58/2387-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-21/1271-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-22/1272-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/524-red.svg" alt="">
 </p>
 
@@ -65,4 +65,5 @@
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
+| 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
