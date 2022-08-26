@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-58/2387-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-59/2388-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-22/1272-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-23/1273-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-0/524-red.svg" alt="">
 </p>
 
@@ -67,3 +67,4 @@
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
+| 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
