@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-59/2388-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-60/2388-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-23/1273-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-0/524-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-1/524-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -27,6 +27,7 @@
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](./Medium/0050_powx-n/powx-n.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](./Easy/0058_length-of-last-word/length-of-last-word.py) |
+| 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | [Python](./Hard/0060_permutation-sequence/permutation-sequence.py) |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Python](./Medium/0062_unique-paths/unique-paths.py) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./Easy/0066_plus-one/plus-one.py) |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](./Easy/0067_add-binary/add-binary.py) |
