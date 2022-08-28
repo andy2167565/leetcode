@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-60/2388-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-61/2388-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-23/1273-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-1/524-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-2/524-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -55,6 +55,7 @@
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Python](./Medium/0343_integer-break/integer-break.py) |
+| 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Hard | [Python](./Hard/0458_poor-pigs/poor-pigs.py) |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | [Python](./Easy/0504_base-7/base-7.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
