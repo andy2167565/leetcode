@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-62/2392-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-36/592-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-23/1275-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-3/525-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-63/2392-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-36/591-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-23/1276-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-4/525-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -62,6 +62,7 @@
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard | [Python](./Hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
