@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-67/2394-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-35/590-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-25/1279-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-7/525-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-68/2402-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-35/592-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-25/1283-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-8/527-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -53,6 +53,7 @@
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](./Easy/0231_power-of-two/power-of-two.py) |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Python](./Easy/0263_ugly-number/ugly-number.py) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](./Easy/0268_missing-number/missing-number.py) |
+| 0273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | [Python](./Hard/0273_integer-to-english-words/integer-to-english-words.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Python](./Medium/0343_integer-break/integer-break.py) |
