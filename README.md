@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-68/2402-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-35/592-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-69/2402-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-36/592-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-25/1283-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/527-red.svg" alt="">
 </p>
@@ -46,6 +46,7 @@
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Python](./Easy/0111_minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Python](./Easy/0112_path-sum/path-sum.py) |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Python](./Easy/0171_excel-sheet-column-number/excel-sheet-column-number.py) |
