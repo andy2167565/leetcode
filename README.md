@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-72/2403-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-39/591-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-73/2403-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-40/591-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-25/1283-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/529-red.svg" alt="">
 </p>
@@ -61,6 +61,7 @@
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Python](./Medium/0343_integer-break/integer-break.py) |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Python](./Easy/0401_binary-watch/binary-watch.py) |
+| 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [Python](./Easy/0448_find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py) |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Hard | [Python](./Hard/0458_poor-pigs/poor-pigs.py) |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | [Python](./Easy/0504_base-7/base-7.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
