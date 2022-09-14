@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-78/2407-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-45/592-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-79/2407-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-46/592-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-25/1285-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/530-red.svg" alt="">
 </p>
@@ -76,6 +76,7 @@
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard | [Python](./Hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
