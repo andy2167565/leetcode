@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-79/2407-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-46/592-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-25/1285-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-80/2408-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-47/592-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-25/1286-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/530-red.svg" alt="">
 </p>
 
@@ -78,6 +78,7 @@
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
+| 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy | [Python](./Easy/1566_detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard | [Python](./Hard/1739_building-boxes/building-boxes.py) |
