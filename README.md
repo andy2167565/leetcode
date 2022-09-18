@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-82/2408-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-49/592-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-25/1286-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-8/530-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-83/2416-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-50/594-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-25/1290-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-8/532-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -83,6 +83,7 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
