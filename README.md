@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-86/2416-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-53/594-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-87/2416-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-54/594-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-25/1290-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/532-red.svg" alt="">
 </p>
@@ -90,6 +90,7 @@
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | Easy | [Python](./Easy/1763_longest-nice-substring/longest-nice-substring.py) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy | [Python](./Easy/1779_find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy | [Python](./Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | Hard | [Python](./Hard/1819_number-of-different-subsequences-gcds/number-of-different-subsequences-gcds.py) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
