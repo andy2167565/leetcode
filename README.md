@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-89/2416-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-56/594-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-90/2416-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-57/594-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-25/1290-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/532-red.svg" alt="">
 </p>
@@ -94,6 +94,7 @@
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | [Python](./Easy/1790_check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
+| 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [Python](./Easy/1812_determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py) |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | Hard | [Python](./Hard/1819_number-of-different-subsequences-gcds/number-of-different-subsequences-gcds.py) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
