@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-93/2417-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-60/594-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-94/2417-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-61/594-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-25/1291-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/532-red.svg" alt="">
 </p>
@@ -101,4 +101,5 @@
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy | [Python](./Easy/1844_replace-all-digits-with-characters/replace-all-digits-with-characters.py) |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
