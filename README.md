@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-97/2421-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-98/2421-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-62/595-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-27/1292-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-28/1292-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/534-red.svg" alt="">
 </p>
 
@@ -53,6 +53,7 @@
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Easy/0169_majority-element/majority-element.py) |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Python](./Easy/0171_excel-sheet-column-number/excel-sheet-column-number.py) |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Python](./Medium/0189_rotate-array/rotate-array.py) |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [Python](./Medium/0204_count-primes/count-primes.py) |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | [Python](./Easy/0228_summary-ranges/summary-ranges.py) |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](./Easy/0231_power-of-two/power-of-two.py) |
