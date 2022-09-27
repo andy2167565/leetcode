@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-99/2421-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-100/2421-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-62/595-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-29/1292-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-30/1292-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/534-red.svg" alt="">
 </p>
 
@@ -64,6 +64,7 @@
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Python](./Medium/0343_integer-break/integer-break.py) |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Python](./Easy/0401_binary-watch/binary-watch.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [Python](./Easy/0448_find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py) |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Hard | [Python](./Hard/0458_poor-pigs/poor-pigs.py) |
