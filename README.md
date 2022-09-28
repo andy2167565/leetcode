@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-101/2421-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-102/2421-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-62/595-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-31/1292-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-32/1292-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-8/534-red.svg" alt="">
 </p>
 
@@ -73,6 +73,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Python](./Easy/0485_max-consecutive-ones/max-consecutive-ones.py) |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | [Python](./Easy/0504_base-7/base-7.py) |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Python](./Easy/0557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
+| 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [Python](./Medium/0647_palindromic-substrings/palindromic-substrings.py) |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | [Python](./Easy/0696_count-binary-substrings/count-binary-substrings.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
