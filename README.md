@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-105/2422-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-62/595-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-35/1293-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-8/534-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-106/2430-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-62/597-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-36/1297-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-8/536-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -79,6 +79,7 @@
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
+| 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
