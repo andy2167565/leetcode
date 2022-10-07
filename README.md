@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-114/2431-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-115/2431-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-62/597-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-42/1298-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-10/536-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-11/536-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -35,6 +35,7 @@
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Python](./Hard/0065_valid-number/valid-number.py) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./Easy/0066_plus-one/plus-one.py) |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](./Easy/0067_add-binary/add-binary.py) |
+| 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Python](./Hard/0068_text-justification/text-justification.py) |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Python](./Easy/0069_sqrtx/sqrtx.py) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Python](./Easy/0070_climbing-stairs/climbing-stairs.py) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Python](./Easy/0083_remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
