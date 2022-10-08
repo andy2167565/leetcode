@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-116/2431-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-117/2431-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-62/597-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-42/1298-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-12/536-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-13/536-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -85,6 +85,7 @@
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
+| 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
