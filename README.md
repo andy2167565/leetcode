@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-118/2435-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-63/598-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-119/2435-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-64/598-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-42/1300-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-13/537-red.svg" alt="">
 </p>
@@ -67,6 +67,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](./Easy/0268_missing-number/missing-number.py) |
 | 0273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | [Python](./Hard/0273_integer-to-english-words/integer-to-english-words.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [Python](./Easy/0326_power-of-three/power-of-three.py) |
+| 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Python](./Easy/0338_counting-bits/counting-bits.py) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Python](./Medium/0343_integer-break/integer-break.py) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
