@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-117/2431-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-62/597-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-42/1298-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-13/536-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-118/2435-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-63/598-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-42/1300-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-13/537-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -50,6 +50,7 @@
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Python](./Easy/0111_minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [Python](./Easy/0112_path-sum/path-sum.py) |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
+| 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [Python](./Easy/0119_pascals-triangle-ii/pascals-triangle-ii.py) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [Python](./Medium/0152_maximum-product-subarray/maximum-product-subarray.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
