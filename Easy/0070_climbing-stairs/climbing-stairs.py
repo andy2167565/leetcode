@@ -17,8 +17,9 @@ class Solution:
             prev, curr = curr, prev + curr
         return curr
 
-#======== <Solution 3>: Fibonacci Formula ========#
-        # Reference: https://en.wikipedia.org/wiki/Fibonacci_number#Closed-form_expression
+#======== <Solution 3>: Binet's Fibonacci Number Formula ========#
+        # Reference 1: https://en.wikipedia.org/wiki/Fibonacci_number#Closed-form_expression
+        # Reference 2: https://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html
         import math
         return int((pow((1 + math.sqrt(5)) / 2, n + 1) - pow((1 - math.sqrt(5)) / 2, n + 1)) / math.sqrt(5))
 
