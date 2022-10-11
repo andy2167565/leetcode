@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-121/2435-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-66/598-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-122/2435-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-67/598-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-42/1300-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-13/537-red.svg" alt="">
 </p>
@@ -87,6 +87,7 @@
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
+| 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
