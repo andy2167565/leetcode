@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-123/2436-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-124/2436-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-67/598-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-43/1301-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-44/1301-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-13/537-red.svg" alt="">
 </p>
 
@@ -26,6 +26,7 @@
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Medium | [Python](./Medium/0028_find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Python](./Easy/0035_search-insert-position/search-insert-position.py) |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Python](./Medium/0038_count-and-say/count-and-say.py) |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Python](./Medium/0039_combination-sum/combination-sum.py) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Python](./Hard/0041_first-missing-positive/first-missing-positive.py) |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](./Medium/0043_multiply-strings/multiply-strings.py) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](./Medium/0050_powx-n/powx-n.py) |
