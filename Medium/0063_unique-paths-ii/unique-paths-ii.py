@@ -25,7 +25,7 @@ class Solution:
         m, n = len(obstacleGrid), len(obstacleGrid[0])
         @cache
         def dfs(i, j):
-            if i >= m or j >= n or obstacleGrid[i][j]:
+            if i == m or j == n or obstacleGrid[i][j]:
                 return 0
             if i == m - 1 and j == n - 1:
                 return 1
@@ -36,7 +36,7 @@ class Solution:
         m, n = len(obstacleGrid), len(obstacleGrid[0])
         dp = [[-1] * n for _ in range(m)]
         def dfs(i, j):
-            if i >= m or j >= n or obstacleGrid[i][j]:
+            if i == m or j == n or obstacleGrid[i][j]:
                 return 0
             if i == m - 1 and j == n - 1:
                 return 1
