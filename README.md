@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-126/2436-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-67/598-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-46/1301-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-13/537-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-127/2444-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-67/600-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-47/1305-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-13/539-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -36,6 +36,7 @@
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | [Python](./Hard/0060_permutation-sequence/permutation-sequence.py) |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Python](./Medium/0062_unique-paths/unique-paths.py) |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Python](./Medium/0063_unique-paths-ii/unique-paths-ii.py) |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Python](./Medium/0064_minimum-path-sum/minimum-path-sum.py) |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Python](./Hard/0065_valid-number/valid-number.py) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./Easy/0066_plus-one/plus-one.py) |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](./Easy/0067_add-binary/add-binary.py) |
