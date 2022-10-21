@@ -6,36 +6,26 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-#======== <Recursive Solution 1> ========#
-        height, result = self.getResult(root)
-        return result
+#======== <Solution 1> ========#
+        height, balanced = self.getResult(root)
+        return balanced
     
-    def getResult(self, node, balanced=True):
-        if not node or not balanced:
-            return 0, balanced
+    def getResult(self, node):
+        if not node: return 0, True
+        l_height, l_balanced = self.getResult(node.left)
+        r_height, r_balanced = self.getResult(node.right)
+        return max(l_height, r_height) + 1, l_balanced and r_balanced and abs(l_height - r_height) <= 1
 
-        l_height, balanced = self.getResult(node.left, balanced)
-        r_height, balanced = self.getResult(node.right, balanced)
-
-        if abs(l_height - r_height) > 1:
-            balanced = False
-
-        return max(l_height, r_height) + 1, balanced
-        
-#======== <Recursive Solution 2> ========#
+#======== <Solution 2> ========#
+        # Output = actual height + 1
         if not root: return 1
-        l_height = self.isBalanced(root.left)
-        if not l_height: return
-        r_height = self.isBalanced(root.right)
-        if not r_height: return
-        return abs(l_height - r_height) <= 1 and max(l_height, r_height) + 1
-        
-#======== <Recursive Solution 3> ========#
-        if not root:
-            return True
-        return abs(self.getDepth(root.left) - self.getDepth(root.right)) <= 1 and self.isBalanced(root.left) and self.isBalanced(root.right)
+        l_height, r_height = self.isBalanced(root.left), self.isBalanced(root.right)
+        return l_height and r_height and abs(l_height - r_height) <= 1 and max(l_height, r_height) + 1
+
+#======== <Solution 3> ========#
+        if not root: return True
+        return self.isBalanced(root.left) and self.isBalanced(root.right) and abs(self.getDepth(root.left) - self.getDepth(root.right)) <= 1
     
     def getDepth(self, node):
-        if not node:
-            return 0
+        if not node: return 0
         return max(self.getDepth(node.left), self.getDepth(node.right)) + 1
