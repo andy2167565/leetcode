@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-134/2445-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-135/2445-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-73/600-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-48/1306-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-49/1306-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-13/539-red.svg" alt="">
 </p>
 
@@ -71,6 +71,7 @@
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | [Python](./Easy/0228_summary-ranges/summary-ranges.py) |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Python](./Medium/0229_majority-element-ii/majority-element-ii.py) |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](./Easy/0231_power-of-two/power-of-two.py) |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [Python](./Medium/0235_lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](./Easy/0242_valid-anagram/valid-anagram.py) |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [Python](./Easy/0263_ugly-number/ugly-number.py) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](./Easy/0268_missing-number/missing-number.py) |
