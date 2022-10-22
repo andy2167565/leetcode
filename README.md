@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-135/2445-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-73/600-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-136/2445-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-74/600-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-49/1306-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-13/539-red.svg" alt="">
 </p>
@@ -59,6 +59,7 @@
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [Python](./Easy/0119_pascals-triangle-ii/pascals-triangle-ii.py) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](./Easy/0125_valid-palindrome/valid-palindrome.py) |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Python](./Easy/0141_linked-list-cycle/linked-list-cycle.py) |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [Python](./Medium/0152_maximum-product-subarray/maximum-product-subarray.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
