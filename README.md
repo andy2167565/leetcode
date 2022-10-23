@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-137/2445-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-75/600-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-49/1306-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-13/539-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-138/2449-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-76/601-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-49/1307-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-13/541-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -146,3 +146,4 @@
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Easy | [Python](./Easy/2446_determine-if-two-events-have-conflict/determine-if-two-events-have-conflict.py) |
