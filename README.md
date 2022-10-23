@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-139/2449-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-140/2449-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-76/601-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-50/1307-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-13/541-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-14/541-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Solution
@@ -148,3 +148,4 @@
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
 | 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Easy | [Python](./Easy/2446_determine-if-two-events-have-conflict/determine-if-two-events-have-conflict.py) |
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | Medium | [Python](./Medium/2447_number-of-subarrays-with-gcd-equal-to-k/number-of-subarrays-with-gcd-equal-to-k.py) |
+| 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | Hard | [Python](./Hard/2448_minimum-cost-to-make-array-equal/minimum-cost-to-make-array-equal.py) |
