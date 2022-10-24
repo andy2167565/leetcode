@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-145/2449-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-80/601-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-146/2449-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-81/601-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-50/1307-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-15/541-red.svg" alt="">
 </p>
@@ -86,6 +86,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [Python](./Easy/0383_ransom-note/ransom-note.py) |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [Python](./Easy/0401_binary-watch/binary-watch.py) |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [Python](./Easy/0409_longest-palindrome/longest-palindrome.py) |
 | 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [Python](./Medium/0442_find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [Python](./Easy/0448_find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py) |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Hard | [Python](./Hard/0458_poor-pigs/poor-pigs.py) |
