@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-146/2449-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-81/601-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-147/2449-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-82/601-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-50/1307-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-15/541-red.svg" alt="">
 </p>
@@ -67,6 +67,7 @@
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Python](./Easy/0171_excel-sheet-column-number/excel-sheet-column-number.py) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Python](./Medium/0189_rotate-array/rotate-array.py) |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [Python](./Medium/0204_count-primes/count-primes.py) |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Python](./Easy/0206_reverse-linked-list/reverse-linked-list.py) |
 | 0214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | [Python](./Hard/0214_shortest-palindrome/shortest-palindrome.py) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Python](./Easy/0226_invert-binary-tree/invert-binary-tree.py) |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | [Python](./Easy/0228_summary-ranges/summary-ranges.py) |
