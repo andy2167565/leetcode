@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-148/2449-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-83/601-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-50/1307-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-149/2450-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-84/601-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-50/1308-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-15/541-red.svg" alt="">
 </p>
 
@@ -108,6 +108,7 @@
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
