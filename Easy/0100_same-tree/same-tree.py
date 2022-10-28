@@ -17,10 +17,6 @@ class Solution:
             l, r = stack.pop()
             if l and r and l.val == r.val:
                 stack.extend([(l.left, r.left), (l.right, r.right)])
-            # Possible cases:
-            # 1) l and r and l.val != r.val
-            # 2) l or r
-            # l == r only when both l and r are None
-            elif l != r:
+            elif l or r:
                 return False
         return True
