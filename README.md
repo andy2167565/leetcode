@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-155/2450-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-90/601-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-156/2450-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-91/601-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-50/1308-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-15/541-red.svg" alt="">
 </p>
@@ -67,6 +67,7 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Easy/0169_majority-element/majority-element.py) |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [Python](./Easy/0171_excel-sheet-column-number/excel-sheet-column-number.py) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Python](./Medium/0189_rotate-array/rotate-array.py) |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [Python](./Easy/0190_reverse-bits/reverse-bits.py) |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Python](./Easy/0191_number-of-1-bits/number-of-1-bits.py) |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [Python](./Medium/0204_count-primes/count-primes.py) |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Python](./Easy/0206_reverse-linked-list/reverse-linked-list.py) |
