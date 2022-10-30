@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-156/2450-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-91/601-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-50/1308-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-15/541-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-157/2454-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-92/602-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-50/1310-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-15/542-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -165,3 +165,4 @@
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | Medium |  | [Python](./Medium/2447_number-of-subarrays-with-gcd-equal-to-k/number-of-subarrays-with-gcd-equal-to-k.py) |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | Hard |  | [Python](./Hard/2448_minimum-cost-to-make-array-equal/minimum-cost-to-make-array-equal.py) |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | Hard |  | [Python](./Hard/2449_minimum-number-of-operations-to-make-arrays-similar/minimum-number-of-operations-to-make-arrays-similar.py) |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | Easy |  | [Python](./Easy/2451_odd-string-difference/odd-string-difference.py) |
