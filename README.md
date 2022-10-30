@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-159/2458-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-160/2458-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-92/603-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-52/1312-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-15/543-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-16/543-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -168,3 +168,4 @@
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | Easy |  | [Python](./Easy/2451_odd-string-difference/odd-string-difference.py) |
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium |  | [Python](./Medium/2452_words-within-two-edits-of-dictionary/words-within-two-edits-of-dictionary.py) |
 | 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | Medium |  | [Python](./Medium/2453_destroy-sequential-targets/destroy-sequential-targets.py) |
+| 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | Hard |  | [Python](./Hard/2454_next-greater-element-iv/next-greater-element-iv.py) |
