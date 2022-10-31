@@ -20,3 +20,9 @@ class Solution:
             elif l or r:
                 return False
         return True
+
+#======== <Solution 3> ========#
+        return self.convertToString(p) == self.convertToString(q)
+
+    def convertToString(self, node):
+        if node: return f'^{node.val}{self.convertToString(node.left)}{self.convertToString(node.right)}'
