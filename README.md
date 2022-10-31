@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-161/2458-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-93/603-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-162/2458-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-52/1312-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/543-red.svg" alt="">
 </p>
@@ -121,6 +121,7 @@
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |  | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |  | [Python](./Easy/0977_squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
