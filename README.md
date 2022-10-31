@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-160/2458-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-92/603-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-161/2458-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-93/603-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-52/1312-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/543-red.svg" alt="">
 </p>
@@ -103,6 +103,7 @@
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy |  | [Python](./Easy/0509_fibonacci-number/fibonacci-number.py) |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |  | [Python](./Easy/0543_diameter-of-binary-tree/diameter-of-binary-tree.py) |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy |  | [Python](./Easy/0557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
+| 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |  | [Python](./Easy/0572_subtree-of-another-tree/subtree-of-another-tree.py) |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |  | [Python](./Medium/0647_palindromic-substrings/palindromic-substrings.py) |
 | 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | Medium |  | [Python](./Medium/0667_beautiful-arrangement-ii/beautiful-arrangement-ii.py) |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy |  | [Python](./Easy/0696_count-binary-substrings/count-binary-substrings.py) |
