@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-162/2458-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-163/2458-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-52/1312-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-53/1312-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/543-red.svg" alt="">
 </p>
 
@@ -32,6 +32,7 @@
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium |  | [Python](./Medium/0043_multiply-strings/multiply-strings.py) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |  | [Python](./Medium/0050_powx-n/powx-n.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
+| 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |  | [Python](./Medium/0057_insert-interval/insert-interval.py) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |  | [Python](./Easy/0058_length-of-last-word/length-of-last-word.py) |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard |  | [Python](./Hard/0060_permutation-sequence/permutation-sequence.py) |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |  | [Python](./Medium/0062_unique-paths/unique-paths.py) |
