@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-163/2458-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-164/2459-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-53/1312-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-16/543-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-54/1312-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-16/544-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -102,6 +102,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy |  | [Python](./Easy/0485_max-consecutive-ones/max-consecutive-ones.py) |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy |  | [Python](./Easy/0504_base-7/base-7.py) |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy |  | [Python](./Easy/0509_fibonacci-number/fibonacci-number.py) |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium |  | [Python](./Medium/0542_01-matrix/01-matrix.py) |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |  | [Python](./Easy/0543_diameter-of-binary-tree/diameter-of-binary-tree.py) |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy |  | [Python](./Easy/0557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |  | [Python](./Easy/0572_subtree-of-another-tree/subtree-of-another-tree.py) |
