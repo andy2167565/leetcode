@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-166/2459-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-167/2459-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-56/1312-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-57/1312-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/544-red.svg" alt="">
 </p>
 
@@ -51,6 +51,7 @@
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |  | [Python](./Easy/0094_binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |  | [Python](./Easy/0100_same-tree/same-tree.py) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |  | [Python](./Easy/0101_symmetric-tree/symmetric-tree.py) |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium |  | [Python](./Medium/0102_binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |  | [Python](./Easy/0104_maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium |  | [Python](./Medium/0107_binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy |  | [Python](./Easy/0108_convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.py) |
