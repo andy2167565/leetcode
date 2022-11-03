@@ -1,15 +1,16 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-165/2459-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-166/2459-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-55/1312-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-56/1312-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/544-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
 |:-:|:-----:|:----------:|:-------:|:--------:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |  | [Python](./Easy/0001_two-sum/two-sum.py) [JavaScript](./Easy/0001_two-sum/two-sum.js) |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |  | [Python](./Medium/0003_longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |  | [Python](./Medium/0005_longest-palindromic-substring/longest-palindromic-substring.py) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium |  | [Python](./Medium/0007_reverse-integer/reverse-integer.py) [JavaScript](./Medium/0007_reverse-integer/reverse-integer.js) |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium |  | [Python](./Medium/0008_string-to-integer-atoi/string-to-integer-atoi.py) |
