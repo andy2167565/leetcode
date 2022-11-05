@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-168/2459-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-169/2459-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-58/1312-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-59/1312-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/544-red.svg" alt="">
 </p>
 
@@ -65,6 +65,7 @@
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium |  | [Python](./Medium/0133_clone-graph/clone-graph.py) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy |  | [Python](./Easy/0136_single-number/single-number.py) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |  | [Python](./Easy/0141_linked-list-cycle/linked-list-cycle.py) |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  | [Python](./Medium/0150_evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium |  | [Python](./Medium/0152_maximum-product-subarray/maximum-product-subarray.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |  | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy |  | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
