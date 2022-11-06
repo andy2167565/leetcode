@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-169/2459-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-94/603-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-59/1312-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-16/544-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-170/2463-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-95/604-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-59/1314-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-16/545-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -178,3 +178,4 @@
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium |  | [Python](./Medium/2452_words-within-two-edits-of-dictionary/words-within-two-edits-of-dictionary.py) |
 | 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | Medium |  | [Python](./Medium/2453_destroy-sequential-targets/destroy-sequential-targets.py) |
 | 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | Hard |  | [Python](./Hard/2454_next-greater-element-iv/next-greater-element-iv.py) |
+| 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy |  | [Python](./Easy/2460_apply-operations-to-an-array/apply-operations-to-an-array.py) |
