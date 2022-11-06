@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-171/2463-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-172/2463-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-95/604-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-60/1314-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-61/1314-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-16/545-red.svg" alt="">
 </p>
 
@@ -180,3 +180,4 @@
 | 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | Hard |  | [Python](./Hard/2454_next-greater-element-iv/next-greater-element-iv.py) |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy |  | [Python](./Easy/2460_apply-operations-to-an-array/apply-operations-to-an-array.py) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |  | [Python](./Medium/2461_maximum-sum-of-distinct-subarrays-with-length-k/maximum-sum-of-distinct-subarrays-with-length-k.py) |
+| 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Medium |  | [Python](./Medium/2462_total-cost-to-hire-k-workers/total-cost-to-hire-k-workers.py) |
