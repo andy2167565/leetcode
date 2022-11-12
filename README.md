@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-179/2464-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-95/604-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-67/1315-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/545-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-180/2468-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-96/605-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-67/1317-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/546-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -188,3 +188,4 @@
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |  | [Python](./Medium/2461_maximum-sum-of-distinct-subarrays-with-length-k/maximum-sum-of-distinct-subarrays-with-length-k.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Medium |  | [Python](./Medium/2462_total-cost-to-hire-k-workers/total-cost-to-hire-k-workers.py) |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard |  | [Python](./Hard/2463_minimum-total-distance-traveled/minimum-total-distance-traveled.py) |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | Easy |  | [Python](./Easy/2465_number-of-distinct-averages/number-of-distinct-averages.py) |
