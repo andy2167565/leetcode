@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-178/2464-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-179/2464-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-95/604-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-66/1315-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-67/1315-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/545-red.svg" alt="">
 </p>
 
@@ -49,6 +49,7 @@
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy |  | [Python](./Easy/0088_merge-sorted-array/merge-sorted-array.py) |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium |  | [Python](./Medium/0091_decode-ways/decode-ways.py) |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |  | [Python](./Easy/0094_binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |  | [Python](./Medium/0098_validate-binary-search-tree/validate-binary-search-tree.py) |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |  | [Python](./Easy/0100_same-tree/same-tree.py) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |  | [Python](./Easy/0101_symmetric-tree/symmetric-tree.py) |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium |  | [Python](./Medium/0102_binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) |
