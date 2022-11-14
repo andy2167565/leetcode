@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-181/2468-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-96/605-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-68/1317-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/546-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-182/2472-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-96/606-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-69/1319-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/547-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -76,6 +76,7 @@
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium |  | [Python](./Medium/0189_rotate-array/rotate-array.py) |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy |  | [Python](./Easy/0190_reverse-bits/reverse-bits.py) |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy |  | [Python](./Easy/0191_number-of-1-bits/number-of-1-bits.py) |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium |  | [Python](./Medium/0200_number-of-islands/number-of-islands.py) |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium |  | [Python](./Medium/0204_count-primes/count-primes.py) |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |  | [Python](./Easy/0206_reverse-linked-list/reverse-linked-list.py) |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium |  | [Python](./Medium/0207_course-schedule/course-schedule.py) |
