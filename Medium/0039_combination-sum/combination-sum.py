@@ -2,7 +2,7 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
 #======== <Solution 1> ========#
         # Reference: https://leetcode.com/problems/combination-sum/discuss/937255/Python-3-or-DFSBacktracking-and-Two-DP-methods-or-Explanations
-        dp = [[[]]] + [[] for _ in range(target)]
+        dp = [[[]]] + [[] for _ in range(target)]  # dp[i]: List of combinations that sum to i
         for num in candidates:
             for i in range(num, target + 1):
                 dp[i] += [sub + [num] for sub in dp[i - num]]
