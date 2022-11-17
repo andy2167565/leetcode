@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-184/2472-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-185/2473-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-96/606-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-71/1319-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-72/1320-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/547-red.svg" alt="">
 </p>
 
@@ -32,6 +32,7 @@
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium |  | [Python](./Medium/0040_combination-sum-ii/combination-sum-ii.py) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |  | [Python](./Hard/0041_first-missing-positive/first-missing-positive.py) |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium |  | [Python](./Medium/0043_multiply-strings/multiply-strings.py) |
+| 0046 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |  | [Python](./Medium/0046_permutations/permutations.py) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |  | [Python](./Medium/0050_powx-n/powx-n.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |  | [Python](./Medium/0057_insert-interval/insert-interval.py) |
