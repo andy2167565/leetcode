@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-186/2473-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-187/2474-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-96/606-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-73/1320-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-74/1321-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/547-red.svg" alt="">
 </p>
 
@@ -93,6 +93,7 @@
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |  | [Python](./Easy/0232_implement-queue-using-stacks/implement-queue-using-stacks.py) |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy |  | [Python](./Easy/0234_palindrome-linked-list/palindrome-linked-list.py) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium |  | [Python](./Medium/0235_lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium |  | [Python](./Medium/0236_lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |  | [Python](./Medium/0238_product-of-array-except-self/product-of-array-except-self.py) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |  | [Python](./Easy/0242_valid-anagram/valid-anagram.py) |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy |  | [Python](./Easy/0263_ugly-number/ugly-number.py) |
