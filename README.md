@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-187/2474-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-96/606-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-74/1321-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/547-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-188/2478-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-97/607-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-74/1322-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/549-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -196,3 +196,4 @@
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard |  | [Python](./Hard/2463_minimum-total-distance-traveled/minimum-total-distance-traveled.py) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | Easy |  | [Python](./Easy/2465_number-of-distinct-averages/number-of-distinct-averages.py) |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium |  | [Python](./Medium/2466_count-ways-to-build-good-strings/count-ways-to-build-good-strings.py) |
+| 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | Easy |  | [Python](./Easy/2475_number-of-unequal-triplets-in-array/number-of-unequal-triplets-in-array.py) |
