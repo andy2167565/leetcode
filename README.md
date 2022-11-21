@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-189/2478-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-190/2478-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-97/607-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-75/1322-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-76/1322-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/549-red.svg" alt="">
 </p>
 
@@ -140,6 +140,7 @@
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | [Python](./Medium/0973_k-closest-points-to-origin/k-closest-points-to-origin.py) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |  | [Python](./Easy/0977_squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
+| 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
