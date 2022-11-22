@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-190/2478-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-191/2478-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-97/607-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-76/1322-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-77/1322-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/549-red.svg" alt="">
 </p>
 
@@ -125,6 +125,7 @@
 | 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | Medium |  | [Python](./Medium/0667_beautiful-arrangement-ii/beautiful-arrangement-ii.py) |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy |  | [Python](./Easy/0696_count-binary-substrings/count-binary-substrings.py) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy |  | [Python](./Easy/0704_binary-search/binary-search.py) |
+| 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | Medium |  | [Python](./Medium/0721_accounts-merge/accounts-merge.py) |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy |  | [Python](./Easy/0733_flood-fill/flood-fill.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
