@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-195/2480-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-98/608-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-80/1322-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/550-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-196/2488-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-99/610-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-80/1326-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/552-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -204,3 +204,4 @@
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium |  | [Python](./Medium/2466_count-ways-to-build-good-strings/count-ways-to-build-good-strings.py) |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | Easy |  | [Python](./Easy/2475_number-of-unequal-triplets-in-array/number-of-unequal-triplets-in-array.py) |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | Medium |  | [Python](./Medium/2476_closest-nodes-queries-in-a-binary-search-tree/closest-nodes-queries-in-a-binary-search-tree.py) |
+| 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy |  | [Python](./Easy/2481_minimum-cuts-to-divide-a-circle/minimum-cuts-to-divide-a-circle.py) |
