@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-197/2488-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-198/2488-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-99/610-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-81/1326-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-82/1326-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/552-red.svg" alt="">
 </p>
 
@@ -206,3 +206,4 @@
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | Medium |  | [Python](./Medium/2476_closest-nodes-queries-in-a-binary-search-tree/closest-nodes-queries-in-a-binary-search-tree.py) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy |  | [Python](./Easy/2481_minimum-cuts-to-divide-a-circle/minimum-cuts-to-divide-a-circle.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium |  | [Python](./Medium/2482_difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py) |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium |  | [Python](./Medium/2483_minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.py) |
