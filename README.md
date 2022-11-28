@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-198/2488-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-199/2488-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-99/610-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-82/1326-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-83/1326-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/552-red.svg" alt="">
 </p>
 
@@ -35,6 +35,7 @@
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |  | [Python](./Medium/0046_permutations/permutations.py) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |  | [Python](./Medium/0050_powx-n/powx-n.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |  | [Python](./Medium/0054_spiral-matrix/spiral-matrix.py) |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |  | [Python](./Medium/0056_merge-intervals/merge-intervals.py) |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |  | [Python](./Medium/0057_insert-interval/insert-interval.py) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |  | [Python](./Easy/0058_length-of-last-word/length-of-last-word.py) |
