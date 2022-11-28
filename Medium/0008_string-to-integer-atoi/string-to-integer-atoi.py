@@ -13,5 +13,6 @@ class Solution:
         return max(-2**31, min(2**31 - 1, sign * num))
 
 #======== <Solution 2> ========#
+        import re
         num = re.search(r"^[-+]?\d+", s.lstrip())
         return max(min(int(num.group(0)), 2**31-1), -2**31) if num else 0
