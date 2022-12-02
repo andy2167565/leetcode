@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-204/2489-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-205/2489-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-99/610-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-88/1327-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-89/1327-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/552-red.svg" alt="">
 </p>
 
@@ -53,6 +53,7 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |  | [Python](./Easy/0070_climbing-stairs/climbing-stairs.py) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |  | [Python](./Medium/0075_sort-colors/sort-colors.py) |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | [Python](./Medium/0078_subsets/subsets.py) |
+| 0079 | [Word Search](https://leetcode.com/problems/word-search/) | Medium |  | [Python](./Medium/0079_word-search/word-search.py) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy |  | [Python](./Easy/0083_remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy |  | [Python](./Easy/0088_merge-sorted-array/merge-sorted-array.py) |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium |  | [Python](./Medium/0091_decode-ways/decode-ways.py) |
