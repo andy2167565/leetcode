@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-208/2493-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-209/2493-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-100/611-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-91/1329-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-92/1329-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/553-red.svg" alt="">
 </p>
 
@@ -217,3 +217,4 @@
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium |  | [Python](./Medium/2483_minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.py) |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy |  | [Python](./Easy/2490_circular-sentence/circular-sentence.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium |  | [Python](./Medium/2491_divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.py) |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium |  | [Python](./Medium/2492_minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.py) |
