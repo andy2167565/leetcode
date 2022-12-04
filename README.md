@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-206/2489-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-99/610-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-90/1327-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/552-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-207/2493-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-100/611-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-90/1329-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/553-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -215,3 +215,4 @@
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy |  | [Python](./Easy/2481_minimum-cuts-to-divide-a-circle/minimum-cuts-to-divide-a-circle.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium |  | [Python](./Medium/2482_difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py) |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium |  | [Python](./Medium/2483_minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.py) |
+| 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy |  | [Python](./Easy/2490_circular-sentence/circular-sentence.py) |
