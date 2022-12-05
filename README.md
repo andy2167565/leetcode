@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-209/2493-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-210/2494-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-100/611-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-92/1329-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/553-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-93/1329-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/554-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -111,6 +111,7 @@
 | 0273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard |  | [Python](./Hard/0273_integer-to-english-words/integer-to-english-words.py) |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |  | [Python](./Easy/0278_first-bad-version/first-bad-version.py) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |  | [Python](./Easy/0283_move-zeroes/move-zeroes.py) |
+| 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium |  | [Python](./Medium/0310_minimum-height-trees/minimum-height-trees.py) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | [Python](./Medium/0322_coin-change/coin-change.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy |  | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy |  | [Python](./Easy/0338_counting-bits/counting-bits.py) |
