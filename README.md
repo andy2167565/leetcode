@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-212/2495-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-213/2495-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-100/611-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-95/1330-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-96/1330-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/554-red.svg" alt="">
 </p>
 
@@ -99,6 +99,7 @@
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | [Python](./Easy/0226_invert-binary-tree/invert-binary-tree.py) |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy |  | [Python](./Easy/0228_summary-ranges/summary-ranges.py) |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium |  | [Python](./Medium/0229_majority-element-ii/majority-element-ii.py) |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |  | [Python](./Medium/0230_kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py) |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy |  | [Python](./Easy/0231_power-of-two/power-of-two.py) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |  | [Python](./Easy/0232_implement-queue-using-stacks/implement-queue-using-stacks.py) |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy |  | [Python](./Easy/0234_palindrome-linked-list/palindrome-linked-list.py) |
