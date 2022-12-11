@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-215/2495-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-100/611-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-98/1330-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/554-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-216/2503-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-101/613-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-98/1334-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -224,3 +224,4 @@
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy |  | [Python](./Easy/2490_circular-sentence/circular-sentence.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium |  | [Python](./Medium/2491_divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.py) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium |  | [Python](./Medium/2492_minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.py) |
+| 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | Easy |  | [Python](./Easy/2496_maximum-value-of-a-string-in-an-array/maximum-value-of-a-string-in-an-array.py) |
