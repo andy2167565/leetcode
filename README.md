@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-217/2503-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-218/2503-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-101/613-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-99/1334-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-100/1334-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
@@ -226,3 +226,4 @@
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium |  | [Python](./Medium/2492_minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.py) |
 | 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | Easy |  | [Python](./Easy/2496_maximum-value-of-a-string-in-an-array/maximum-value-of-a-string-in-an-array.py) |
 | 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | Medium |  | [Python](./Medium/2497_maximum-star-sum-of-a-graph/maximum-star-sum-of-a-graph.py) |
+| 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | Medium |  | [Python](./Medium/2498_frog-jump-ii/frog-jump-ii.py) |
