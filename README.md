@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-218/2503-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-101/613-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-100/1334-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-219/2504-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-101/614-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-101/1334-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
@@ -74,6 +74,7 @@
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |  | [Python](./Easy/0125_valid-palindrome/valid-palindrome.py) |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium |  | [Python](./Medium/0133_clone-graph/clone-graph.py) |
+| 0134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium |  | [Python](./Medium/0134_gas-station/gas-station.py) |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy |  | [Python](./Easy/0136_single-number/single-number.py) |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium |  | [Python](./Medium/0139_word-break/word-break.py) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |  | [Python](./Easy/0141_linked-list-cycle/linked-list-cycle.py) |
