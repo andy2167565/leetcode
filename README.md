@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-219/2504-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-220/2504-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-101/614-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-101/1334-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-102/1334-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
@@ -27,6 +27,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |  | [Python](./Easy/0026_remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |  | [Python](./Easy/0027_remove-element/remove-element.py) |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Medium |  | [Python](./Medium/0028_find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.py) |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium |  | [Python](./Medium/0031_next-permutation/next-permutation.py) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  | [Python](./Medium/0033_search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy |  | [Python](./Easy/0035_search-insert-position/search-insert-position.py) |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium |  | [Python](./Medium/0038_count-and-say/count-and-say.py) |
