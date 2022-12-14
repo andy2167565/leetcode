@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-220/2504-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-221/2504-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-101/614-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-102/1334-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-103/1334-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
@@ -30,6 +30,7 @@
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium |  | [Python](./Medium/0031_next-permutation/next-permutation.py) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  | [Python](./Medium/0033_search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy |  | [Python](./Easy/0035_search-insert-position/search-insert-position.py) |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |  | [Python](./Medium/0036_valid-sudoku/valid-sudoku.py) |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium |  | [Python](./Medium/0038_count-and-say/count-and-say.py) |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |  | [Python](./Medium/0039_combination-sum/combination-sum.py) |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium |  | [Python](./Medium/0040_combination-sum-ii/combination-sum-ii.py) |
