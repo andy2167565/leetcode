@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-221/2504-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-222/2505-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-101/614-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-103/1334-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-104/1335-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
@@ -37,6 +37,7 @@
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |  | [Python](./Hard/0041_first-missing-positive/first-missing-positive.py) |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium |  | [Python](./Medium/0043_multiply-strings/multiply-strings.py) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |  | [Python](./Medium/0046_permutations/permutations.py) |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |  | [Python](./Medium/0049_group-anagrams/group-anagrams.py) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |  | [Python](./Medium/0050_powx-n/powx-n.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |  | [Python](./Medium/0054_spiral-matrix/spiral-matrix.py) |
