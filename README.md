@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-222/2505-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-223/2505-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-101/614-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-104/1335-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-105/1335-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
 </p>
 
@@ -99,6 +99,7 @@
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |  | [Python](./Easy/0206_reverse-linked-list/reverse-linked-list.py) |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium |  | [Python](./Medium/0207_course-schedule/course-schedule.py) |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium |  | [Python](./Medium/0208_implement-trie-prefix-tree/implement-trie-prefix-tree.py) |
+| 0211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium |  | [Python](./Medium/0211_design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.py) |
 | 0214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard |  | [Python](./Hard/0214_shortest-palindrome/shortest-palindrome.py) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |  | [Python](./Easy/0217_contains-duplicate/contains-duplicate.py) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | [Python](./Easy/0226_invert-binary-tree/invert-binary-tree.py) |
