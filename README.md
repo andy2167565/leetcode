@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-224/2505-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-101/614-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-106/1335-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/556-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-225/2509-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-102/615-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-106/1336-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/558-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -233,3 +233,4 @@
 | 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | Easy |  | [Python](./Easy/2496_maximum-value-of-a-string-in-an-array/maximum-value-of-a-string-in-an-array.py) |
 | 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | Medium |  | [Python](./Medium/2497_maximum-star-sum-of-a-graph/maximum-star-sum-of-a-graph.py) |
 | 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | Medium |  | [Python](./Medium/2498_frog-jump-ii/frog-jump-ii.py) |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | Easy |  | [Python](./Easy/2506_count-pairs-of-similar-strings/count-pairs-of-similar-strings.py) |
