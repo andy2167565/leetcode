@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-227/2509-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-228/2509-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-102/615-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-108/1336-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-109/1336-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/558-red.svg" alt="">
 </p>
 
@@ -188,6 +188,7 @@
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | Medium |  | [Python](./Medium/1638_count-substrings-that-differ-by-one-character/count-substrings-that-differ-by-one-character.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
+| 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | V | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium |  | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
