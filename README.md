@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-228/2509-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-229/2509-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-102/615-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-109/1336-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-110/1336-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/558-red.svg" alt="">
 </p>
 
@@ -120,6 +120,7 @@
 | 0273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard |  | [Python](./Hard/0273_integer-to-english-words/integer-to-english-words.py) |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |  | [Python](./Easy/0278_first-bad-version/first-bad-version.py) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |  | [Python](./Easy/0283_move-zeroes/move-zeroes.py) |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |  | [Python](./Medium/0287_find-the-duplicate-number/find-the-duplicate-number.py) |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium |  | [Python](./Medium/0310_minimum-height-trees/minimum-height-trees.py) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | [Python](./Medium/0322_coin-change/coin-change.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy |  | [Python](./Easy/0326_power-of-three/power-of-three.py) |
