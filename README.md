@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-230/2510-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-231/2510-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-102/615-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-111/1337-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-112/1337-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/558-red.svg" alt="">
 </p>
 
@@ -121,6 +121,7 @@
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |  | [Python](./Easy/0278_first-bad-version/first-bad-version.py) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |  | [Python](./Easy/0283_move-zeroes/move-zeroes.py) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |  | [Python](./Medium/0287_find-the-duplicate-number/find-the-duplicate-number.py) |
+| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium |  | [Python](./Medium/0300_longest-increasing-subsequence/longest-increasing-subsequence.py) |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium |  | [Python](./Medium/0310_minimum-height-trees/minimum-height-trees.py) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | [Python](./Medium/0322_coin-change/coin-change.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy |  | [Python](./Easy/0326_power-of-three/power-of-three.py) |
