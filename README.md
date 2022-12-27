@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-235/2518-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-236/2518-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-103/617-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-115/1341-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-116/1341-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/560-red.svg" alt="">
 </p>
 
@@ -25,6 +25,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |  | [Python](./Easy/0020_valid-parentheses/valid-parentheses.py) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |  | [Python](./Easy/0021_merge-two-sorted-lists/merge-two-sorted-lists.py) |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |  | [Python](./Medium/0022_generate-parentheses/generate-parentheses.py) |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium |  | [Python](./Medium/0024_swap-nodes-in-pairs/swap-nodes-in-pairs.py) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |  | [Python](./Easy/0026_remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |  | [Python](./Easy/0027_remove-element/remove-element.py) |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Medium |  | [Python](./Medium/0028_find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.py) |
