@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-236/2518-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-237/2519-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-103/617-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-116/1341-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/560-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-117/1341-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/561-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -74,6 +74,7 @@
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy |  | [Python](./Easy/0110_balanced-binary-tree/balanced-binary-tree.py) |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy |  | [Python](./Easy/0111_minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy |  | [Python](./Easy/0112_path-sum/path-sum.py) |
+| 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium |  | [Python](./Medium/0113_path-sum-ii/path-sum-ii.py) |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy |  | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy |  | [Python](./Easy/0119_pascals-triangle-ii/pascals-triangle-ii.py) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
