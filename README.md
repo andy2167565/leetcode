@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-239/2519-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-240/2519-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-103/617-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-119/1341-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-120/1341-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/561-red.svg" alt="">
 </p>
 
@@ -136,6 +136,7 @@
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium |  | [Python](./Medium/0343_integer-break/integer-break.py) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |  | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy |  | [Python](./Easy/0383_ransom-note/ransom-note.py) |
+| 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium |  | [Python](./Medium/0394_decode-string/decode-string.py) |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy |  | [Python](./Easy/0401_binary-watch/binary-watch.py) |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy |  | [Python](./Easy/0409_longest-palindrome/longest-palindrome.py) |
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium |  | [Python](./Medium/0416_partition-equal-subset-sum/partition-equal-subset-sum.py) |
