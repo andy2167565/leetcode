@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-243/2523-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-244/2523-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-104/618-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-122/1344-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-123/1344-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/561-red.svg" alt="">
 </p>
 
@@ -252,3 +252,4 @@
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Easy |  | [Python](./Easy/2520_count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.py) |
 | 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | Medium |  | [Python](./Medium/2521_distinct-prime-factors-of-product-of-array/distinct-prime-factors-of-product-of-array.py) |
 | 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | Medium |  | [Python](./Medium/2522_partition-string-into-substrings-with-values-at-most-k/partition-string-into-substrings-with-values-at-most-k.py) |
+| 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium |  | [Python](./Medium/2523_closest-prime-numbers-in-range/closest-prime-numbers-in-range.py) |
