@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-240/2519-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-103/617-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-120/1341-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-241/2523-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-104/618-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-120/1344-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/561-red.svg" alt="">
 </p>
 
@@ -249,3 +249,4 @@
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |  | [Python](./Medium/2507_smallest-value-after-replacing-with-sum-of-prime-factors/smallest-value-after-replacing-with-sum-of-prime-factors.py) |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | Easy |  | [Python](./Easy/2511_maximum-enemy-forts-that-can-be-captured/maximum-enemy-forts-that-can-be-captured.py) |
 | 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | Medium |  | [Python](./Medium/2512_reward-top-k-students/reward-top-k-students.py) |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Easy |  | [Python](./Easy/2520_count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.py) |
