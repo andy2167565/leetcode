@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-245/2523-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-246/2523-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-104/618-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-124/1344-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-125/1344-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/561-red.svg" alt="">
 </p>
 
@@ -156,6 +156,7 @@
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |  | [Python](./Easy/0572_subtree-of-another-tree/subtree-of-another-tree.py) |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium |  | [Python](./Medium/0621_task-scheduler/task-scheduler.py) |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |  | [Python](./Medium/0647_palindromic-substrings/palindromic-substrings.py) |
+| 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium |  | [Python](./Medium/0662_maximum-width-of-binary-tree/maximum-width-of-binary-tree.py) |
 | 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | Medium |  | [Python](./Medium/0667_beautiful-arrangement-ii/beautiful-arrangement-ii.py) |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium |  | [Python](./Medium/0692_top-k-frequent-words/top-k-frequent-words.py) |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy |  | [Python](./Easy/0696_count-binary-substrings/count-binary-substrings.py) |
