@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-247/2524-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-248/2524-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-104/618-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-126/1344-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-127/1344-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/562-red.svg" alt="">
 </p>
 
@@ -141,6 +141,7 @@
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy |  | [Python](./Easy/0409_longest-palindrome/longest-palindrome.py) |
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium |  | [Python](./Medium/0416_partition-equal-subset-sum/partition-equal-subset-sum.py) |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium |  | [Python](./Medium/0417_pacific-atlantic-water-flow/pacific-atlantic-water-flow.py) |
+| 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |  | [Python](./Medium/0424_longest-repeating-character-replacement/longest-repeating-character-replacement.py) |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |  | [Python](./Medium/0438_find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.py) |
 | 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium |  | [Python](./Medium/0442_find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.py) |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy |  | [Python](./Easy/0448_find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py) |
