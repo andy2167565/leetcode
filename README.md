@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-249/2524-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-250/2524-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-104/618-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-128/1344-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-129/1344-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/562-red.svg" alt="">
 </p>
 
@@ -43,6 +43,7 @@
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |  | [Python](./Medium/0050_powx-n/powx-n.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |  | [Python](./Medium/0054_spiral-matrix/spiral-matrix.py) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |  | [Python](./Medium/0055_jump-game/jump-game.py) |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |  | [Python](./Medium/0056_merge-intervals/merge-intervals.py) |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |  | [Python](./Medium/0057_insert-interval/insert-interval.py) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |  | [Python](./Easy/0058_length-of-last-word/length-of-last-word.py) |
