@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-251/2532-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-252/2532-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-105/620-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-129/1348-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-130/1348-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/564-red.svg" alt="">
 </p>
 
@@ -260,3 +260,4 @@
 | 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | Medium |  | [Python](./Medium/2522_partition-string-into-substrings-with-values-at-most-k/partition-string-into-substrings-with-values-at-most-k.py) |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium |  | [Python](./Medium/2523_closest-prime-numbers-in-range/closest-prime-numbers-in-range.py) |
 | 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | Easy |  | [Python](./Easy/2525_categorize-box-according-to-criteria/categorize-box-according-to-criteria.py) |
+| 2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | Medium |  | [Python](./Medium/2526_find-consecutive-integers-from-a-data-stream/find-consecutive-integers-from-a-data-stream.py) |
