@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-254/2532-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-255/2532-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-105/620-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-132/1348-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-133/1348-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/564-red.svg" alt="">
 </p>
 
@@ -88,6 +88,7 @@
 | 0139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium |  | [Python](./Medium/0139_word-break/word-break.py) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |  | [Python](./Easy/0141_linked-list-cycle/linked-list-cycle.py) |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |  | [Python](./Medium/0146_lru-cache/lru-cache.py) |
+| 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium |  | [Python](./Medium/0148_sort-list/sort-list.py) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  | [Python](./Medium/0150_evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium |  | [Python](./Medium/0152_maximum-product-subarray/maximum-product-subarray.py) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium |  | [Python](./Medium/0155_min-stack/min-stack.py) |
