@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-255/2532-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-256/2532-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-105/620-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-133/1348-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-134/1348-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/564-red.svg" alt="">
 </p>
 
@@ -133,6 +133,7 @@
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium |  | [Python](./Medium/0300_longest-increasing-subsequence/longest-increasing-subsequence.py) |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium |  | [Python](./Medium/0310_minimum-height-trees/minimum-height-trees.py) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | [Python](./Medium/0322_coin-change/coin-change.py) |
+| 0323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | V | [Python](./Medium/0323_number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy |  | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium |  | [Python](./Medium/0328_odd-even-linked-list/odd-even-linked-list.py) |
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy |  | [Python](./Easy/0338_counting-bits/counting-bits.py) |
