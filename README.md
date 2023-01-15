@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-261/2538-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-262/2538-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-106/621-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-138/1351-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-139/1351-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/566-red.svg" alt="">
 </p>
 
@@ -140,6 +140,7 @@
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy |  | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium |  | [Python](./Medium/0343_integer-break/integer-break.py) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |  | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
+| 0370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | V | [Python](./Medium/0370_range-addition/range-addition.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy |  | [Python](./Easy/0383_ransom-note/ransom-note.py) |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium |  | [Python](./Medium/0394_decode-string/decode-string.py) |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy |  | [Python](./Easy/0401_binary-watch/binary-watch.py) |
