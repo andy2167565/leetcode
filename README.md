@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-262/2538-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-263/2538-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-106/621-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-139/1351-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-140/1351-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/566-red.svg" alt="">
 </p>
 
@@ -157,6 +157,7 @@
 | 0504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy |  | [Python](./Easy/0504_base-7/base-7.py) |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy |  | [Python](./Easy/0509_fibonacci-number/fibonacci-number.py) |
 | 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium |  | [Python](./Medium/0525_contiguous-array/contiguous-array.py) |
+| 0528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium |  | [Python](./Medium/0528_random-pick-with-weight/random-pick-with-weight.py) |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium |  | [Python](./Medium/0542_01-matrix/01-matrix.py) |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |  | [Python](./Easy/0543_diameter-of-binary-tree/diameter-of-binary-tree.py) |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy |  | [Python](./Easy/0557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
