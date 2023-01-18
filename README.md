@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-264/2538-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-265/2538-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-106/621-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-141/1351-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-142/1351-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/566-red.svg" alt="">
 </p>
 
@@ -111,6 +111,7 @@
 | 0214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard |  | [Python](./Hard/0214_shortest-palindrome/shortest-palindrome.py) |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |  | [Python](./Medium/0215_kth-largest-element-in-an-array/kth-largest-element-in-an-array.py) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |  | [Python](./Easy/0217_contains-duplicate/contains-duplicate.py) |
+| 0221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium |  | [Python](./Medium/0221_maximal-square/maximal-square.py) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | [Python](./Easy/0226_invert-binary-tree/invert-binary-tree.py) |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy |  | [Python](./Easy/0228_summary-ranges/summary-ranges.py) |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium |  | [Python](./Medium/0229_majority-element-ii/majority-element-ii.py) |
