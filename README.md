@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-266/2539-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-267/2539-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-106/621-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-143/1352-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-144/1352-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/566-red.svg" alt="">
 </p>
 
@@ -70,6 +70,7 @@
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |  | [Python](./Easy/0100_same-tree/same-tree.py) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |  | [Python](./Easy/0101_symmetric-tree/symmetric-tree.py) |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium |  | [Python](./Medium/0102_binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium |  | [Python](./Medium/0103_binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |  | [Python](./Easy/0104_maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |  | [Python](./Medium/0105_construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.py) |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium |  | [Python](./Medium/0107_binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py) |
