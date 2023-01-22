@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-269/2547-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-270/2547-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-107/623-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-145/1356-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-146/1356-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/568-red.svg" alt="">
 </p>
 
@@ -278,3 +278,4 @@
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |  | [Python](./Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.py) |
 | 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | Medium |  | [Python](./Medium/2536_increment-submatrices-by-one/increment-submatrices-by-one.py) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
+| 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | Medium |  | [Python](./Medium/2541_minimum-operations-to-make-array-equal-ii/minimum-operations-to-make-array-equal-ii.py) |
