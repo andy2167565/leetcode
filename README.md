@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-268/2539-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-106/621-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-145/1352-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/566-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-269/2547-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-107/623-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-145/1356-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-17/568-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -277,3 +277,4 @@
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | Medium |  | [Python](./Medium/2527_find-xor-beauty-of-array/find-xor-beauty-of-array.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |  | [Python](./Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.py) |
 | 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | Medium |  | [Python](./Medium/2536_increment-submatrices-by-one/increment-submatrices-by-one.py) |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
