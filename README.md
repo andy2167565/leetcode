@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-271/2547-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-272/2547-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-107/623-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-147/1356-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-148/1356-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/568-red.svg" alt="">
 </p>
 
@@ -59,6 +59,7 @@
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard |  | [Python](./Hard/0068_text-justification/text-justification.py) |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy |  | [Python](./Easy/0069_sqrtx/sqrtx.py) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |  | [Python](./Easy/0070_climbing-stairs/climbing-stairs.py) |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium |  | [Python](./Medium/0074_search-a-2d-matrix/search-a-2d-matrix.py) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |  | [Python](./Medium/0075_sort-colors/sort-colors.py) |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | [Python](./Medium/0078_subsets/subsets.py) |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/) | Medium |  | [Python](./Medium/0079_word-search/word-search.py) |
