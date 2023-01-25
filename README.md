@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-272/2547-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-273/2547-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-107/623-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-148/1356-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-149/1356-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/568-red.svg" alt="">
 </p>
 
@@ -99,6 +99,7 @@
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy |  | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |  | [Python](./Easy/0169_majority-element/majority-element.py) |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy |  | [Python](./Easy/0171_excel-sheet-column-number/excel-sheet-column-number.py) |
+| 0179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium |  | [Python](./Medium/0179_largest-number/largest-number.py) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium |  | [Python](./Medium/0189_rotate-array/rotate-array.py) |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy |  | [Python](./Easy/0190_reverse-bits/reverse-bits.py) |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy |  | [Python](./Easy/0191_number-of-1-bits/number-of-1-bits.py) |
