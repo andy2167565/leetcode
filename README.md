@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-275/2548-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-276/2548-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-107/623-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-151/1357-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-152/1357-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/568-red.svg" alt="">
 </p>
 
@@ -91,6 +91,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy |  | [Python](./Easy/0136_single-number/single-number.py) |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium |  | [Python](./Medium/0139_word-break/word-break.py) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |  | [Python](./Easy/0141_linked-list-cycle/linked-list-cycle.py) |
+| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |  | [Python](./Medium/0143_reorder-list/reorder-list.py) |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |  | [Python](./Medium/0146_lru-cache/lru-cache.py) |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium |  | [Python](./Medium/0148_sort-list/sort-list.py) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  | [Python](./Medium/0150_evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
