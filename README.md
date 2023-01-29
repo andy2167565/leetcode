@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-277/2552-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-278/2552-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-108/624-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-152/1358-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-153/1358-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/570-red.svg" alt="">
 </p>
 
@@ -286,3 +286,4 @@
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
 | 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | Medium |  | [Python](./Medium/2541_minimum-operations-to-make-array-equal-ii/minimum-operations-to-make-array-equal-ii.py) |
 | 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Easy |  | [Python](./Easy/2549_count-distinct-numbers-on-board/count-distinct-numbers-on-board.py) |
+| 2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | Medium |  | [Python](./Medium/2550_count-collisions-of-monkeys-on-a-polygon/count-collisions-of-monkeys-on-a-polygon.py) |
