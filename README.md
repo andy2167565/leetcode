@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-279/2552-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-280/2552-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-108/624-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-154/1358-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-155/1358-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/570-red.svg" alt="">
 </p>
 
@@ -189,6 +189,7 @@
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | [Python](./Medium/0739_daily-temperatures/daily-temperatures.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
+| 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |  | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
