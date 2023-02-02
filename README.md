@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-281/2552-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-282/2552-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-108/624-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-156/1358-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-157/1358-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/570-red.svg" alt="">
 </p>
 
@@ -21,6 +21,7 @@
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy |  | [Python](./Easy/0013_roman-to-integer/roman-to-integer.py) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |  | [Python](./Easy/0014_longest-common-prefix/longest-common-prefix.py) |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium |  | [Python](./Medium/0015_3sum/3sum.py) |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium |  | [Python](./Medium/0016_3sum-closest/3sum-closest.py) |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |  | [Python](./Medium/0017_letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  | [Python](./Medium/0019_remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |  | [Python](./Easy/0020_valid-parentheses/valid-parentheses.py) |
