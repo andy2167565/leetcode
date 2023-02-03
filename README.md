@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-282/2552-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-283/2552-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-108/624-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-157/1358-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-158/1358-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/570-red.svg" alt="">
 </p>
 
@@ -51,6 +51,7 @@
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |  | [Python](./Medium/0057_insert-interval/insert-interval.py) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |  | [Python](./Easy/0058_length-of-last-word/length-of-last-word.py) |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard |  | [Python](./Hard/0060_permutation-sequence/permutation-sequence.py) |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium |  | [Python](./Medium/0061_rotate-list/rotate-list.py) |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |  | [Python](./Medium/0062_unique-paths/unique-paths.py) |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium |  | [Python](./Medium/0063_unique-paths-ii/unique-paths-ii.py) |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium |  | [Python](./Medium/0064_minimum-path-sum/minimum-path-sum.py) |
