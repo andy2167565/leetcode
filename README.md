@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-283/2552-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-284/2552-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-108/624-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-158/1358-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-159/1358-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/570-red.svg" alt="">
 </p>
 
@@ -98,6 +98,7 @@
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium |  | [Python](./Medium/0148_sort-list/sort-list.py) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  | [Python](./Medium/0150_evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium |  | [Python](./Medium/0152_maximum-product-subarray/maximum-product-subarray.py) |
+| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium |  | [Python](./Medium/0153_find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py) |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium |  | [Python](./Medium/0155_min-stack/min-stack.py) |
 | 0167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |  | [Python](./Medium/0167_two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy |  | [Python](./Easy/0168_excel-sheet-column-title/excel-sheet-column-title.py) |
