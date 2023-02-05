@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-285/2561-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-286/2561-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-109/626-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-159/1364-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-160/1364-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/571-red.svg" alt="">
 </p>
 
@@ -294,3 +294,4 @@
 | 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Easy |  | [Python](./Easy/2549_count-distinct-numbers-on-board/count-distinct-numbers-on-board.py) |
 | 2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | Medium |  | [Python](./Medium/2550_count-collisions-of-monkeys-on-a-polygon/count-collisions-of-monkeys-on-a-polygon.py) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | Easy |  | [Python](./Easy/2553_separate-the-digits-in-an-array/separate-the-digits-in-an-array.py) |
+| 2554 | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |  | [Python](./Medium/2554_maximum-number-of-integers-to-choose-from-a-range-i/maximum-number-of-integers-to-choose-from-a-range-i.py) |
