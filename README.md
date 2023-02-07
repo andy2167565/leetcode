@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-287/2561-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-288/2561-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-109/626-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-161/1364-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-162/1364-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/571-red.svg" alt="">
 </p>
 
@@ -156,6 +156,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |  | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
 | 0362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | Medium | V | [Python](./Medium/0362_design-hit-counter/design-hit-counter.py) |
 | 0370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | V | [Python](./Medium/0370_range-addition/range-addition.py) |
+| 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium |  | [Python](./Medium/0377_combination-sum-iv/combination-sum-iv.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy |  | [Python](./Easy/0383_ransom-note/ransom-note.py) |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium |  | [Python](./Medium/0394_decode-string/decode-string.py) |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy |  | [Python](./Easy/0401_binary-watch/binary-watch.py) |
