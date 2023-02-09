@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-289/2561-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-290/2561-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-109/626-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-163/1364-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-164/1364-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-17/571-red.svg" alt="">
 </p>
 
@@ -165,6 +165,7 @@
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium |  | [Python](./Medium/0416_partition-equal-subset-sum/partition-equal-subset-sum.py) |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium |  | [Python](./Medium/0417_pacific-atlantic-water-flow/pacific-atlantic-water-flow.py) |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |  | [Python](./Medium/0424_longest-repeating-character-replacement/longest-repeating-character-replacement.py) |
+| 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium |  | [Python](./Medium/0435_non-overlapping-intervals/non-overlapping-intervals.py) |
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium |  | [Python](./Medium/0437_path-sum-iii/path-sum-iii.py) |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |  | [Python](./Medium/0438_find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.py) |
 | 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium |  | [Python](./Medium/0442_find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.py) |
