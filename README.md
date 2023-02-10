@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-290/2561-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-291/2561-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-109/626-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-164/1364-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-17/571-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-18/571-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -64,6 +64,7 @@
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium |  | [Python](./Medium/0073_set-matrix-zeroes/set-matrix-zeroes.py) |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium |  | [Python](./Medium/0074_search-a-2d-matrix/search-a-2d-matrix.py) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |  | [Python](./Medium/0075_sort-colors/sort-colors.py) |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard |  | [Python](./Hard/0076_minimum-window-substring/minimum-window-substring.py) |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | [Python](./Medium/0078_subsets/subsets.py) |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/) | Medium |  | [Python](./Medium/0079_word-search/word-search.py) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy |  | [Python](./Easy/0083_remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
