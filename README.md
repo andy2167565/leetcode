@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-291/2561-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-292/2561-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-109/626-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-164/1364-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-18/571-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-19/571-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -145,6 +145,7 @@
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |  | [Python](./Easy/0283_move-zeroes/move-zeroes.py) |
 | 0285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | V | [Python](./Medium/0285_inorder-successor-in-bst/inorder-successor-in-bst.py) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |  | [Python](./Medium/0287_find-the-duplicate-number/find-the-duplicate-number.py) |
+| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard |  | [Python](./Hard/0297_serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.py) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium |  | [Python](./Medium/0300_longest-increasing-subsequence/longest-increasing-subsequence.py) |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium |  | [Python](./Medium/0310_minimum-height-trees/minimum-height-trees.py) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | [Python](./Medium/0322_coin-change/coin-change.py) |
