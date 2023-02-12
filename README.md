@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-293/2565-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-294/2565-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-110/627-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-164/1366-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-165/1366-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-19/572-red.svg" alt="">
 </p>
 
@@ -302,3 +302,4 @@
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | Easy |  | [Python](./Easy/2553_separate-the-digits-in-an-array/separate-the-digits-in-an-array.py) |
 | 2554 | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |  | [Python](./Medium/2554_maximum-number-of-integers-to-choose-from-a-range-i/maximum-number-of-integers-to-choose-from-a-range-i.py) |
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | Easy |  | [Python](./Easy/2562_find-the-array-concatenation-value/find-the-array-concatenation-value.py) |
+| 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium |  | [Python](./Medium/2563_count-the-number-of-fair-pairs/count-the-number-of-fair-pairs.py) |
