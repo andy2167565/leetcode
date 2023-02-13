@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-294/2565-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-295/2565-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-110/627-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-165/1366-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-19/572-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-20/572-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -39,6 +39,7 @@
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |  | [Python](./Medium/0039_combination-sum/combination-sum.py) |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium |  | [Python](./Medium/0040_combination-sum-ii/combination-sum-ii.py) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |  | [Python](./Hard/0041_first-missing-positive/first-missing-positive.py) |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard |  | [Python](./Hard/0042_trapping-rain-water/trapping-rain-water.py) |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium |  | [Python](./Medium/0043_multiply-strings/multiply-strings.py) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |  | [Python](./Medium/0046_permutations/permutations.py) |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium |  | [Python](./Medium/0048_rotate-image/rotate-image.py) |
