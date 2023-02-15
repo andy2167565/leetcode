@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-296/2565-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-297/2565-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-110/627-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-165/1366-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-21/572-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-22/572-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -89,6 +89,7 @@
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy |  | [Python](./Easy/0119_pascals-triangle-ii/pascals-triangle-ii.py) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |  | [Python](./Easy/0125_valid-palindrome/valid-palindrome.py) |
+| 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard |  | [Python](./Hard/0127_word-ladder/word-ladder.py) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |  | [Python](./Medium/0128_longest-consecutive-sequence/longest-consecutive-sequence.py) |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium |  | [Python](./Medium/0133_clone-graph/clone-graph.py) |
 | 0134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium |  | [Python](./Medium/0134_gas-station/gas-station.py) |
