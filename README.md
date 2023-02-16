@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-297/2565-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-298/2565-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-110/627-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-165/1366-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-22/572-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-23/572-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -124,6 +124,7 @@
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |  | [Python](./Medium/0215_kth-largest-element-in-an-array/kth-largest-element-in-an-array.py) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |  | [Python](./Easy/0217_contains-duplicate/contains-duplicate.py) |
 | 0221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium |  | [Python](./Medium/0221_maximal-square/maximal-square.py) |
+| 0224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard |  | [Python](./Hard/0224_basic-calculator/basic-calculator.py) |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | [Python](./Easy/0226_invert-binary-tree/invert-binary-tree.py) |
 | 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium |  | [Python](./Medium/0227_basic-calculator-ii/basic-calculator-ii.py) |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy |  | [Python](./Easy/0228_summary-ranges/summary-ranges.py) |
