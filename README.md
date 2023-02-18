@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-299/2565-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-300/2565-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-110/627-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-165/1366-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-24/572-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-25/572-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -27,6 +27,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |  | [Python](./Easy/0020_valid-parentheses/valid-parentheses.py) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |  | [Python](./Easy/0021_merge-two-sorted-lists/merge-two-sorted-lists.py) |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |  | [Python](./Medium/0022_generate-parentheses/generate-parentheses.py) |
+| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |  | [Python](./Hard/0023_merge-k-sorted-lists/merge-k-sorted-lists.py) |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium |  | [Python](./Medium/0024_swap-nodes-in-pairs/swap-nodes-in-pairs.py) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |  | [Python](./Easy/0026_remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |  | [Python](./Easy/0027_remove-element/remove-element.py) |
