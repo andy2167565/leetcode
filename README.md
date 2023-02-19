@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-301/2573-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-302/2573-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-111/630-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-165/1369-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-166/1369-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-25/574-red.svg" alt="">
 </p>
 
@@ -310,3 +310,4 @@
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | Easy |  | [Python](./Easy/2562_find-the-array-concatenation-value/find-the-array-concatenation-value.py) |
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium |  | [Python](./Medium/2563_count-the-number-of-fair-pairs/count-the-number-of-fair-pairs.py) |
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy |  | [Python](./Easy/2566_maximum-difference-by-remapping-a-digit/maximum-difference-by-remapping-a-digit.py) |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium |  | [Python](./Medium/2567_minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.py) |
