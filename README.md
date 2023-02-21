@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-304/2573-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-305/2573-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-111/629-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-167/1370-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-26/574-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-27/574-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -90,6 +90,7 @@
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy |  | [Python](./Easy/0118_pascals-triangle/pascals-triangle.py) |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy |  | [Python](./Easy/0119_pascals-triangle-ii/pascals-triangle-ii.py) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  | [Python](./Easy/0121_best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |  | [Python](./Hard/0124_binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.py) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |  | [Python](./Easy/0125_valid-palindrome/valid-palindrome.py) |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard |  | [Python](./Hard/0127_word-ladder/word-ladder.py) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |  | [Python](./Medium/0128_longest-consecutive-sequence/longest-consecutive-sequence.py) |
