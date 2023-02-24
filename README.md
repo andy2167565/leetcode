@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-307/2573-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-308/2573-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-111/629-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-167/1370-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-29/574-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-30/574-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -160,6 +160,7 @@
 | 0323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | V | [Python](./Medium/0323_number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy |  | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium |  | [Python](./Medium/0328_odd-even-linked-list/odd-even-linked-list.py) |
+| 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard |  | [Python](./Hard/0329_longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.py) |
 | 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy |  | [Python](./Easy/0338_counting-bits/counting-bits.py) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy |  | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium |  | [Python](./Medium/0343_integer-break/integer-break.py) |
