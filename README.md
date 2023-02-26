@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-309/2573-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-111/629-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-167/1370-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-31/574-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-310/2577-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-112/630-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-167/1372-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-31/575-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -318,3 +318,4 @@
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy |  | [Python](./Easy/2566_maximum-difference-by-remapping-a-digit/maximum-difference-by-remapping-a-digit.py) |
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium |  | [Python](./Medium/2567_minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.py) |
 | 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | Medium |  | [Python](./Medium/2568_minimum-impossible-or/minimum-impossible-or.py) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy |  | [Python](./Easy/2574_left-and-right-sum-differences/left-and-right-sum-differences.py) |
