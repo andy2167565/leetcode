@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-311/2577-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-312/2577-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-112/630-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-168/1372-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-31/575-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-32/575-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -194,6 +194,7 @@
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy |  | [Python](./Easy/0557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |  | [Python](./Medium/0560_subarray-sum-equals-k/subarray-sum-equals-k.py) |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |  | [Python](./Easy/0572_subtree-of-another-tree/subtree-of-another-tree.py) |
+| 0588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | Hard | V | [Python](./Hard/0588_design-in-memory-file-system/design-in-memory-file-system.py) |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium |  | [Python](./Medium/0621_task-scheduler/task-scheduler.py) |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |  | [Python](./Medium/0647_palindromic-substrings/palindromic-substrings.py) |
 | 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium |  | [Python](./Medium/0658_find-k-closest-elements/find-k-closest-elements.py) |
