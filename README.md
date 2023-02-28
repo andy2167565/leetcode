@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-312/2577-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-313/2577-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-112/630-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-168/1372-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-32/575-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-33/575-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -209,6 +209,7 @@
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | [Python](./Medium/0739_daily-temperatures/daily-temperatures.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
+| 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | V | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
