@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-314/2577-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-315/2577-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-112/630-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-168/1372-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-34/575-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-35/575-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -148,6 +148,7 @@
 | 0261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | V | [Python](./Medium/0261_graph-valid-tree/graph-valid-tree.py) |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy |  | [Python](./Easy/0263_ugly-number/ugly-number.py) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy |  | [Python](./Easy/0268_missing-number/missing-number.py) |
+| 0269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | V | [Python](./Hard/0269_alien-dictionary/alien-dictionary.py) |
 | 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | V | [Python](./Medium/0271_encode-and-decode-strings/encode-and-decode-strings.py) |
 | 0273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard |  | [Python](./Hard/0273_integer-to-english-words/integer-to-english-words.py) |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |  | [Python](./Easy/0278_first-bad-version/first-bad-version.py) |
