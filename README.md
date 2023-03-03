@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-315/2577-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-316/2577-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-112/630-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-168/1372-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-35/575-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-36/575-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -214,6 +214,7 @@
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | V | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
+| 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |  | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
