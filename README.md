@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-317/2577-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-112/630-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-168/1372-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-37/575-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-318/2581-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-113/631-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-168/1374-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-37/576-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -326,3 +326,4 @@
 | 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | Medium |  | [Python](./Medium/2568_minimum-impossible-or/minimum-impossible-or.py) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy |  | [Python](./Easy/2574_left-and-right-sum-differences/left-and-right-sum-differences.py) |
 | 2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | Medium |  | [Python](./Medium/2575_find-the-divisibility-array-of-a-string/find-the-divisibility-array-of-a-string.py) |
+| 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | Easy |  | [Python](./Easy/2578_split-with-minimum-sum/split-with-minimum-sum.py) |
