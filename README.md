@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-319/2585-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-320/2585-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-113/632-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-169/1376-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-170/1376-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-37/577-red.svg" alt="">
 </p>
 
@@ -328,3 +328,4 @@
 | 2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | Medium |  | [Python](./Medium/2575_find-the-divisibility-array-of-a-string/find-the-divisibility-array-of-a-string.py) |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | Easy |  | [Python](./Easy/2578_split-with-minimum-sum/split-with-minimum-sum.py) |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium |  | [Python](./Medium/2579_count-total-number-of-colored-cells/count-total-number-of-colored-cells.py) |
+| 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Medium |  | [Python](./Medium/2580_count-ways-to-group-overlapping-ranges/count-ways-to-group-overlapping-ranges.py) |
