@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-323/2585-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-324/2585-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-114/633-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-169/1374-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-40/578-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-41/578-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -50,6 +50,7 @@
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium |  | [Python](./Medium/0048_rotate-image/rotate-image.py) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |  | [Python](./Medium/0049_group-anagrams/group-anagrams.py) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |  | [Python](./Medium/0050_powx-n/powx-n.py) |
+| 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard |  | [Python](./Hard/0051_n-queens/n-queens.py) |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | [Python](./Medium/0053_maximum-subarray/maximum-subarray.py) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |  | [Python](./Medium/0054_spiral-matrix/spiral-matrix.py) |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |  | [Python](./Medium/0055_jump-game/jump-game.py) |
