@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-325/2585-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-326/2585-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-114/633-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-169/1374-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-170/1374-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/578-red.svg" alt="">
 </p>
 
@@ -276,6 +276,7 @@
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium |  | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy |  | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy |  | [Python](./Easy/1844_replace-all-digits-with-characters/replace-all-digits-with-characters.py) |
+| 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |  | [Python](./Medium/1864_minimum-number-of-swaps-to-make-the-binary-string-alternating/minimum-number-of-swaps-to-make-the-binary-string-alternating.py) |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
