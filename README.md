@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-329/2589-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-330/2589-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-115/634-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-172/1376-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-173/1376-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
 </p>
 
@@ -231,6 +231,7 @@
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |  | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
+| 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | [Python](./Medium/0973_k-closest-points-to-origin/k-closest-points-to-origin.py) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |  | [Python](./Easy/0977_squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
