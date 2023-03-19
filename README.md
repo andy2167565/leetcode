@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-335/2590-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-115/634-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-178/1377-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-336/2598-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-116/636-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-178/1383-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
 </p>
 
@@ -344,3 +344,4 @@
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy |  | [Python](./Easy/2586_count-the-number-of-vowel-strings-in-range/count-the-number-of-vowel-strings-in-range.py) |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | Medium |  | [Python](./Medium/2587_rearrange-array-to-maximize-prefix-score/rearrange-array-to-maximize-prefix-score.py) |
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | Medium |  | [Python](./Medium/2588_count-the-number-of-beautiful-subarrays/count-the-number-of-beautiful-subarrays.py) |
+| 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | Easy |  | [Python](./Easy/2591_distribute-money-to-maximum-children/distribute-money-to-maximum-children.py) |
