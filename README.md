@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-336/2598-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-337/2598-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-116/636-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-178/1383-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-179/1383-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
 </p>
 
@@ -345,3 +345,4 @@
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | Medium |  | [Python](./Medium/2587_rearrange-array-to-maximize-prefix-score/rearrange-array-to-maximize-prefix-score.py) |
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | Medium |  | [Python](./Medium/2588_count-the-number-of-beautiful-subarrays/count-the-number-of-beautiful-subarrays.py) |
 | 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | Easy |  | [Python](./Easy/2591_distribute-money-to-maximum-children/distribute-money-to-maximum-children.py) |
+| 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium |  | [Python](./Medium/2592_maximize-greatness-of-an-array/maximize-greatness-of-an-array.py) |
