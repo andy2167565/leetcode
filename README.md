@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-338/2598-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-339/2598-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-116/636-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-180/1383-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-181/1383-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
 </p>
 
@@ -242,6 +242,7 @@
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | V | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
+| 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
