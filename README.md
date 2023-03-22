@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-339/2598-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-341/2598-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-116/636-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-181/1383-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-183/1383-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
 </p>
 
@@ -227,6 +227,7 @@
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
+| 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
@@ -239,6 +240,7 @@
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | V | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
