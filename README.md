@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-343/2599-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-344/2599-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-116/636-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-185/1384-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-186/1384-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
 </p>
 
@@ -292,6 +292,7 @@
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | Medium |  | [Python](./Medium/2424_longest-uploaded-prefix/longest-uploaded-prefix.py) |
+| 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium |  | [Python](./Medium/2438_range-product-queries-of-powers/range-product-queries-of-powers.py) |
 | 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Easy |  | [Python](./Easy/2446_determine-if-two-events-have-conflict/determine-if-two-events-have-conflict.py) |
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | Medium |  | [Python](./Medium/2447_number-of-subarrays-with-gcd-equal-to-k/number-of-subarrays-with-gcd-equal-to-k.py) |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | Hard |  | [Python](./Hard/2448_minimum-cost-to-make-array-equal/minimum-cost-to-make-array-equal.py) |
