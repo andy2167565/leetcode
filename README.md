@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-344/2599-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-116/636-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-186/1384-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-42/579-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-345/2603-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-117/637-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-186/1386-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-42/580-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -353,3 +353,4 @@
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | Medium |  | [Python](./Medium/2588_count-the-number-of-beautiful-subarrays/count-the-number-of-beautiful-subarrays.py) |
 | 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | Easy |  | [Python](./Easy/2591_distribute-money-to-maximum-children/distribute-money-to-maximum-children.py) |
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium |  | [Python](./Medium/2592_maximize-greatness-of-an-array/maximize-greatness-of-an-array.py) |
+| 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | Easy |  | [Python](./Easy/2600_k-items-with-the-maximum-sum/k-items-with-the-maximum-sum.py) |
