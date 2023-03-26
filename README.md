@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-345/2603-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-346/2603-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-117/637-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-186/1386-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-187/1386-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/580-red.svg" alt="">
 </p>
 
@@ -354,3 +354,4 @@
 | 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | Easy |  | [Python](./Easy/2591_distribute-money-to-maximum-children/distribute-money-to-maximum-children.py) |
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium |  | [Python](./Medium/2592_maximize-greatness-of-an-array/maximize-greatness-of-an-array.py) |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | Easy |  | [Python](./Easy/2600_k-items-with-the-maximum-sum/k-items-with-the-maximum-sum.py) |
+| 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium |  | [Python](./Medium/2601_prime-subtraction-operation/prime-subtraction-operation.py) |
