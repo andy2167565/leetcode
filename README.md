@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-347/2603-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-348/2603-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-117/637-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-188/1386-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-189/1386-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/580-red.svg" alt="">
 </p>
 
@@ -256,6 +256,7 @@
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy |  | [Python](./Easy/1480_running-sum-of-1d-array/running-sum-of-1d-array.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium |  | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium |  | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |  | [Python](./Easy/1566_detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |  | [Python](./Easy/1576_replace-all-s-to-avoid-consecutive-repeating-characters/replace-all-s-to-avoid-consecutive-repeating-characters.py) |
