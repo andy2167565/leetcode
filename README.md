@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-348/2603-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-349/2603-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-117/637-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-189/1386-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-190/1386-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/580-red.svg" alt="">
 </p>
 
@@ -219,6 +219,7 @@
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | V | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
+| 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium |  | [Python](./Medium/0789_escape-the-ghosts/escape-the-ghosts.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | Medium |  | [Python](./Medium/0809_expressive-words/expressive-words.py) |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
