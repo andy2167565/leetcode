@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-351/2604-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-352/2604-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-117/637-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-192/1386-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-193/1386-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/581-red.svg" alt="">
 </p>
 
@@ -291,6 +291,7 @@
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
+| 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | Medium |  | [Python](./Medium/2249_count-lattice-points-inside-a-circle/count-lattice-points-inside-a-circle.py) |
