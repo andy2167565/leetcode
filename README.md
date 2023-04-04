@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-356/2612-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-357/2612-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-118/639-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-196/1390-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-197/1390-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/583-red.svg" alt="">
 </p>
 
@@ -295,6 +295,7 @@
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
+| 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | Medium |  | [Python](./Medium/2241_design-an-atm-machine/design-an-atm-machine.py) |
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | Medium |  | [Python](./Medium/2249_count-lattice-points-inside-a-circle/count-lattice-points-inside-a-circle.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
