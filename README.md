@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-360/2613-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-361/2613-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-118/639-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-200/1390-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-201/1390-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/584-red.svg" alt="">
 </p>
 
@@ -301,6 +301,7 @@
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
+| 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | Medium |  | [Python](./Medium/2424_longest-uploaded-prefix/longest-uploaded-prefix.py) |
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | Medium |  | [Python](./Medium/2425_bitwise-xor-of-all-pairings/bitwise-xor-of-all-pairings.py) |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium |  | [Python](./Medium/2438_range-product-queries-of-powers/range-product-queries-of-powers.py) |
