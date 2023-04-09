@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-361/2613-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-118/639-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-201/1390-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-42/584-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-362/2617-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-119/640-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-201/1392-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-42/585-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -370,3 +370,4 @@
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy |  | [Python](./Easy/2605_form-smallest-number-from-two-digit-arrays/form-smallest-number-from-two-digit-arrays.py) |
 | 2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | Medium |  | [Python](./Medium/2606_find-the-substring-with-maximum-cost/find-the-substring-with-maximum-cost.py) |
 | 2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | Medium |  | [Python](./Medium/2607_make-k-subarray-sums-equal/make-k-subarray-sums-equal.py) |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy |  | [Python](./Easy/2614_prime-in-diagonal/prime-in-diagonal.py) |
