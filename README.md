@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-363/2617-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-364/2617-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-119/640-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-202/1392-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-203/1392-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/585-red.svg" alt="">
 </p>
 
@@ -293,6 +293,7 @@
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
+| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
