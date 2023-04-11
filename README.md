@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-364/2617-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-365/2617-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-119/640-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-203/1392-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-204/1392-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/585-red.svg" alt="">
 </p>
 
@@ -247,6 +247,7 @@
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | V | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
