@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-365/2617-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-119/640-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-204/1392-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-42/585-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-366/2637-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-119/648-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-205/1403-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-42/586-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -233,6 +233,7 @@
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
+| 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium |  | [Python](./Medium/0916_word-subsets/word-subsets.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |  | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
