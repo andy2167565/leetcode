@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-366/2637-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-367/2638-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-119/648-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-205/1403-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-206/1404-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/586-red.svg" alt="">
 </p>
 
@@ -218,6 +218,7 @@
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | V | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
+| 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium |  | [Python](./Medium/0789_escape-the-ghosts/escape-the-ghosts.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
