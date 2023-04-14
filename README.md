@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-367/2638-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-368/2638-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-119/648-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-206/1404-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-207/1404-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/586-red.svg" alt="">
 </p>
 
@@ -255,6 +255,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
+| 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Medium |  | [Python](./Medium/1366_rank-teams-by-votes/rank-teams-by-votes.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium |  | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
