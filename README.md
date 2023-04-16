@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-370/2642-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-371/2642-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-120/649-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-208/1406-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-209/1406-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/587-red.svg" alt="">
 </p>
 
@@ -379,3 +379,4 @@
 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy |  | [Python](./Easy/2614_prime-in-diagonal/prime-in-diagonal.py) |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | Medium |  | [Python](./Medium/2615_sum-of-distances/sum-of-distances.py) |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | Easy |  | [Python](./Easy/2639_find-the-width-of-columns-of-a-grid/find-the-width-of-columns-of-a-grid.py) |
+| 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/) | Medium |  | [Python](./Medium/2640_find-the-score-of-all-prefixes-of-an-array/find-the-score-of-all-prefixes-of-an-array.py) |
