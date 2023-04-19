@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-374/2646-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-375/2646-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-120/651-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-212/1407-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-213/1407-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/588-red.svg" alt="">
 </p>
 
@@ -225,6 +225,7 @@
 | 0809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | Medium |  | [Python](./Medium/0809_expressive-words/expressive-words.py) |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
+| 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | Medium |  | [Python](./Medium/0820_short-encoding-of-words/short-encoding-of-words.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |  | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
