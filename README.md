@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-375/2646-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-376/2647-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-120/651-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-213/1407-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-42/588-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-214/1407-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-42/589-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -255,6 +255,7 @@
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
+| 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |  | [Python](./Medium/1319_number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Medium |  | [Python](./Medium/1366_rank-teams-by-votes/rank-teams-by-votes.py) |
