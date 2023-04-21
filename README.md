@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-376/2647-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-120/651-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-214/1407-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-42/589-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-377/2650-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-120/652-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-215/1408-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-42/590-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -245,6 +245,7 @@
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium |  | [Python](./Medium/1020_number-of-enclaves/number-of-enclaves.py) |
+| 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
