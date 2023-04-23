@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-379/2654-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-121/654-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-380/2654-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-122/654-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-216/1410-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/590-red.svg" alt="">
 </p>
@@ -388,3 +388,4 @@
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/) | Medium |  | [Python](./Medium/2640_find-the-score-of-all-prefixes-of-an-array/find-the-score-of-all-prefixes-of-an-array.py) |
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium |  | [Python](./Medium/2641_cousins-in-binary-tree-ii/cousins-in-binary-tree-ii.py) |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | Easy |  | [Python](./Easy/2651_calculate-delayed-arrival-time/calculate-delayed-arrival-time.py) |
+| 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | Easy |  | [Python](./Easy/2652_sum-multiples/sum-multiples.py) |
