@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-380/2654-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-381/2654-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-122/654-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-216/1410-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-217/1410-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/590-red.svg" alt="">
 </p>
 
@@ -389,3 +389,4 @@
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium |  | [Python](./Medium/2641_cousins-in-binary-tree-ii/cousins-in-binary-tree-ii.py) |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | Easy |  | [Python](./Easy/2651_calculate-delayed-arrival-time/calculate-delayed-arrival-time.py) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | Easy |  | [Python](./Easy/2652_sum-multiples/sum-multiples.py) |
+| 2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | Medium |  | [Python](./Medium/2653_sliding-subarray-beauty/sliding-subarray-beauty.py) |
