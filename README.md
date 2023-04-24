@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-381/2654-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-382/2654-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-122/654-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-217/1410-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-218/1410-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/590-red.svg" alt="">
 </p>
 
@@ -331,6 +331,7 @@
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard |  | [Python](./Hard/2463_minimum-total-distance-traveled/minimum-total-distance-traveled.py) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | Easy |  | [Python](./Easy/2465_number-of-distinct-averages/number-of-distinct-averages.py) |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium |  | [Python](./Medium/2466_count-ways-to-build-good-strings/count-ways-to-build-good-strings.py) |
+| 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |  | [Python](./Medium/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level/minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | Easy |  | [Python](./Easy/2475_number-of-unequal-triplets-in-array/number-of-unequal-triplets-in-array.py) |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | Medium |  | [Python](./Medium/2476_closest-nodes-queries-in-a-binary-search-tree/closest-nodes-queries-in-a-binary-search-tree.py) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy |  | [Python](./Easy/2481_minimum-cuts-to-divide-a-circle/minimum-cuts-to-divide-a-circle.py) |
