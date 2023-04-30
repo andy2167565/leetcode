@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-388/2659-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-389/2659-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-123/655-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-223/1413-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-224/1413-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-42/591-red.svg" alt="">
 </p>
 
@@ -397,3 +397,4 @@
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | Easy |  | [Python](./Easy/2652_sum-multiples/sum-multiples.py) |
 | 2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | Medium |  | [Python](./Medium/2653_sliding-subarray-beauty/sliding-subarray-beauty.py) |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | Easy |  | [Python](./Easy/2656_maximum-sum-with-exactly-k-elements/maximum-sum-with-exactly-k-elements.py) |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium |  | [Python](./Medium/2657_find-the-prefix-common-array-of-two-arrays/find-the-prefix-common-array-of-two-arrays.py) |
