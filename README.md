@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-391/2663-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-392/2663-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-123/656-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-225/1415-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-226/1415-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-43/592-red.svg" alt="">
 </p>
 
@@ -227,6 +227,7 @@
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | Medium |  | [Python](./Medium/0820_short-encoding-of-words/short-encoding-of-words.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |  | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
+| 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
