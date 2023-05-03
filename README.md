@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-393/2663-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-394/2663-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-123/656-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-227/1415-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-43/592-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-44/592-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -318,6 +318,7 @@
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | Medium |  | [Python](./Medium/2249_count-lattice-points-inside-a-circle/count-lattice-points-inside-a-circle.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
+| 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
