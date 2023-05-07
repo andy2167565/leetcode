@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-398/2673-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-399/2673-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-124/662-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-230/1419-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-231/1419-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/592-red.svg" alt="">
 </p>
 
@@ -407,3 +407,4 @@
 | 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | Medium |  | [Python](./Medium/2658_maximum-number-of-fish-in-a-grid/maximum-number-of-fish-in-a-grid.py) |
 | 2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | Hard |  | [Python](./Hard/2659_make-array-empty/make-array-empty.py) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | Easy |  | [Python](./Easy/2670_find-the-distinct-difference-array/find-the-distinct-difference-array.py) |
+| 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | Medium |  | [Python](./Medium/2671_frequency-tracker/frequency-tracker.py) |
