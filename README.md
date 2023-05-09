@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-400/2673-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-401/2673-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-124/662-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-232/1419-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-233/1419-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/592-red.svg" alt="">
 </p>
 
@@ -314,6 +314,7 @@
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |  | [Python](./Medium/2196_create-binary-tree-from-descriptions/create-binary-tree-from-descriptions.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | Medium |  | [Python](./Medium/2241_design-an-atm-machine/design-an-atm-machine.py) |
