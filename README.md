@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-403/2674-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-124/662-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-235/1420-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-404/2677-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-124/663-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-236/1422-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/592-red.svg" alt="">
 </p>
 
@@ -311,6 +311,7 @@
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
+| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
