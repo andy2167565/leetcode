@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-404/2677-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-405/2677-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-124/663-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-236/1422-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-237/1422-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/592-red.svg" alt="">
 </p>
 
@@ -232,6 +232,7 @@
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
+| 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
