@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-407/2681-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-408/2681-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-125/664-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-238/1424-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-239/1424-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/593-red.svg" alt="">
 </p>
 
@@ -416,3 +416,4 @@
 | 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | Medium |  | [Python](./Medium/2671_frequency-tracker/frequency-tracker.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy |  | [Python](./Easy/2678_number-of-senior-citizens/number-of-senior-citizens.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | Medium |  | [Python](./Medium/2679_sum-in-a-matrix/sum-in-a-matrix.py) |
+| 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | Medium |  | [Python](./Medium/2680_maximum-or/maximum-or.py) |
