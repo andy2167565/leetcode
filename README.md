@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-409/2688-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-410/2688-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-126/666-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-239/1429-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-240/1429-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/593-red.svg" alt="">
 </p>
 
@@ -386,6 +386,7 @@
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | Easy |  | [Python](./Easy/2566_maximum-difference-by-remapping-a-digit/maximum-difference-by-remapping-a-digit.py) |
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium |  | [Python](./Medium/2567_minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.py) |
 | 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | Medium |  | [Python](./Medium/2568_minimum-impossible-or/minimum-impossible-or.py) |
+| 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | Medium |  | [Python](./Medium/2571_minimum-operations-to-reduce-an-integer-to-0/minimum-operations-to-reduce-an-integer-to-0.py) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy |  | [Python](./Easy/2574_left-and-right-sum-differences/left-and-right-sum-differences.py) |
 | 2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | Medium |  | [Python](./Medium/2575_find-the-divisibility-array-of-a-string/find-the-divisibility-array-of-a-string.py) |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | Easy |  | [Python](./Easy/2578_split-with-minimum-sum/split-with-minimum-sum.py) |
