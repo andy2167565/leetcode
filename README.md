@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-411/2688-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-126/666-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-241/1429-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-412/2689-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-126/667-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-242/1429-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/593-red.svg" alt="">
 </p>
 
@@ -327,6 +327,7 @@
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
