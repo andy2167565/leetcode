@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-412/2689-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-126/667-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-242/1429-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-44/593-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-413/2695-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-126/669-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-243/1432-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-44/594-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -216,6 +216,7 @@
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium |  | [Python](./Medium/0735_asteroid-collision/asteroid-collision.py) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | [Python](./Medium/0739_daily-temperatures/daily-temperatures.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
+| 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | V | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | V | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
