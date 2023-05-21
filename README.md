@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-414/2695-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-126/669-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-244/1432-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-44/594-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-415/2699-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-127/671-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-244/1433-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-44/595-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -423,3 +423,4 @@
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy |  | [Python](./Easy/2678_number-of-senior-citizens/number-of-senior-citizens.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | Medium |  | [Python](./Medium/2679_sum-in-a-matrix/sum-in-a-matrix.py) |
 | 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | Medium |  | [Python](./Medium/2680_maximum-or/maximum-or.py) |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Easy |  | [Python](./Easy/2696_minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.py) |
