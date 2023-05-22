@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-417/2699-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-418/2699-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-128/671-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-245/1433-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-246/1433-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/595-red.svg" alt="">
 </p>
 
@@ -277,6 +277,7 @@
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium |  | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |  | [Python](./Medium/1503_last-moment-before-all-ants-fall-out-of-a-plank/last-moment-before-all-ants-fall-out-of-a-plank.py) |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |  | [Python](./Medium/1509_minimum-difference-between-largest-and-smallest-value-in-three-moves/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | Medium |  | [Python](./Medium/1540_can-convert-string-in-k-moves/can-convert-string-in-k-moves.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium |  | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
