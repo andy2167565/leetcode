@@ -147,24 +147,24 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |  | [Python](./Medium/0238_product-of-array-except-self/product-of-array-except-self.py) |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |  | [Python](./Hard/0239_sliding-window-maximum/sliding-window-maximum.py) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |  | [Python](./Easy/0242_valid-anagram/valid-anagram.py) |
-| 0252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Easy | V | [Python](./Easy/0252_meeting-rooms/meeting-rooms.py) |
-| 0253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | V | [Python](./Medium/0253_meeting-rooms-ii/meeting-rooms-ii.py) |
-| 0261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | V | [Python](./Medium/0261_graph-valid-tree/graph-valid-tree.py) |
+| 0252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Easy | $ | [Python](./Easy/0252_meeting-rooms/meeting-rooms.py) |
+| 0253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | $ | [Python](./Medium/0253_meeting-rooms-ii/meeting-rooms-ii.py) |
+| 0261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | $ | [Python](./Medium/0261_graph-valid-tree/graph-valid-tree.py) |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy |  | [Python](./Easy/0263_ugly-number/ugly-number.py) |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy |  | [Python](./Easy/0268_missing-number/missing-number.py) |
-| 0269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | V | [Python](./Hard/0269_alien-dictionary/alien-dictionary.py) |
-| 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | V | [Python](./Medium/0271_encode-and-decode-strings/encode-and-decode-strings.py) |
+| 0269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | $ | [Python](./Hard/0269_alien-dictionary/alien-dictionary.py) |
+| 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | $ | [Python](./Medium/0271_encode-and-decode-strings/encode-and-decode-strings.py) |
 | 0273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard |  | [Python](./Hard/0273_integer-to-english-words/integer-to-english-words.py) |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |  | [Python](./Easy/0278_first-bad-version/first-bad-version.py) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |  | [Python](./Easy/0283_move-zeroes/move-zeroes.py) |
-| 0285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | V | [Python](./Medium/0285_inorder-successor-in-bst/inorder-successor-in-bst.py) |
+| 0285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | $ | [Python](./Medium/0285_inorder-successor-in-bst/inorder-successor-in-bst.py) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |  | [Python](./Medium/0287_find-the-duplicate-number/find-the-duplicate-number.py) |
 | 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |  | [Python](./Hard/0295_find-median-from-data-stream/find-median-from-data-stream.py) |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard |  | [Python](./Hard/0297_serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.py) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium |  | [Python](./Medium/0300_longest-increasing-subsequence/longest-increasing-subsequence.py) |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium |  | [Python](./Medium/0310_minimum-height-trees/minimum-height-trees.py) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | [Python](./Medium/0322_coin-change/coin-change.py) |
-| 0323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | V | [Python](./Medium/0323_number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.py) |
+| 0323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | $ | [Python](./Medium/0323_number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.py) |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy |  | [Python](./Easy/0326_power-of-three/power-of-three.py) |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium |  | [Python](./Medium/0328_odd-even-linked-list/odd-even-linked-list.py) |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard |  | [Python](./Hard/0329_longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.py) |
@@ -173,8 +173,8 @@
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy |  | [Python](./Easy/0342_power-of-four/power-of-four.py) |
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium |  | [Python](./Medium/0343_integer-break/integer-break.py) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |  | [Python](./Medium/0347_top-k-frequent-elements/top-k-frequent-elements.py) |
-| 0362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | Medium | V | [Python](./Medium/0362_design-hit-counter/design-hit-counter.py) |
-| 0370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | V | [Python](./Medium/0370_range-addition/range-addition.py) |
+| 0362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | Medium | $ | [Python](./Medium/0362_design-hit-counter/design-hit-counter.py) |
+| 0370 | [Range Addition](https://leetcode.com/problems/range-addition/) | Medium | $ | [Python](./Medium/0370_range-addition/range-addition.py) |
 | 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium |  | [Python](./Medium/0377_combination-sum-iv/combination-sum-iv.py) |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium |  | [Python](./Medium/0380_insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy |  | [Python](./Easy/0383_ransom-note/ransom-note.py) |
@@ -201,7 +201,7 @@
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy |  | [Python](./Easy/0557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |  | [Python](./Medium/0560_subarray-sum-equals-k/subarray-sum-equals-k.py) |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |  | [Python](./Easy/0572_subtree-of-another-tree/subtree-of-another-tree.py) |
-| 0588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | Hard | V | [Python](./Hard/0588_design-in-memory-file-system/design-in-memory-file-system.py) |
+| 0588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | Hard | $ | [Python](./Hard/0588_design-in-memory-file-system/design-in-memory-file-system.py) |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium |  | [Python](./Medium/0621_task-scheduler/task-scheduler.py) |
 | 0632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard |  | [Python](./Hard/0632_smallest-range-covering-elements-from-k-lists/smallest-range-covering-elements-from-k-lists.py) |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |  | [Python](./Medium/0647_palindromic-substrings/palindromic-substrings.py) |
@@ -216,9 +216,9 @@
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium |  | [Python](./Medium/0735_asteroid-collision/asteroid-collision.py) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | [Python](./Medium/0739_daily-temperatures/daily-temperatures.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
-| 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | V | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
+| 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | $ | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
-| 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | V | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
+| 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | $ | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium |  | [Python](./Medium/0789_escape-the-ghosts/escape-the-ghosts.py) |
@@ -254,11 +254,11 @@
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
-| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | Medium | V | [Python](./Medium/1182_shortest-distance-to-target-color/shortest-distance-to-target-color.py) |
-| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | V | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
+| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | Medium | $ | [Python](./Medium/1182_shortest-distance-to-target-color/shortest-distance-to-target-color.py) |
+| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
-| 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | V | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
+| 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | Medium |  | [Python](./Medium/1311_get-watched-videos-by-your-friends/get-watched-videos-by-your-friends.py) |
@@ -294,7 +294,7 @@
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |  | [Python](./Medium/1670_design-front-middle-back-queue/design-front-middle-back-queue.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
-| 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | V | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
+| 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium |  | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
