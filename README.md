@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-420/2701-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-421/2702-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-128/671-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-248/1434-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-44/596-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-249/1434-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-44/597-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -248,6 +248,7 @@
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |  | [Python](./Medium/0990_satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |  | [Python](./Medium/1004_max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium |  | [Python](./Medium/1020_number-of-enclaves/number-of-enclaves.py) |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
