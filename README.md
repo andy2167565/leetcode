@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-421/2702-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-422/2702-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-128/671-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-249/1434-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-250/1434-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/597-red.svg" alt="">
 </p>
 
@@ -325,6 +325,7 @@
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |  | [Python](./Medium/2196_create-binary-tree-from-descriptions/create-binary-tree-from-descriptions.py) |
+| 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | Medium |  | [Python](./Medium/2222_number-of-ways-to-select-buildings/number-of-ways-to-select-buildings.py) |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium |  | [Python](./Medium/2226_maximum-candies-allocated-to-k-children/maximum-candies-allocated-to-k-children.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
