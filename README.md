@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-422/2702-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-128/671-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-250/1434-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-423/2705-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-128/673-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-251/1435-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/597-red.svg" alt="">
 </p>
 
@@ -259,6 +259,7 @@
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium |  | [Python](./Medium/1249_minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.py) |
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
