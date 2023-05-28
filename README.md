@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-424/2709-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-425/2709-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-129/674-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-251/1437-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-252/1437-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/598-red.svg" alt="">
 </p>
 
@@ -433,3 +433,4 @@
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | Easy |  | [Python](./Easy/2697_lexicographically-smallest-palindrome/lexicographically-smallest-palindrome.py) |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium |  | [Python](./Medium/2698_find-the-punishment-number-of-an-integer/find-the-punishment-number-of-an-integer.py) |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy |  | [Python](./Easy/2706_buy-two-chocolates/buy-two-chocolates.py) |
+| 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | Medium |  | [Python](./Medium/2708_maximum-strength-of-a-group/maximum-strength-of-a-group.py) |
