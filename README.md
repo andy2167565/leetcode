@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-426/2713-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-129/676-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-253/1438-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-427/2713-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-129/675-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-254/1439-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/599-red.svg" alt="">
 </p>
 
@@ -288,6 +288,7 @@
 | 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | Medium |  | [Python](./Medium/1558_minimum-numbers-of-function-calls-to-make-target-array/minimum-numbers-of-function-calls-to-make-target-array.py) |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |  | [Python](./Easy/1566_detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |  | [Python](./Easy/1576_replace-all-s-to-avoid-consecutive-repeating-characters/replace-all-s-to-avoid-consecutive-repeating-characters.py) |
+| 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy |  | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |  | [Python](./Medium/1604_alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |  | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
