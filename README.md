@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-428/2713-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-429/2713-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-129/675-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-255/1439-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-256/1439-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/599-red.svg" alt="">
 </p>
 
@@ -335,6 +335,7 @@
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | Medium |  | [Python](./Medium/2241_design-an-atm-machine/design-an-atm-machine.py) |
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | Medium |  | [Python](./Medium/2249_count-lattice-points-inside-a-circle/count-lattice-points-inside-a-circle.py) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
+| 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | Medium |  | [Python](./Medium/2304_minimum-path-cost-in-a-grid/minimum-path-cost-in-a-grid.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
