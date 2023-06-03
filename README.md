@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-431/2715-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-432/2715-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-129/676-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-258/1439-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-259/1439-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/600-red.svg" alt="">
 </p>
 
@@ -262,6 +262,7 @@
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium |  | [Python](./Medium/1249_minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.py) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |  | [Python](./Medium/1254_number-of-closed-islands/number-of-closed-islands.py) |
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
