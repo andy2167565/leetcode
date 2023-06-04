@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-434/2719-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-435/2719-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-131/678-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-259/1440-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-260/1440-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/601-red.svg" alt="">
 </p>
 
@@ -443,3 +443,4 @@
 | 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | Medium |  | [Python](./Medium/2708_maximum-strength-of-a-group/maximum-strength-of-a-group.py) |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | Easy |  | [Python](./Easy/2716_minimize-string-length/minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | Easy |  | [Python](./Easy/2717_semi-ordered-permutation/semi-ordered-permutation.py) |
+| 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | Medium |  | [Python](./Medium/2718_sum-of-matrix-after-queries/sum-of-matrix-after-queries.py) |
