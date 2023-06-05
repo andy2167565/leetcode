@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-435/2719-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-436/2719-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-131/678-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-260/1440-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-261/1440-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-44/601-red.svg" alt="">
 </p>
 
@@ -330,6 +330,7 @@
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
+| 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | Medium |  | [Python](./Medium/2195_append-k-integers-with-minimal-sum/append-k-integers-with-minimal-sum.py) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |  | [Python](./Medium/2196_create-binary-tree-from-descriptions/create-binary-tree-from-descriptions.py) |
 | 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | Medium |  | [Python](./Medium/2222_number-of-ways-to-select-buildings/number-of-ways-to-select-buildings.py) |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium |  | [Python](./Medium/2226_maximum-candies-allocated-to-k-children/maximum-candies-allocated-to-k-children.py) |
