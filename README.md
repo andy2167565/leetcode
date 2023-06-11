@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-441/2728-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-131/684-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-265/1443-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-45/601-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-442/2732-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-132/685-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-265/1445-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-45/602-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -450,3 +450,4 @@
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | Easy |  | [Python](./Easy/2716_minimize-string-length/minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | Easy |  | [Python](./Easy/2717_semi-ordered-permutation/semi-ordered-permutation.py) |
 | 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | Medium |  | [Python](./Medium/2718_sum-of-matrix-after-queries/sum-of-matrix-after-queries.py) |
+| 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | Easy |  | [Python](./Easy/2729_check-if-the-number-is-fascinating/check-if-the-number-is-fascinating.py) |
