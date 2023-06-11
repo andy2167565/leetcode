@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-442/2732-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-132/685-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-265/1445-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-45/602-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-443/2736-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-132/686-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-266/1447-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-45/603-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -451,3 +451,4 @@
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | Easy |  | [Python](./Easy/2717_semi-ordered-permutation/semi-ordered-permutation.py) |
 | 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | Medium |  | [Python](./Medium/2718_sum-of-matrix-after-queries/sum-of-matrix-after-queries.py) |
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | Easy |  | [Python](./Easy/2729_check-if-the-number-is-fascinating/check-if-the-number-is-fascinating.py) |
+| 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | Medium |  | [Python](./Medium/2730_find-the-longest-semi-repetitive-substring/find-the-longest-semi-repetitive-substring.py) |
