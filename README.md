@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-443/2736-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-444/2736-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-132/686-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-266/1447-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-267/1447-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-45/603-red.svg" alt="">
 </p>
 
@@ -418,6 +418,7 @@
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | Medium |  | [Python](./Medium/2588_count-the-number-of-beautiful-subarrays/count-the-number-of-beautiful-subarrays.py) |
 | 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | Easy |  | [Python](./Easy/2591_distribute-money-to-maximum-children/distribute-money-to-maximum-children.py) |
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium |  | [Python](./Medium/2592_maximize-greatness-of-an-array/maximize-greatness-of-an-array.py) |
+| 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium |  | [Python](./Medium/2593_find-score-of-an-array-after-marking-all-elements/find-score-of-an-array-after-marking-all-elements.py) |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | Easy |  | [Python](./Easy/2600_k-items-with-the-maximum-sum/k-items-with-the-maximum-sum.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium |  | [Python](./Medium/2601_prime-subtraction-operation/prime-subtraction-operation.py) |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy |  | [Python](./Easy/2605_form-smallest-number-from-two-digit-arrays/form-smallest-number-from-two-digit-arrays.py) |
