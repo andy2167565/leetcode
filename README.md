@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-444/2736-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-445/2736-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-132/686-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-267/1447-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-268/1447-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-45/603-red.svg" alt="">
 </p>
 
@@ -296,6 +296,7 @@
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy |  | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |  | [Python](./Medium/1604_alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) |
+| 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | Medium |  | [Python](./Medium/1620_coordinate-with-maximum-network-quality/coordinate-with-maximum-network-quality.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |  | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | Medium |  | [Python](./Medium/1638_count-substrings-that-differ-by-one-character/count-substrings-that-differ-by-one-character.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
