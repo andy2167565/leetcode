@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-445/2736-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-446/2736-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-132/686-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-268/1447-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-269/1447-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-45/603-red.svg" alt="">
 </p>
 
@@ -256,6 +256,7 @@
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | Medium |  | [Python](./Medium/1169_invalid-transactions/invalid-transactions.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | Medium | $ | [Python](./Medium/1182_shortest-distance-to-target-color/shortest-distance-to-target-color.py) |
