@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-446/2736-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-447/2737-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-132/686-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-269/1447-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-270/1448-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-45/603-red.svg" alt="">
 </p>
 
@@ -305,6 +305,7 @@
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
+| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | Medium |  | [Python](./Medium/1738_find-kth-largest-xor-coordinate-value/find-kth-largest-xor-coordinate-value.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium |  | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
