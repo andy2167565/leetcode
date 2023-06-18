@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-451/2742-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-452/2742-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-133/687-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-273/1451-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-274/1451-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-45/604-red.svg" alt="">
 </p>
 
@@ -460,3 +460,4 @@
 | 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | Medium |  | [Python](./Medium/2730_find-the-longest-semi-repetitive-substring/find-the-longest-semi-repetitive-substring.py) |
 | 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | Easy |  | [Python](./Easy/2739_total-distance-traveled/total-distance-traveled.py) |
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | Medium |  | [Python](./Medium/2740_find-the-value-of-the-partition/find-the-value-of-the-partition.py) |
+| 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | Medium |  | [Python](./Medium/2741_special-permutations/special-permutations.py) |
