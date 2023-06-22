@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-455/2742-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-456/2743-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-133/687-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-277/1451-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-278/1452-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-45/604-red.svg" alt="">
 </p>
 
@@ -328,6 +328,7 @@
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy |  | [Python](./Easy/1844_replace-all-digits-with-characters/replace-all-digits-with-characters.py) |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |  | [Python](./Medium/1864_minimum-number-of-swaps-to-make-the-binary-string-alternating/minimum-number-of-swaps-to-make-the-binary-string-alternating.py) |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
+| 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium |  | [Python](./Medium/1870_minimum-speed-to-arrive-on-time/minimum-speed-to-arrive-on-time.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
