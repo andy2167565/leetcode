@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-457/2743-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-458/2743-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-133/687-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-278/1452-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-279/1452-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-46/604-red.svg" alt="">
 </p>
 
@@ -244,6 +244,7 @@
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium |  | [Python](./Medium/0962_maximum-width-ramp/maximum-width-ramp.py) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | [Python](./Medium/0973_k-closest-points-to-origin/k-closest-points-to-origin.py) |
+| 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium |  | [Python](./Medium/0974_subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.py) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |  | [Python](./Easy/0977_squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |  | [Python](./Hard/0987_vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py) |
