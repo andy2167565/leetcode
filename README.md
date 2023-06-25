@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-459/2747-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-460/2747-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/688-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-279/1455-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-280/1455-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-46/604-red.svg" alt="">
 </p>
 
@@ -468,3 +468,4 @@
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | Medium |  | [Python](./Medium/2740_find-the-value-of-the-partition/find-the-value-of-the-partition.py) |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | Medium |  | [Python](./Medium/2741_special-permutations/special-permutations.py) |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | Easy |  | [Python](./Easy/2744_find-maximum-number-of-string-pairs/find-maximum-number-of-string-pairs.py) |
+| 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | Medium |  | [Python](./Medium/2745_construct-the-longest-new-string/construct-the-longest-new-string.py) |
