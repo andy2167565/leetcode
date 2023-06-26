@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-460/2747-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/688-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-280/1455-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-46/604-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-461/2751-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/689-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-281/1457-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-46/605-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -231,6 +231,7 @@
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
+| 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |  | [Python](./Medium/0853_car-fleet/car-fleet.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
