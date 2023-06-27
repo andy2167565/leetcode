@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-461/2751-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-462/2751-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/689-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-281/1457-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-282/1457-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-46/605-red.svg" alt="">
 </p>
 
@@ -237,6 +237,7 @@
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
+| 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium |  | [Python](./Medium/0885_spiral-matrix-iii/spiral-matrix-iii.py) |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium |  | [Python](./Medium/0916_word-subsets/word-subsets.py) |
