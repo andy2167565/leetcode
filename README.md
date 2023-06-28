@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-462/2751-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-463/2752-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/689-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-282/1457-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-46/605-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-283/1457-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-46/606-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -344,6 +344,7 @@
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |  | [Python](./Medium/2033_minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
+| 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
