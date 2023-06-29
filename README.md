@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-463/2752-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/689-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-283/1457-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-46/606-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-464/2759-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/690-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-284/1460-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-46/609-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -359,6 +359,7 @@
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | Medium |  | [Python](./Medium/2304_minimum-path-cost-in-a-grid/minimum-path-cost-in-a-grid.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
+| 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | Medium |  | [Python](./Medium/2317_maximum-xor-after-operations/maximum-xor-after-operations.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
