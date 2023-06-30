@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-464/2759-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-465/2759-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/690-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-284/1460-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-285/1460-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-46/609-red.svg" alt="">
 </p>
 
@@ -336,6 +336,7 @@
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
+| 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium |  | [Python](./Medium/1905_count-sub-islands/count-sub-islands.py) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium |  | [Python](./Medium/1922_count-good-numbers/count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
