@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-465/2759-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-466/2759-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/690-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-285/1460-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-46/609-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-47/609-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -285,6 +285,7 @@
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |  | [Python](./Medium/1367_linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard |  | [Python](./Hard/1402_reducing-dishes/reducing-dishes.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium |  | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
