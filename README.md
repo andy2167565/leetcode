@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-466/2759-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-467/2759-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/690-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-285/1460-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-286/1460-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-47/609-red.svg" alt="">
 </p>
 
@@ -381,6 +381,7 @@
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium |  | [Python](./Medium/2452_words-within-two-edits-of-dictionary/words-within-two-edits-of-dictionary.py) |
 | 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | Medium |  | [Python](./Medium/2453_destroy-sequential-targets/destroy-sequential-targets.py) |
 | 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | Hard |  | [Python](./Hard/2454_next-greater-element-iv/next-greater-element-iv.py) |
+| 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | Medium |  | [Python](./Medium/2457_minimum-addition-to-make-integer-beautiful/minimum-addition-to-make-integer-beautiful.py) |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy |  | [Python](./Easy/2460_apply-operations-to-an-array/apply-operations-to-an-array.py) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |  | [Python](./Medium/2461_maximum-sum-of-distinct-subarrays-with-length-k/maximum-sum-of-distinct-subarrays-with-length-k.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Medium |  | [Python](./Medium/2462_total-cost-to-hire-k-workers/total-cost-to-hire-k-workers.py) |
