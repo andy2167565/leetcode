@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-467/2759-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/690-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-286/1460-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-47/609-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-468/2763-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/691-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-287/1462-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-47/610-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -349,6 +349,7 @@
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
+| 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
 | 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | Medium |  | [Python](./Medium/2195_append-k-integers-with-minimal-sum/append-k-integers-with-minimal-sum.py) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |  | [Python](./Medium/2196_create-binary-tree-from-descriptions/create-binary-tree-from-descriptions.py) |
