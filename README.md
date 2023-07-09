@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-473/2764-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/691-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-292/1463-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-474/2768-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/692-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-293/1466-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-47/610-red.svg" alt="">
 </p>
 
@@ -349,6 +349,7 @@
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |  | [Python](./Medium/2033_minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
+| 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Medium |  | [Python](./Medium/2074_reverse-nodes-in-even-length-groups/reverse-nodes-in-even-length-groups.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
