@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-474/2768-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/692-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-293/1466-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-475/2772-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/693-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-294/1469-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-47/610-red.svg" alt="">
 </p>
 
@@ -361,6 +361,7 @@
 | 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | Medium |  | [Python](./Medium/2222_number-of-ways-to-select-buildings/number-of-ways-to-select-buildings.py) |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium |  | [Python](./Medium/2226_maximum-candies-allocated-to-k-children/maximum-candies-allocated-to-k-children.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
+| 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | Medium |  | [Python](./Medium/2233_maximum-product-after-k-increments/maximum-product-after-k-increments.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | Medium |  | [Python](./Medium/2241_design-an-atm-machine/design-an-atm-machine.py) |
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | Medium |  | [Python](./Medium/2249_count-lattice-points-inside-a-circle/count-lattice-points-inside-a-circle.py) |
