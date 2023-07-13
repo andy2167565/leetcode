@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-477/2772-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/693-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-296/1469-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-478/2777-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/694-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-297/1473-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-47/610-red.svg" alt="">
 </p>
 
@@ -290,6 +290,7 @@
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard |  | [Python](./Hard/1402_reducing-dishes/reducing-dishes.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
+| 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium |  | [Python](./Medium/1443_minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium |  | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
