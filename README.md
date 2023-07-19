@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-483/2781-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-484/2781-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/695-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-301/1475-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-302/1475-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-48/611-red.svg" alt="">
 </p>
 
@@ -385,6 +385,7 @@
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium |  | [Python](./Medium/2375_construct-smallest-number-from-di-string/construct-smallest-number-from-di-string.py) |
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
+| 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | Medium |  | [Python](./Medium/2420_find-all-good-indices/find-all-good-indices.py) |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | Easy |  | [Python](./Easy/2423_remove-letter-to-equalize-frequency/remove-letter-to-equalize-frequency.py) |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | Medium |  | [Python](./Medium/2424_longest-uploaded-prefix/longest-uploaded-prefix.py) |
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | Medium |  | [Python](./Medium/2425_bitwise-xor-of-all-pairings/bitwise-xor-of-all-pairings.py) |
