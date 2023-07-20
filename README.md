@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-484/2781-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-485/2782-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/695-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-302/1475-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-303/1476-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-48/611-red.svg" alt="">
 </p>
 
@@ -350,6 +350,7 @@
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium |  | [Python](./Medium/1905_count-sub-islands/count-sub-islands.py) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium |  | [Python](./Medium/1922_count-good-numbers/count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
+| 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
