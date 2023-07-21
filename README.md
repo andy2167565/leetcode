@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-485/2782-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-486/2783-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/695-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-303/1476-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-304/1477-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-48/611-red.svg" alt="">
 </p>
 
@@ -223,6 +223,7 @@
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium |  | [Python](./Medium/0789_escape-the-ghosts/escape-the-ghosts.py) |
+| 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Medium |  | [Python](./Medium/0792_number-of-matching-subsequences/number-of-matching-subsequences.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | Medium |  | [Python](./Medium/0809_expressive-words/expressive-words.py) |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
