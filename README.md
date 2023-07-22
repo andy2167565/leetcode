@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-486/2783-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-487/2783-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/695-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-304/1477-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-305/1477-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-48/611-red.svg" alt="">
 </p>
 
@@ -302,6 +302,7 @@
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |  | [Python](./Medium/1466_reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |  | [Python](./Hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy |  | [Python](./Easy/1480_running-sum-of-1d-array/running-sum-of-1d-array.py) |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | Medium |  | [Python](./Medium/1487_making-file-names-unique/making-file-names-unique.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium |  | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |  | [Python](./Medium/1503_last-moment-before-all-ants-fall-out-of-a-plank/last-moment-before-all-ants-fall-out-of-a-plank.py) |
