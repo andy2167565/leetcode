@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-490/2791-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-491/2791-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/697-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-307/1481-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-308/1481-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/613-red.svg" alt="">
 </p>
 
@@ -264,6 +264,7 @@
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium |  | [Python](./Medium/1020_number-of-enclaves/number-of-enclaves.py) |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium |  | [Python](./Medium/1031_maximum-sum-of-two-non-overlapping-subarrays/maximum-sum-of-two-non-overlapping-subarrays.py) |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
+| 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium |  | [Python](./Medium/1091_shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
