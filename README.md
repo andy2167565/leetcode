@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-494/2797-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-495/2797-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/699-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-311/1483-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-312/1483-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/615-red.svg" alt="">
 </p>
 
@@ -251,6 +251,7 @@
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium |  | [Python](./Medium/0950_reveal-cards-in-increasing-order/reveal-cards-in-increasing-order.py) |
+| 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |  | [Python](./Medium/0958_check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py) |
 | 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium |  | [Python](./Medium/0962_maximum-width-ramp/maximum-width-ramp.py) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | [Python](./Medium/0973_k-closest-points-to-origin/k-closest-points-to-origin.py) |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium |  | [Python](./Medium/0974_subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.py) |
