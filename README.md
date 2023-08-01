@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-496/2801-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-497/2801-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/700-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-313/1485-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-314/1485-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/616-red.svg" alt="">
 </p>
 
@@ -486,6 +486,7 @@
 | 2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | Hard |  | [Python](./Hard/2659_make-array-empty/make-array-empty.py) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | Easy |  | [Python](./Easy/2670_find-the-distinct-difference-array/find-the-distinct-difference-array.py) |
 | 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | Medium |  | [Python](./Medium/2671_frequency-tracker/frequency-tracker.py) |
+| 2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | Medium |  | [Python](./Medium/2672_number-of-adjacent-elements-with-the-same-color/number-of-adjacent-elements-with-the-same-color.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy |  | [Python](./Easy/2678_number-of-senior-citizens/number-of-senior-citizens.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | Medium |  | [Python](./Medium/2679_sum-in-a-matrix/sum-in-a-matrix.py) |
 | 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | Medium |  | [Python](./Medium/2680_maximum-or/maximum-or.py) |
