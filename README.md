@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-498/2801-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-499/2802-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/700-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-315/1485-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-316/1486-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/616-red.svg" alt="">
 </p>
 
@@ -231,6 +231,7 @@
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | Medium |  | [Python](./Medium/0820_short-encoding-of-words/short-encoding-of-words.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |  | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
 | 0825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | Medium |  | [Python](./Medium/0825_friends-of-appropriate-ages/friends-of-appropriate-ages.py) |
+| 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium |  | [Python](./Medium/0826_most-profit-assigning-work/most-profit-assigning-work.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
