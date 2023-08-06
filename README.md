@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-501/2805-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/702-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-318/1487-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-49/616-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-502/2813-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/705-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-319/1490-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-49/618-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -374,6 +374,7 @@
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | Medium |  | [Python](./Medium/2100_find-good-days-to-rob-the-bank/find-good-days-to-rob-the-bank.py) |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
+| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
