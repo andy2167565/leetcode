@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-504/2813-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-505/2813-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/705-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-321/1490-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-322/1490-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/618-red.svg" alt="">
 </p>
 
@@ -322,6 +322,7 @@
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium |  | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
 | 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | Medium |  | [Python](./Medium/1558_minimum-numbers-of-function-calls-to-make-target-array/minimum-numbers-of-function-calls-to-make-target-array.py) |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |  | [Python](./Easy/1566_detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
+| 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium |  | [Python](./Medium/1567_maximum-length-of-subarray-with-positive-product/maximum-length-of-subarray-with-positive-product.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |  | [Python](./Easy/1576_replace-all-s-to-avoid-consecutive-repeating-characters/replace-all-s-to-avoid-consecutive-repeating-characters.py) |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy |  | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
