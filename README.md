@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-506/2814-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-507/2814-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/705-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-323/1490-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-324/1490-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/619-red.svg" alt="">
 </p>
 
@@ -347,6 +347,7 @@
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |  | [Python](./Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy |  | [Python](./Easy/1790_check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
+| 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard |  | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy |  | [Python](./Easy/1812_determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | Easy |  | [Python](./Easy/1816_truncate-sentence/truncate-sentence.py) |
