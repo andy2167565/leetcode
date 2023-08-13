@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-508/2814-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-509/2814-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/705-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-325/1490-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-326/1490-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/619-red.svg" alt="">
 </p>
 
@@ -268,6 +268,7 @@
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | Medium |  | [Python](./Medium/1017_convert-to-base-2/convert-to-base-2.py) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium |  | [Python](./Medium/1020_number-of-enclaves/number-of-enclaves.py) |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium |  | [Python](./Medium/1031_maximum-sum-of-two-non-overlapping-subarrays/maximum-sum-of-two-non-overlapping-subarrays.py) |
+| 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | Medium |  | [Python](./Medium/1042_flower-planting-with-no-adjacent/flower-planting-with-no-adjacent.py) |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium |  | [Python](./Medium/1091_shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.py) |
