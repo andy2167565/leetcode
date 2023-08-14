@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-509/2814-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/705-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-326/1490-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-49/619-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-510/2818-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/706-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-327/1492-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-49/620-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -301,6 +301,7 @@
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Medium |  | [Python](./Medium/1366_rank-teams-by-votes/rank-teams-by-votes.py) |
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |  | [Python](./Medium/1367_linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
+| 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium |  | [Python](./Medium/1372_longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |  | [Python](./Medium/1401_circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py) |
