@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-511/2819-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/707-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-328/1492-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-512/2818-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/706-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-329/1492-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/620-red.svg" alt="">
 </p>
 
@@ -346,6 +346,7 @@
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | Medium |  | [Python](./Medium/1774_closest-dessert-cost/closest-dessert-cost.py) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |  | [Python](./Easy/1779_find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium |  | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
+| 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | Medium |  | [Python](./Medium/1781_sum-of-beauty-of-all-substrings/sum-of-beauty-of-all-substrings.py) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |  | [Python](./Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy |  | [Python](./Easy/1790_check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
