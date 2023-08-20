@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-515/2823-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/707-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-332/1495-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-49/621-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-516/2827-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/708-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-333/1497-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-49/622-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -374,6 +374,7 @@
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |  | [Python](./Medium/2033_minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
