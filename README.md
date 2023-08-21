@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-516/2827-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/708-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-333/1497-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-517/2831-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/709-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-334/1500-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-49/622-red.svg" alt="">
 </p>
 
@@ -285,6 +285,7 @@
 | 1215 | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | Medium | $ | [Python](./Medium/1215_stepping-numbers/stepping-numbers.py) |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium |  | [Python](./Medium/1219_path-with-maximum-gold/path-with-maximum-gold.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |  | [Python](./Medium/1239_maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium |  | [Python](./Medium/1249_minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.py) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |  | [Python](./Medium/1254_number-of-closed-islands/number-of-closed-islands.py) |
