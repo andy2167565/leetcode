@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-520/2832-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-521/2832-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/709-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-336/1501-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-337/1501-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-50/622-red.svg" alt="">
 </p>
 
@@ -265,6 +265,7 @@
 | 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |  | [Python](./Medium/0990_satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |  | [Python](./Medium/1004_max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |  | [Python](./Medium/1011_capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py) |
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | Medium |  | [Python](./Medium/1017_convert-to-base-2/convert-to-base-2.py) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium |  | [Python](./Medium/1020_number-of-enclaves/number-of-enclaves.py) |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium |  | [Python](./Medium/1031_maximum-sum-of-two-non-overlapping-subarrays/maximum-sum-of-two-non-overlapping-subarrays.py) |
