@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-523/2832-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/709-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-338/1501-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/622-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-524/2836-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/710-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-339/1502-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-51/624-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -243,6 +243,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium |  | [Python](./Medium/0885_spiral-matrix-iii/spiral-matrix-iii.py) |
+| 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |  | [Python](./Medium/0889_construct-binary-tree-from-preorder-and-postorder-traversal/construct-binary-tree-from-preorder-and-postorder-traversal.py) |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium |  | [Python](./Medium/0901_online-stock-span/online-stock-span.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
