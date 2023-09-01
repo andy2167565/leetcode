@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-527/2838-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-528/2838-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/711-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-342/1503-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-343/1503-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/624-red.svg" alt="">
 </p>
 
@@ -297,6 +297,7 @@
 | 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | Medium | $ | [Python](./Medium/1273_delete-tree-nodes/delete-tree-nodes.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
+| 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | Medium |  | [Python](./Medium/1311_get-watched-videos-by-your-friends/get-watched-videos-by-your-friends.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
