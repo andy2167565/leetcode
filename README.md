@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-528/2838-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/711-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-343/1503-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/624-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-529/2847-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/713-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-344/1508-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-51/626-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -360,6 +360,7 @@
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard |  | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy |  | [Python](./Easy/1812_determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py) |
+| 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium |  | [Python](./Medium/1814_count-nice-pairs-in-an-array/count-nice-pairs-in-an-array.py) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | Easy |  | [Python](./Easy/1816_truncate-sentence/truncate-sentence.py) |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | Hard |  | [Python](./Hard/1819_number-of-different-subsequences-gcds/number-of-different-subsequences-gcds.py) |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy |  | [Python](./Easy/1822_sign-of-the-product-of-an-array/sign-of-the-product-of-an-array.py) |
