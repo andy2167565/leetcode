@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-530/2847-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-531/2847-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/713-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-345/1508-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-346/1508-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/626-red.svg" alt="">
 </p>
 
@@ -274,6 +274,7 @@
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | Medium |  | [Python](./Medium/1042_flower-planting-with-no-adjacent/flower-planting-with-no-adjacent.py) |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium |  | [Python](./Medium/1079_letter-tile-possibilities/letter-tile-possibilities.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium |  | [Python](./Medium/1091_shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
