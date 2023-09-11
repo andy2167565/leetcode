@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-532/2847-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/713-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-347/1508-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/626-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-533/2851-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/714-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-348/1510-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-51/627-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -394,6 +394,7 @@
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Medium |  | [Python](./Medium/2074_reverse-nodes-in-even-length-groups/reverse-nodes-in-even-length-groups.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | Medium |  | [Python](./Medium/2080_range-frequency-queries/range-frequency-queries.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |  | [Python](./Medium/2087_minimum-cost-homecoming-of-a-robot-in-a-grid/minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | Medium |  | [Python](./Medium/2100_find-good-days-to-rob-the-bank/find-good-days-to-rob-the-bank.py) |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
