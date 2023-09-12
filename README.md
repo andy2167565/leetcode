@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-533/2851-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-534/2851-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/714-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-348/1510-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-349/1510-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/627-red.svg" alt="">
 </p>
 
@@ -280,6 +280,7 @@
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | Medium |  | [Python](./Medium/1139_largest-1-bordered-square/largest-1-bordered-square.py) |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | Medium |  | [Python](./Medium/1145_binary-tree-coloring-game/binary-tree-coloring-game.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
