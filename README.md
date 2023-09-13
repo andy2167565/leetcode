@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-534/2851-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-535/2851-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/714-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-349/1510-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-350/1510-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/627-red.svg" alt="">
 </p>
 
@@ -465,6 +465,7 @@
 | 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | Easy |  | [Python](./Easy/2496_maximum-value-of-a-string-in-an-array/maximum-value-of-a-string-in-an-array.py) |
 | 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | Medium |  | [Python](./Medium/2497_maximum-star-sum-of-a-graph/maximum-star-sum-of-a-graph.py) |
 | 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | Medium |  | [Python](./Medium/2498_frog-jump-ii/frog-jump-ii.py) |
+| 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | Medium |  | [Python](./Medium/2502_design-memory-allocator/design-memory-allocator.py) |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | Easy |  | [Python](./Easy/2506_count-pairs-of-similar-strings/count-pairs-of-similar-strings.py) |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |  | [Python](./Medium/2507_smallest-value-after-replacing-with-sum-of-prime-factors/smallest-value-after-replacing-with-sum-of-prime-factors.py) |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | Easy |  | [Python](./Easy/2511_maximum-enemy-forts-that-can-be-captured/maximum-enemy-forts-that-can-be-captured.py) |
