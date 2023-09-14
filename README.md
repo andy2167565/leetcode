@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-535/2851-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-536/2852-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/714-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-350/1510-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-351/1511-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/627-red.svg" alt="">
 </p>
 
@@ -314,6 +314,7 @@
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium |  | [Python](./Medium/1372_longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
+| 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |  | [Python](./Medium/1391_check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid.py) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |  | [Python](./Medium/1401_circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard |  | [Python](./Hard/1402_reducing-dishes/reducing-dishes.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
