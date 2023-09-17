@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-538/2854-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/716-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-353/1511-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/627-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-539/2862-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/718-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-354/1515-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-51/629-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -374,6 +374,7 @@
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium |  | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy |  | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy |  | [Python](./Easy/1844_replace-all-digits-with-characters/replace-all-digits-with-characters.py) |
+| 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | Medium |  | [Python](./Medium/1849_splitting-a-string-into-descending-consecutive-values/splitting-a-string-into-descending-consecutive-values.py) |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |  | [Python](./Medium/1864_minimum-number-of-swaps-to-make-the-binary-string-alternating/minimum-number-of-swaps-to-make-the-binary-string-alternating.py) |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | Medium |  | [Python](./Medium/1865_finding-pairs-with-a-certain-sum/finding-pairs-with-a-certain-sum.py) |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
