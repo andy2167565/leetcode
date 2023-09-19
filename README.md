@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-540/2862-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-541/2862-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/718-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-355/1515-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-356/1515-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/629-red.svg" alt="">
 </p>
 
@@ -406,6 +406,7 @@
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
+| 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | Medium |  | [Python](./Medium/2171_removing-minimum-number-of-magic-beans/removing-minimum-number-of-magic-beans.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
 | 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | Medium |  | [Python](./Medium/2195_append-k-integers-with-minimal-sum/append-k-integers-with-minimal-sum.py) |
