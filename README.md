@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-544/2863-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-545/2863-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/718-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-359/1516-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/629-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-360/1515-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-51/630-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -440,6 +440,7 @@
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium |  | [Python](./Medium/2385_amount-of-time-for-binary-tree-to-be-infected/amount-of-time-for-binary-tree-to-be-infected.py) |
 | 2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | Medium |  | [Python](./Medium/2397_maximum-rows-covered-by-columns/maximum-rows-covered-by-columns.py) |
+| 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium |  | [Python](./Medium/2401_longest-nice-subarray/longest-nice-subarray.py) |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium |  | [Python](./Medium/2406_divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.py) |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard |  | [Python](./Hard/2416_sum-of-prefix-scores-of-strings/sum-of-prefix-scores-of-strings.py) |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | Medium |  | [Python](./Medium/2420_find-all-good-indices/find-all-good-indices.py) |
