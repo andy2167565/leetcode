@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-546/2867-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-547/2867-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/719-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-361/1517-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-362/1517-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/631-red.svg" alt="">
 </p>
 
@@ -408,6 +408,7 @@
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium |  | [Python](./Medium/2134_minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
+| 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium |  | [Python](./Medium/2166_design-bitset/design-bitset.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | Medium |  | [Python](./Medium/2171_removing-minimum-number-of-magic-beans/removing-minimum-number-of-magic-beans.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
