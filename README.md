@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-547/2867-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-548/2867-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/719-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-362/1517-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-363/1517-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/631-red.svg" alt="">
 </p>
 
@@ -253,6 +253,7 @@
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium |  | [Python](./Medium/0923_3sum-with-multiplicity/3sum-with-multiplicity.py) |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
+| 0939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | Medium |  | [Python](./Medium/0939_minimum-area-rectangle/minimum-area-rectangle.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium |  | [Python](./Medium/0950_reveal-cards-in-increasing-order/reveal-cards-in-increasing-order.py) |
 | 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |  | [Python](./Medium/0958_check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py) |
