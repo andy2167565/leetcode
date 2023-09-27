@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-548/2867-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-549/2867-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/719-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-363/1517-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-364/1517-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-51/631-red.svg" alt="">
 </p>
 
@@ -282,6 +282,7 @@
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |  | [Python](./Medium/1111_maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
+| 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | $ | [Python](./Medium/1135_connecting-cities-with-minimum-cost/connecting-cities-with-minimum-cost.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | Medium |  | [Python](./Medium/1139_largest-1-bordered-square/largest-1-bordered-square.py) |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | Medium |  | [Python](./Medium/1145_binary-tree-coloring-game/binary-tree-coloring-game.py) |
