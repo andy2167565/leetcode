@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-549/2867-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-550/2868-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/719-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-364/1517-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/631-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-365/1517-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-51/632-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -219,6 +219,7 @@
 | 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | $ | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | $ | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
+| 0764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | Medium |  | [Python](./Medium/0764_largest-plus-sign/largest-plus-sign.py) |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |  | [Python](./Medium/0767_reorganize-string/reorganize-string.py) |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
