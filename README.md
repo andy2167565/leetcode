@@ -3,8 +3,8 @@
 <p>
     <img src="https://img.shields.io/badge/Solved-551/2868-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/719-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-366/1517-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-51/632-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-365/1517-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/632-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
