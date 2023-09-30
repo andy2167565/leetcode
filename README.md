@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-551/2868-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/719-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-365/1517-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/632-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-552/2868-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/718-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-366/1517-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/633-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -394,6 +394,7 @@
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | Medium |  | [Python](./Medium/1947_maximum-compatibility-score-sum/maximum-compatibility-score-sum.py) |
+| 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | Medium |  | [Python](./Medium/1954_minimum-garden-perimeter-to-collect-enough-apples/minimum-garden-perimeter-to-collect-enough-apples.py) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
