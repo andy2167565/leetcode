@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-554/2876-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-555/2876-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/720-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-368/1522-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-369/1522-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/634-red.svg" alt="">
 </p>
 
@@ -407,6 +407,7 @@
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium |  | [Python](./Medium/2070_most-beautiful-item-for-each-query/most-beautiful-item-for-each-query.py) |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Medium |  | [Python](./Medium/2074_reverse-nodes-in-even-length-groups/reverse-nodes-in-even-length-groups.py) |
+| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium |  | [Python](./Medium/2075_decode-the-slanted-ciphertext/decode-the-slanted-ciphertext.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | Medium |  | [Python](./Medium/2080_range-frequency-queries/range-frequency-queries.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |  | [Python](./Medium/2087_minimum-cost-homecoming-of-a-robot-in-a-grid/minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
