@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-555/2876-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/720-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-369/1522-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-556/2891-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/736-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-370/1521-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/634-red.svg" alt="">
 </p>
 
@@ -413,6 +413,7 @@
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |  | [Python](./Medium/2087_minimum-cost-homecoming-of-a-robot-in-a-grid/minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | Medium |  | [Python](./Medium/2100_find-good-days-to-rob-the-bank/find-good-days-to-rob-the-bank.py) |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
+| 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | Medium |  | [Python](./Medium/2121_intervals-between-identical-elements/intervals-between-identical-elements.py) |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium |  | [Python](./Medium/2134_minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
