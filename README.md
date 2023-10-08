@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-559/2893-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-560/2893-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/736-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-373/1523-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-374/1523-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/634-red.svg" alt="">
 </p>
 
@@ -241,6 +241,7 @@
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
+| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium |  | [Python](./Medium/0875_koko-eating-bananas/koko-eating-bananas.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium |  | [Python](./Medium/0885_spiral-matrix-iii/spiral-matrix-iii.py) |
