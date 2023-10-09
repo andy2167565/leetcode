@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-560/2893-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/736-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-374/1523-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/634-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-561/2897-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/737-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-375/1525-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/635-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -396,6 +396,7 @@
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium |  | [Python](./Medium/1905_count-sub-islands/count-sub-islands.py) |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium |  | [Python](./Medium/1914_cyclically-rotating-a-grid/cyclically-rotating-a-grid.py) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium |  | [Python](./Medium/1922_count-good-numbers/count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
