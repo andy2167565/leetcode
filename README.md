@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-562/2897-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-563/2897-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/737-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-376/1525-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-377/1525-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/635-red.svg" alt="">
 </p>
 
@@ -554,6 +554,7 @@
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy |  | [Python](./Easy/2678_number-of-senior-citizens/number-of-senior-citizens.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | Medium |  | [Python](./Medium/2679_sum-in-a-matrix/sum-in-a-matrix.py) |
 | 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | Medium |  | [Python](./Medium/2680_maximum-or/maximum-or.py) |
+| 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium |  | [Python](./Medium/2685_count-the-number-of-complete-components/count-the-number-of-complete-components.py) |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Easy |  | [Python](./Easy/2696_minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.py) |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | Easy |  | [Python](./Easy/2697_lexicographically-smallest-palindrome/lexicographically-smallest-palindrome.py) |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium |  | [Python](./Medium/2698_find-the-punishment-number-of-an-integer/find-the-punishment-number-of-an-integer.py) |
