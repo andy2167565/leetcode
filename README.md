@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-565/2898-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-566/2898-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/737-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-379/1526-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-380/1526-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/635-red.svg" alt="">
 </p>
 
@@ -506,6 +506,7 @@
 | 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | Easy |  | [Python](./Easy/2525_categorize-box-according-to-criteria/categorize-box-according-to-criteria.py) |
 | 2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | Medium |  | [Python](./Medium/2526_find-consecutive-integers-from-a-data-stream/find-consecutive-integers-from-a-data-stream.py) |
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | Medium |  | [Python](./Medium/2527_find-xor-beauty-of-array/find-xor-beauty-of-array.py) |
+| 2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | Medium |  | [Python](./Medium/2531_make-number-of-distinct-characters-equal/make-number-of-distinct-characters-equal.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |  | [Python](./Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.py) |
 | 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | Medium |  | [Python](./Medium/2536_increment-submatrices-by-one/increment-submatrices-by-one.py) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
