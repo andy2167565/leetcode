@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-566/2898-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/737-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-380/1526-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/635-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-567/2902-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/738-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-381/1528-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/636-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -388,6 +388,7 @@
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | Hard |  | [Python](./Hard/1819_number-of-different-subsequences-gcds/number-of-different-subsequences-gcds.py) |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy |  | [Python](./Easy/1822_sign-of-the-product-of-an-array/sign-of-the-product-of-an-array.py) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium |  | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
+| 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | Medium |  | [Python](./Medium/1824_minimum-sideway-jumps/minimum-sideway-jumps.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy |  | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy |  | [Python](./Easy/1844_replace-all-digits-with-characters/replace-all-digits-with-characters.py) |
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | Medium |  | [Python](./Medium/1849_splitting-a-string-into-descending-consecutive-values/splitting-a-string-into-descending-consecutive-values.py) |
