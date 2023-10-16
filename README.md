@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-567/2902-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/738-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-381/1528-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-568/2906-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/739-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-382/1531-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/636-red.svg" alt="">
 </p>
 
@@ -272,6 +272,7 @@
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |  | [Python](./Medium/1004_max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |  | [Python](./Medium/1011_capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py) |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium |  | [Python](./Medium/1014_best-sightseeing-pair/best-sightseeing-pair.py) |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | Medium |  | [Python](./Medium/1016_binary-string-with-substrings-representing-1-to-n/binary-string-with-substrings-representing-1-to-n.py) |
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | Medium |  | [Python](./Medium/1017_convert-to-base-2/convert-to-base-2.py) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium |  | [Python](./Medium/1020_number-of-enclaves/number-of-enclaves.py) |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | Medium |  | [Python](./Medium/1024_video-stitching/video-stitching.py) |
