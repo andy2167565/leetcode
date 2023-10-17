@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-568/2906-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-569/2906-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/739-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-382/1531-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-383/1531-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/636-red.svg" alt="">
 </p>
 
@@ -456,6 +456,7 @@
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium |  | [Python](./Medium/2359_find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
+| 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | Medium |  | [Python](./Medium/2369_check-if-there-is-a-valid-partition-for-the-array/check-if-there-is-a-valid-partition-for-the-array.py) |
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium |  | [Python](./Medium/2375_construct-smallest-number-from-di-string/construct-smallest-number-from-di-string.py) |
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium |  | [Python](./Medium/2385_amount-of-time-for-binary-tree-to-be-infected/amount-of-time-for-binary-tree-to-be-infected.py) |
