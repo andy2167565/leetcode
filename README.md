@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-571/2907-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-572/2907-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/739-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-385/1532-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-386/1532-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/636-red.svg" alt="">
 </p>
 
@@ -235,6 +235,7 @@
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium |  | [Python](./Medium/0826_most-profit-assigning-work/most-profit-assigning-work.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
+| 0842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium |  | [Python](./Medium/0842_split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |  | [Python](./Medium/0853_car-fleet/car-fleet.py) |
