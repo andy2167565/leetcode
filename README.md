@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-572/2907-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-573/2907-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/739-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-386/1532-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-387/1532-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/636-red.svg" alt="">
 </p>
 
@@ -401,6 +401,7 @@
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium |  | [Python](./Medium/1870_minimum-speed-to-arrive-on-time/minimum-speed-to-arrive-on-time.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
+| 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium |  | [Python](./Medium/1895_largest-magic-square/largest-magic-square.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium |  | [Python](./Medium/1905_count-sub-islands/count-sub-islands.py) |
