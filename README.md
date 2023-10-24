@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-573/2907-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/739-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-387/1532-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/636-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-574/2911-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/740-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-388/1534-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/637-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -457,6 +457,7 @@
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium |  | [Python](./Medium/2337_move-pieces-to-obtain-a-string/move-pieces-to-obtain-a-string.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
+| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium |  | [Python](./Medium/2353_design-a-food-rating-system/design-a-food-rating-system.py) |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium |  | [Python](./Medium/2359_find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
