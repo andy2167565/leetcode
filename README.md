@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-574/2911-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-575/2911-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/740-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-388/1534-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-389/1534-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/637-red.svg" alt="">
 </p>
 
@@ -298,6 +298,7 @@
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | Medium |  | [Python](./Medium/1169_invalid-transactions/invalid-transactions.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |  | [Python](./Medium/1171_remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | Medium | $ | [Python](./Medium/1182_shortest-distance-to-target-color/shortest-distance-to-target-color.py) |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium |  | [Python](./Medium/1191_k-concatenation-maximum-sum/k-concatenation-maximum-sum.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
