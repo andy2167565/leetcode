@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-575/2911-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-576/2912-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/740-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-389/1534-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/637-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-390/1534-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/638-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -378,6 +378,7 @@
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium |  | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | Easy |  | [Python](./Easy/1763_longest-nice-substring/longest-nice-substring.py) |
+| 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | Medium |  | [Python](./Medium/1765_map-of-highest-peak/map-of-highest-peak.py) |
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | Medium |  | [Python](./Medium/1774_closest-dessert-cost/closest-dessert-cost.py) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |  | [Python](./Easy/1779_find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium |  | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
