@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-576/2912-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-577/2912-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/740-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-390/1534-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-391/1534-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/638-red.svg" alt="">
 </p>
 
@@ -238,6 +238,7 @@
 | 0842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium |  | [Python](./Medium/0842_split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
+| 0851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | Medium |  | [Python](./Medium/0851_loud-and-rich/loud-and-rich.py) |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |  | [Python](./Medium/0853_car-fleet/car-fleet.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
