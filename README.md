@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-577/2912-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-578/2912-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/740-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-391/1534-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-392/1534-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-52/638-red.svg" alt="">
 </p>
 
@@ -248,6 +248,7 @@
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium |  | [Python](./Medium/0885_spiral-matrix-iii/spiral-matrix-iii.py) |
 | 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |  | [Python](./Medium/0889_construct-binary-tree-from-preorder-and-postorder-traversal/construct-binary-tree-from-preorder-and-postorder-traversal.py) |
+| 0894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | Medium |  | [Python](./Medium/0894_all-possible-full-binary-trees/all-possible-full-binary-trees.py) |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium |  | [Python](./Medium/0901_online-stock-span/online-stock-span.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
