@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-579/2916-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/741-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-393/1536-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/639-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-580/2920-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/742-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-394/1538-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-52/640-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -269,6 +269,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |  | [Python](./Easy/0977_squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
 | 0979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | Medium |  | [Python](./Medium/0979_distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.py) |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
+| 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium |  | [Python](./Medium/0983_minimum-cost-for-tickets/minimum-cost-for-tickets.py) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |  | [Python](./Hard/0987_vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py) |
 | 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |  | [Python](./Medium/0990_satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
