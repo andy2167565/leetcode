@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-581/2920-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-582/2920-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/742-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-395/1538-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-52/640-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-53/640-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -325,6 +325,7 @@
 | 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | Medium |  | [Python](./Medium/1297_maximum-number-of-occurrences-of-a-substring/maximum-number-of-occurrences-of-a-substring.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | Medium |  | [Python](./Medium/1311_get-watched-videos-by-your-friends/get-watched-videos-by-your-friends.py) |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |  | [Python](./Hard/1312_minimum-insertion-steps-to-make-a-string-palindrome/minimum-insertion-steps-to-make-a-string-palindrome.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |  | [Python](./Medium/1319_number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
