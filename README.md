@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-582/2920-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-583/2922-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/742-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-395/1538-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-53/640-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-395/1539-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-54/641-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -355,6 +355,7 @@
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |  | [Python](./Medium/1503_last-moment-before-all-ants-fall-out-of-a-plank/last-moment-before-all-ants-fall-out-of-a-plank.py) |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |  | [Python](./Medium/1509_minimum-difference-between-largest-and-smallest-value-in-three-moves/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
+| 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |  | [Python](./Hard/1510_stone-game-iv/stone-game-iv.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | Medium |  | [Python](./Medium/1540_can-convert-string-in-k-moves/can-convert-string-in-k-moves.py) |
