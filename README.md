@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-584/2922-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-585/2922-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/742-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-396/1540-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-397/1540-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-54/640-red.svg" alt="">
 </p>
 
@@ -299,6 +299,7 @@
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | Medium |  | [Python](./Medium/1145_binary-tree-coloring-game/binary-tree-coloring-game.py) |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Medium |  | [Python](./Medium/1146_snapshot-array/snapshot-array.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
+| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | Medium |  | [Python](./Medium/1169_invalid-transactions/invalid-transactions.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
