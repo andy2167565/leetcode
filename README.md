@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-586/2926-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-587/2926-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/743-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-397/1542-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-398/1542-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-55/641-red.svg" alt="">
 </p>
 
@@ -448,6 +448,7 @@
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | Medium |  | [Python](./Medium/2171_removing-minimum-number-of-magic-beans/removing-minimum-number-of-magic-beans.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
+| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |  | [Python](./Medium/2192_all-ancestors-of-a-node-in-a-directed-acyclic-graph/all-ancestors-of-a-node-in-a-directed-acyclic-graph.py) |
 | 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | Medium |  | [Python](./Medium/2195_append-k-integers-with-minimal-sum/append-k-integers-with-minimal-sum.py) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |  | [Python](./Medium/2196_create-binary-tree-from-descriptions/create-binary-tree-from-descriptions.py) |
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | Medium |  | [Python](./Medium/2202_maximize-the-topmost-element-after-k-moves/maximize-the-topmost-element-after-k-moves.py) |
