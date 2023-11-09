@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-588/2926-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-589/2927-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/743-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-398/1542-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-56/641-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-399/1542-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-56/642-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -586,6 +586,7 @@
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy |  | [Python](./Easy/2706_buy-two-chocolates/buy-two-chocolates.py) |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium |  | [Python](./Medium/2707_extra-characters-in-a-string/extra-characters-in-a-string.py) |
 | 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | Medium |  | [Python](./Medium/2708_maximum-strength-of-a-group/maximum-strength-of-a-group.py) |
+| 2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | Medium |  | [Python](./Medium/2712_minimum-cost-to-make-all-characters-equal/minimum-cost-to-make-all-characters-equal.py) |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | Easy |  | [Python](./Easy/2716_minimize-string-length/minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | Easy |  | [Python](./Easy/2717_semi-ordered-permutation/semi-ordered-permutation.py) |
 | 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | Medium |  | [Python](./Medium/2718_sum-of-matrix-after-queries/sum-of-matrix-after-queries.py) |
