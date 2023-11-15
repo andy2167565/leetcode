@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-594/2935-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-595/2935-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/745-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-404/1546-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-405/1546-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-56/644-red.svg" alt="">
 </p>
 
@@ -266,6 +266,7 @@
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium |  | [Python](./Medium/0950_reveal-cards-in-increasing-order/reveal-cards-in-increasing-order.py) |
 | 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |  | [Python](./Medium/0958_check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py) |
 | 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium |  | [Python](./Medium/0962_maximum-width-ramp/maximum-width-ramp.py) |
+| 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium |  | [Python](./Medium/0966_vowel-spellchecker/vowel-spellchecker.py) |
 | 0971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | Medium |  | [Python](./Medium/0971_flip-binary-tree-to-match-preorder-traversal/flip-binary-tree-to-match-preorder-traversal.py) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | [Python](./Medium/0973_k-closest-points-to-origin/k-closest-points-to-origin.py) |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium |  | [Python](./Medium/0974_subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.py) |
