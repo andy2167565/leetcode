@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-598/2936-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/745-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-407/1547-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-57/644-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-599/2940-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/746-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-408/1549-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-57/645-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -387,6 +387,7 @@
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium |  | [Python](./Medium/1706_where-will-the-ball-fall/where-will-the-ball-fall.py) |
+| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | Medium |  | [Python](./Medium/1711_count-good-meals/count-good-meals.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | Medium |  | [Python](./Medium/1738_find-kth-largest-xor-coordinate-value/find-kth-largest-xor-coordinate-value.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
