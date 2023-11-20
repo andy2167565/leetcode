@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-599/2940-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-600/2940-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/746-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-408/1549-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-409/1549-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-57/645-red.svg" alt="">
 </p>
 
@@ -310,6 +310,7 @@
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |  | [Python](./Medium/1171_remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | Medium | $ | [Python](./Medium/1182_shortest-distance-to-target-color/shortest-distance-to-target-color.py) |
+| 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium |  | [Python](./Medium/1186_maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.py) |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium |  | [Python](./Medium/1191_k-concatenation-maximum-sum/k-concatenation-maximum-sum.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1215 | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | Medium | $ | [Python](./Medium/1215_stepping-numbers/stepping-numbers.py) |
