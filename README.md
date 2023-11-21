@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-600/2940-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-601/2940-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/746-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-409/1549-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-410/1549-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-57/645-red.svg" alt="">
 </p>
 
@@ -385,6 +385,7 @@
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium |  | [Python](./Medium/1653_minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.py) |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |  | [Python](./Medium/1670_design-front-middle-back-queue/design-front-middle-back-queue.py) |
+| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium |  | [Python](./Medium/1706_where-will-the-ball-fall/where-will-the-ball-fall.py) |
