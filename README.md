@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-601/2940-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-602/2940-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/746-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-410/1549-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-411/1549-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-57/645-red.svg" alt="">
 </p>
 
@@ -432,6 +432,7 @@
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | Medium |  | [Python](./Medium/1947_maximum-compatibility-score-sum/maximum-compatibility-score-sum.py) |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | Medium |  | [Python](./Medium/1953_maximum-number-of-weeks-for-which-you-can-work/maximum-number-of-weeks-for-which-you-can-work.py) |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | Medium |  | [Python](./Medium/1954_minimum-garden-perimeter-to-collect-enough-apples/minimum-garden-perimeter-to-collect-enough-apples.py) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
