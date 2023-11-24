@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-603/2941-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-604/2941-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/746-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-412/1549-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-413/1549-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-57/646-red.svg" alt="">
 </p>
 
@@ -292,6 +292,7 @@
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Medium |  | [Python](./Medium/1072_flip-columns-for-maximum-number-of-equal-rows/flip-columns-for-maximum-number-of-equal-rows.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium |  | [Python](./Medium/1079_letter-tile-possibilities/letter-tile-possibilities.py) |
+| 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Medium |  | [Python](./Medium/1080_insufficient-nodes-in-root-to-leaf-paths/insufficient-nodes-in-root-to-leaf-paths.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium |  | [Python](./Medium/1091_shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |  | [Python](./Medium/1111_maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
