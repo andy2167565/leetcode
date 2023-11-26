@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-605/2941-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/746-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-414/1549-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-57/646-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-606/2949-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/748-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-415/1553-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-57/648-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -292,6 +292,7 @@
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Medium |  | [Python](./Medium/1072_flip-columns-for-maximum-number-of-equal-rows/flip-columns-for-maximum-number-of-equal-rows.py) |
+| 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | Medium |  | [Python](./Medium/1073_adding-two-negabinary-numbers/adding-two-negabinary-numbers.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium |  | [Python](./Medium/1079_letter-tile-possibilities/letter-tile-possibilities.py) |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Medium |  | [Python](./Medium/1080_insufficient-nodes-in-root-to-leaf-paths/insufficient-nodes-in-root-to-leaf-paths.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium |  | [Python](./Medium/1091_shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.py) |
