@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-606/2949-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-607/2949-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/748-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-415/1553-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-416/1553-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-57/648-red.svg" alt="">
 </p>
 
@@ -380,6 +380,7 @@
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy |  | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium |  | [Python](./Medium/1593_split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
+| 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium |  | [Python](./Medium/1594_maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.py) |
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | Medium |  | [Python](./Medium/1600_throne-inheritance/throne-inheritance.py) |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |  | [Python](./Medium/1604_alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) |
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | Medium |  | [Python](./Medium/1620_coordinate-with-maximum-network-quality/coordinate-with-maximum-network-quality.py) |
