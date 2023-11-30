@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-609/2949-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-610/2950-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/748-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-417/1553-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-418/1554-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-58/648-red.svg" alt="">
 </p>
 
@@ -369,6 +369,7 @@
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |  | [Python](./Medium/1503_last-moment-before-all-ants-fall-out-of-a-plank/last-moment-before-all-ants-fall-out-of-a-plank.py) |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |  | [Python](./Medium/1509_minimum-difference-between-largest-and-smallest-value-in-three-moves/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |  | [Python](./Hard/1510_stone-game-iv/stone-game-iv.py) |
+| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | Medium |  | [Python](./Medium/1540_can-convert-string-in-k-moves/can-convert-string-in-k-moves.py) |
