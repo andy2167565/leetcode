@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-614/2954-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-615/2954-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/749-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-419/1556-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-61/649-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-419/1555-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-62/650-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -222,6 +222,7 @@
 | 0764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | Medium |  | [Python](./Medium/0764_largest-plus-sign/largest-plus-sign.py) |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |  | [Python](./Medium/0767_reorganize-string/reorganize-string.py) |
 | 0768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | Hard |  | [Python](./Hard/0768_max-chunks-to-make-sorted-ii/max-chunks-to-make-sorted-ii.py) |
+| 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard |  | [Python](./Hard/0773_sliding-puzzle/sliding-puzzle.py) |
 | 0776 | [Split BST](https://leetcode.com/problems/split-bst/) | Medium | $ | [Python](./Medium/0776_split-bst/split-bst.py) |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
