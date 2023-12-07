@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-616/2954-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/749-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-420/1555-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-62/650-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-617/2985-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-421/1568-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-62/651-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -625,3 +625,4 @@
 | 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | Medium |  | [Python](./Medium/2745_construct-the-longest-new-string/construct-the-longest-new-string.py) |
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium |  | [Python](./Medium/2771_longest-non-decreasing-subarray-from-two-arrays/longest-non-decreasing-subarray-from-two-arrays.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
+| 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
