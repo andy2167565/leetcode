@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-617/2985-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-618/2985-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-421/1568-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-422/1568-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-62/651-red.svg" alt="">
 </p>
 
@@ -414,6 +414,7 @@
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | Medium |  | [Python](./Medium/1781_sum-of-beauty-of-all-substrings/sum-of-beauty-of-all-substrings.py) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |  | [Python](./Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy |  | [Python](./Easy/1790_check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py) |
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium |  | [Python](./Medium/1792_maximum-average-pass-ratio/maximum-average-pass-ratio.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard |  | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
