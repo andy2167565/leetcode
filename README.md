@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-618/2985-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-422/1568-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-62/651-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-619/2993-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-423/1572-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-62/653-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -243,6 +243,7 @@
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | Medium |  | [Python](./Medium/0851_loud-and-rich/loud-and-rich.py) |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |  | [Python](./Medium/0853_car-fleet/car-fleet.py) |
+| 0861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | Medium |  | [Python](./Medium/0861_score-after-flipping-matrix/score-after-flipping-matrix.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
