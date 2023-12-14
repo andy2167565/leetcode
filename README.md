@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-622/2993-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-623/2994-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-426/1572-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-62/653-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-426/1573-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-63/653-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -631,3 +631,4 @@
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium |  | [Python](./Medium/2771_longest-non-decreasing-subarray-from-two-arrays/longest-non-decreasing-subarray-from-two-arrays.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
+| 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
