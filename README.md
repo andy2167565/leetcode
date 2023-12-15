@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-623/2994-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-624/2994-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-426/1573-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-63/653-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-64/653-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -349,6 +349,7 @@
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |  | [Python](./Medium/1358_number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
+| 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | Hard |  | [Python](./Hard/1363_largest-multiple-of-three/largest-multiple-of-three.py) |
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Medium |  | [Python](./Medium/1366_rank-teams-by-votes/rank-teams-by-votes.py) |
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |  | [Python](./Medium/1367_linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium |  | [Python](./Medium/1372_longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py) |
