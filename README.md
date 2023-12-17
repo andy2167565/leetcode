@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-625/2994-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-426/1573-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-65/653-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-626/2998-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/769-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-426/1575-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-66/654-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -354,6 +354,7 @@
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |  | [Python](./Medium/1367_linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium |  | [Python](./Medium/1372_longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
+| 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | Hard |  | [Python](./Hard/1377_frog-position-after-t-seconds/frog-position-after-t-seconds.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |  | [Python](./Medium/1391_check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid.py) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |  | [Python](./Medium/1401_circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py) |
