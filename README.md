@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-626/2998-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-627/2998-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/769-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-426/1575-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-66/654-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-67/654-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -339,6 +339,7 @@
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
 | 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | Medium |  | [Python](./Medium/1297_maximum-number-of-occurrences-of-a-substring/maximum-number-of-occurrences-of-a-substring.py) |
+| 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard |  | [Python](./Hard/1298_maximum-candies-you-can-get-from-boxes/maximum-candies-you-can-get-from-boxes.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | Medium |  | [Python](./Medium/1311_get-watched-videos-by-your-friends/get-watched-videos-by-your-friends.py) |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |  | [Python](./Hard/1312_minimum-insertion-steps-to-make-a-string-palindrome/minimum-insertion-steps-to-make-a-string-palindrome.py) |
