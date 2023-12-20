@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-628/2998-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-629/2998-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/769-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-426/1575-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-427/1575-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-68/654-red.svg" alt="">
 </p>
 
@@ -404,6 +404,7 @@
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |  | [Python](./Medium/1670_design-front-middle-back-queue/design-front-middle-back-queue.py) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
+| 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | Medium |  | [Python](./Medium/1702_maximum-binary-string-after-change/maximum-binary-string-after-change.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium |  | [Python](./Medium/1706_where-will-the-ball-fall/where-will-the-ball-fall.py) |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | Medium |  | [Python](./Medium/1711_count-good-meals/count-good-meals.py) |
