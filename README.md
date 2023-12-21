@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-629/2998-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-630/2999-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/769-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-427/1575-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-68/654-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-428/1575-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-68/655-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -262,6 +262,7 @@
 | 0919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | Medium |  | [Python](./Medium/0919_complete-binary-tree-inserter/complete-binary-tree-inserter.py) |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium |  | [Python](./Medium/0923_3sum-with-multiplicity/3sum-with-multiplicity.py) |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
+| 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium |  | [Python](./Medium/0934_shortest-bridge/shortest-bridge.py) |
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
 | 0939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | Medium |  | [Python](./Medium/0939_minimum-area-rectangle/minimum-area-rectangle.py) |
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium |  | [Python](./Medium/0948_bag-of-tokens/bag-of-tokens.py) |
