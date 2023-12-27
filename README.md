@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-631/2999-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/769-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-428/1575-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-69/655-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-632/3008-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/771-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-429/1579-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-69/658-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -476,6 +476,7 @@
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | Medium |  | [Python](./Medium/2121_intervals-between-identical-elements/intervals-between-identical-elements.py) |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium |  | [Python](./Medium/2134_minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.py) |
+| 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | Medium |  | [Python](./Medium/2135_count-words-obtained-after-adding-a-letter/count-words-obtained-after-adding-a-letter.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium |  | [Python](./Medium/2166_design-bitset/design-bitset.py) |
