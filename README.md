@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-632/3008-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-633/3009-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/771-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-429/1579-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-430/1580-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-69/658-red.svg" alt="">
 </p>
 
@@ -414,6 +414,7 @@
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | Medium |  | [Python](./Medium/1738_find-kth-largest-xor-coordinate-value/find-kth-largest-xor-coordinate-value.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium |  | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
+| 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | Medium |  | [Python](./Medium/1754_largest-merge-of-two-strings/largest-merge-of-two-strings.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | Easy |  | [Python](./Easy/1763_longest-nice-substring/longest-nice-substring.py) |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | Medium |  | [Python](./Medium/1765_map-of-highest-peak/map-of-highest-peak.py) |
