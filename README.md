@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-634/3009-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-635/3009-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/771-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-431/1580-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-69/658-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-70/658-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -277,6 +277,7 @@
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium |  | [Python](./Medium/0974_subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.py) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |  | [Python](./Easy/0977_squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
 | 0979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | Medium |  | [Python](./Medium/0979_distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.py) |
+| 0980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard |  | [Python](./Hard/0980_unique-paths-iii/unique-paths-iii.py) |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium |  | [Python](./Medium/0983_minimum-cost-for-tickets/minimum-cost-for-tickets.py) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |  | [Python](./Hard/0987_vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py) |
