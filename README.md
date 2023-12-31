@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-635/3009-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/771-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-431/1580-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-70/658-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-636/3013-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/772-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-432/1582-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-70/659-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -465,6 +465,7 @@
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |  | [Python](./Medium/2033_minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid.py) |
+| 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | Medium |  | [Python](./Medium/2034_stock-price-fluctuation/stock-price-fluctuation.py) |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium |  | [Python](./Medium/2048_next-greater-numerically-balanced-number/next-greater-numerically-balanced-number.py) |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | Medium |  | [Python](./Medium/2055_plates-between-candles/plates-between-candles.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
