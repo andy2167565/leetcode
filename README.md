@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-636/3013-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/772-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-432/1582-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-70/659-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-637/3021-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/775-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-433/1586-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-70/660-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -218,6 +218,7 @@
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
 | 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | $ | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
+| 0755 | [Pour Water](https://leetcode.com/problems/pour-water/) | Medium | $ | [Python](./Medium/0755_pour-water/pour-water.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | $ | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | Medium |  | [Python](./Medium/0764_largest-plus-sign/largest-plus-sign.py) |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |  | [Python](./Medium/0767_reorganize-string/reorganize-string.py) |
