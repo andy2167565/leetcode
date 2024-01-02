@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-637/3021-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-638/3021-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/775-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-433/1586-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-434/1586-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-70/660-red.svg" alt="">
 </p>
 
@@ -519,6 +519,7 @@
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | Medium |  | [Python](./Medium/2369_check-if-there-is-a-valid-partition-for-the-array/check-if-there-is-a-valid-partition-for-the-array.py) |
+| 2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | Medium |  | [Python](./Medium/2370_longest-ideal-subsequence/longest-ideal-subsequence.py) |
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium |  | [Python](./Medium/2375_construct-smallest-number-from-di-string/construct-smallest-number-from-di-string.py) |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium |  | [Python](./Medium/2381_shifting-letters-ii/shifting-letters-ii.py) |
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
