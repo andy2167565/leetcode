@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-643/3033-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-644/3033-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-437/1591-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-438/1591-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-72/664-red.svg" alt="">
 </p>
 
@@ -516,6 +516,7 @@
 | 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | Medium |  | [Python](./Medium/2317_maximum-xor-after-operations/maximum-xor-after-operations.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | Hard |  | [Python](./Hard/2321_maximum-score-of-spliced-array/maximum-score-of-spliced-array.py) |
+| 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | Medium |  | [Python](./Medium/2332_the-latest-time-to-catch-a-bus/the-latest-time-to-catch-a-bus.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium |  | [Python](./Medium/2337_move-pieces-to-obtain-a-string/move-pieces-to-obtain-a-string.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
