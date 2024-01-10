@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-645/3033-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-439/1591-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-72/664-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-646/3003-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/761-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-440/1579-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-72/663-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -598,6 +598,7 @@
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | Medium |  | [Python](./Medium/2571_minimum-operations-to-reduce-an-integer-to-0/minimum-operations-to-reduce-an-integer-to-0.py) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy |  | [Python](./Easy/2574_left-and-right-sum-differences/left-and-right-sum-differences.py) |
 | 2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | Medium |  | [Python](./Medium/2575_find-the-divisibility-array-of-a-string/find-the-divisibility-array-of-a-string.py) |
+| 2576 | [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | Medium |  | [Python](./Medium/2576_find-the-maximum-number-of-marked-indices/find-the-maximum-number-of-marked-indices.py) |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | Easy |  | [Python](./Easy/2578_split-with-minimum-sum/split-with-minimum-sum.py) |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium |  | [Python](./Medium/2579_count-total-number-of-colored-cells/count-total-number-of-colored-cells.py) |
 | 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Medium |  | [Python](./Medium/2580_count-ways-to-group-overlapping-ranges/count-ways-to-group-overlapping-ranges.py) |
