@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-646/3003-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-647/3004-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/761-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-440/1579-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-72/663-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-440/1580-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-73/663-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -368,6 +368,7 @@
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |  | [Python](./Medium/1401_circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard |  | [Python](./Hard/1402_reducing-dishes/reducing-dishes.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium |  | [Python](./Medium/1405_longest-happy-string/longest-happy-string.py) |
+| 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard |  | [Python](./Hard/1411_number-of-ways-to-paint-n-3-grid/number-of-ways-to-paint-n-3-grid.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |  | [Python](./Medium/1424_diagonal-traverse-ii/diagonal-traverse-ii.py) |
