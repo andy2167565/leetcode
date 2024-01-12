@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-647/3004-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-648/3004-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/761-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-440/1580-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-441/1580-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-73/663-red.svg" alt="">
 </p>
 
@@ -385,6 +385,7 @@
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium |  | [Python](./Medium/1497_check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |  | [Python](./Medium/1503_last-moment-before-all-ants-fall-out-of-a-plank/last-moment-before-all-ants-fall-out-of-a-plank.py) |
+| 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1504_count-submatrices-with-all-ones/count-submatrices-with-all-ones.py) |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |  | [Python](./Medium/1509_minimum-difference-between-largest-and-smallest-value-in-three-moves/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |  | [Python](./Hard/1510_stone-game-iv/stone-game-iv.py) |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
