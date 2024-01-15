@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-650/3008-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-651/3008-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/762-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-443/1582-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-444/1582-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-73/664-red.svg" alt="">
 </p>
 
@@ -389,6 +389,7 @@
 | 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1504_count-submatrices-with-all-ones/count-submatrices-with-all-ones.py) |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |  | [Python](./Medium/1509_minimum-difference-between-largest-and-smallest-value-in-three-moves/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |  | [Python](./Hard/1510_stone-game-iv/stone-game-iv.py) |
+| 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium |  | [Python](./Medium/1514_path-with-maximum-probability/path-with-maximum-probability.py) |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
