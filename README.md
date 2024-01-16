@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-651/3008-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-652/3008-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/762-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-444/1582-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-445/1582-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-73/664-red.svg" alt="">
 </p>
 
@@ -339,6 +339,7 @@
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium |  | [Python](./Medium/1249_minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.py) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |  | [Python](./Medium/1254_number-of-closed-islands/number-of-closed-islands.py) |
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
+| 1258 | [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) | Medium | $ | [Python](./Medium/1258_synonymous-sentences/synonymous-sentences.py) |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Medium |  | [Python](./Medium/1262_greatest-sum-divisible-by-three/greatest-sum-divisible-by-three.py) |
 | 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | Medium | $ | [Python](./Medium/1273_delete-tree-nodes/delete-tree-nodes.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
