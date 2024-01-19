@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-654/3009-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-655/3009-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/762-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-447/1582-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-448/1582-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-73/665-red.svg" alt="">
 </p>
 
@@ -431,6 +431,7 @@
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | Easy |  | [Python](./Easy/1763_longest-nice-substring/longest-nice-substring.py) |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | Medium |  | [Python](./Medium/1765_map-of-highest-peak/map-of-highest-peak.py) |
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | Medium |  | [Python](./Medium/1774_closest-dessert-cost/closest-dessert-cost.py) |
+| 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | Medium |  | [Python](./Medium/1775_equal-sum-arrays-with-minimum-number-of-operations/equal-sum-arrays-with-minimum-number-of-operations.py) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |  | [Python](./Easy/1779_find-nearest-point-that-has-the-same-x-or-y-coordinate/find-nearest-point-that-has-the-same-x-or-y-coordinate.py) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium |  | [Python](./Medium/1780_check-if-number-is-a-sum-of-powers-of-three/check-if-number-is-a-sum-of-powers-of-three.py) |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | Medium |  | [Python](./Medium/1781_sum-of-beauty-of-all-substrings/sum-of-beauty-of-all-substrings.py) |
