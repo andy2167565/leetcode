@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-658/3017-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-659/3017-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-451/1586-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-452/1586-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-73/667-red.svg" alt="">
 </p>
 
@@ -499,6 +499,7 @@
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | Medium |  | [Python](./Medium/2146_k-highest-ranked-items-within-a-price-range/k-highest-ranked-items-within-a-price-range.py) |
+| 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | Medium |  | [Python](./Medium/2162_minimum-cost-to-set-cooking-time/minimum-cost-to-set-cooking-time.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium |  | [Python](./Medium/2166_design-bitset/design-bitset.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | Medium |  | [Python](./Medium/2171_removing-minimum-number-of-magic-beans/removing-minimum-number-of-magic-beans.py) |
