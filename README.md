@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-660/3017-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-661/3018-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-452/1586-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-74/667-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-75/668-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -343,6 +343,7 @@
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
 | 1258 | [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) | Medium | $ | [Python](./Medium/1258_synonymous-sentences/synonymous-sentences.py) |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Medium |  | [Python](./Medium/1262_greatest-sum-divisible-by-three/greatest-sum-divisible-by-three.py) |
+| 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |  | [Python](./Hard/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 | 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | Medium | $ | [Python](./Medium/1273_delete-tree-nodes/delete-tree-nodes.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |  | [Python](./Hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
