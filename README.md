@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-661/3018-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-452/1586-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-662/3018-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/763-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-453/1587-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-75/668-red.svg" alt="">
 </p>
 
@@ -359,6 +359,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |  | [Python](./Medium/1319_number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |  | [Python](./Medium/1334_find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium |  | [Python](./Medium/1339_maximum-product-of-splitted-binary-tree/maximum-product-of-splitted-binary-tree.py) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |  | [Python](./Medium/1358_number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) |
