@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-662/3018-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-663/3018-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/763-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-453/1587-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-454/1587-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-75/668-red.svg" alt="">
 </p>
 
@@ -402,6 +402,7 @@
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | Medium |  | [Python](./Medium/1540_can-convert-string-in-k-moves/can-convert-string-in-k-moves.py) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium |  | [Python](./Medium/1541_minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.py) |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |  | [Python](./Medium/1546_maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.py) |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium |  | [Python](./Medium/1551_minimum-operations-to-make-array-equal/minimum-operations-to-make-array-equal.py) |
 | 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | Medium |  | [Python](./Medium/1558_minimum-numbers-of-function-calls-to-make-target-array/minimum-numbers-of-function-calls-to-make-target-array.py) |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | Medium |  | [Python](./Medium/1559_detect-cycles-in-2d-grid/detect-cycles-in-2d-grid.py) |
