@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-663/3018-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/763-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-454/1587-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-75/668-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-664/3022-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-455/1589-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-75/669-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -328,6 +328,7 @@
 | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium |  | [Python](./Medium/1186_maximum-subarray-sum-with-one-deletion/maximum-subarray-sum-with-one-deletion.py) |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium |  | [Python](./Medium/1191_k-concatenation-maximum-sum/k-concatenation-maximum-sum.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
+| 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | Medium |  | [Python](./Medium/1202_smallest-string-with-swaps/smallest-string-with-swaps.py) |
 | 1215 | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | Medium | $ | [Python](./Medium/1215_stepping-numbers/stepping-numbers.py) |
 | 1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | Hard | $ | [Python](./Hard/1216_valid-palindrome-iii/valid-palindrome-iii.py) |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium |  | [Python](./Medium/1219_path-with-maximum-gold/path-with-maximum-gold.py) |
