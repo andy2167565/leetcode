@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-664/3022-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-665/3022-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-455/1589-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-456/1589-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-75/669-red.svg" alt="">
 </p>
 
@@ -671,5 +671,6 @@
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium |  | [Python](./Medium/2771_longest-non-decreasing-subarray-from-two-arrays/longest-non-decreasing-subarray-from-two-arrays.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
+| 2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | Medium |  | [Python](./Medium/2800_shortest-string-that-contains-three-strings/shortest-string-that-contains-three-strings.py) |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
