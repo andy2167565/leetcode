@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-665/3022-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-666/3022-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-456/1589-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-457/1589-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-75/669-red.svg" alt="">
 </p>
 
@@ -231,6 +231,7 @@
 | 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium |  | [Python](./Medium/0790_domino-and-tromino-tiling/domino-and-tromino-tiling.py) |
 | 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Medium |  | [Python](./Medium/0792_number-of-matching-subsequences/number-of-matching-subsequences.py) |
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
+| 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium |  | [Python](./Medium/0799_champagne-tower/champagne-tower.py) |
 | 0809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | Medium |  | [Python](./Medium/0809_expressive-words/expressive-words.py) |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
