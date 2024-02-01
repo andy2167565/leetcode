@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-667/3022-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-668/3023-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-458/1589-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-459/1590-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-75/669-red.svg" alt="">
 </p>
 
@@ -412,6 +412,7 @@
 | 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium |  | [Python](./Medium/1567_maximum-length-of-subarray-with-positive-product/maximum-length-of-subarray-with-positive-product.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |  | [Python](./Easy/1576_replace-all-s-to-avoid-consecutive-repeating-characters/replace-all-s-to-avoid-consecutive-repeating-characters.py) |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
+| 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium |  | [Python](./Medium/1584_min-cost-to-connect-all-points/min-cost-to-connect-all-points.py) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy |  | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium |  | [Python](./Medium/1593_split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium |  | [Python](./Medium/1594_maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.py) |
