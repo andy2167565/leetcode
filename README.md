@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-669/3023-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-670/3023-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-460/1590-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-75/669-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-76/669-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -530,6 +530,7 @@
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | Medium |  | [Python](./Medium/2266_count-number-of-texts/count-number-of-texts.py) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | Medium |  | [Python](./Medium/2280_minimum-lines-to-represent-a-line-chart/minimum-lines-to-represent-a-line-chart.py) |
+| 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | Hard |  | [Python](./Hard/2301_match-substring-after-replacement/match-substring-after-replacement.py) |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard |  | [Python](./Hard/2302_count-subarrays-with-score-less-than-k/count-subarrays-with-score-less-than-k.py) |
 | 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | Medium |  | [Python](./Medium/2304_minimum-path-cost-in-a-grid/minimum-path-cost-in-a-grid.py) |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |  | [Python](./Medium/2311_longest-binary-subsequence-less-than-or-equal-to-k/longest-binary-subsequence-less-than-or-equal-to-k.py) |
