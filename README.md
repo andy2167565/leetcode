@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-670/3023-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/764-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-460/1590-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-76/669-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-671/3031-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-461/1594-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-76/671-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -483,6 +483,7 @@
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
+| 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium |  | [Python](./Medium/1996_the-number-of-weak-characters-in-the-game/the-number-of-weak-characters-in-the-game.py) |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | Medium |  | [Python](./Medium/2013_detect-squares/detect-squares.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
