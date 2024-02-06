@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-672/3031-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-673/3031-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-462/1594-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-76/671-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-77/671-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -321,6 +321,7 @@
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
+| 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | Hard |  | [Python](./Hard/1163_last-substring-in-lexicographical-order/last-substring-in-lexicographical-order.py) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | Medium |  | [Python](./Medium/1169_invalid-transactions/invalid-transactions.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |  | [Python](./Medium/1171_remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
