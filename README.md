@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-673/3031-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-674/3031-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-462/1594-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-463/1594-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-77/671-red.svg" alt="">
 </p>
 
@@ -676,6 +676,7 @@
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | Medium |  | [Python](./Medium/2741_special-permutations/special-permutations.py) |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | Easy |  | [Python](./Easy/2744_find-maximum-number-of-string-pairs/find-maximum-number-of-string-pairs.py) |
 | 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | Medium |  | [Python](./Medium/2745_construct-the-longest-new-string/construct-the-longest-new-string.py) |
+| 2767 | [Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | Medium |  | [Python](./Medium/2767_partition-string-into-minimum-beautiful-substrings/partition-string-into-minimum-beautiful-substrings.py) |
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium |  | [Python](./Medium/2771_longest-non-decreasing-subarray-from-two-arrays/longest-non-decreasing-subarray-from-two-arrays.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
