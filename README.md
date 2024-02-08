@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-674/3031-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/766-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-463/1594-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-675/3032-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/767-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-464/1594-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-77/671-red.svg" alt="">
 </p>
 
@@ -491,6 +491,7 @@
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |  | [Python](./Medium/2033_minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid.py) |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | Medium |  | [Python](./Medium/2034_stock-price-fluctuation/stock-price-fluctuation.py) |
+| 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | Medium |  | [Python](./Medium/2039_the-time-when-the-network-becomes-idle/the-time-when-the-network-becomes-idle.py) |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium |  | [Python](./Medium/2048_next-greater-numerically-balanced-number/next-greater-numerically-balanced-number.py) |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | Medium |  | [Python](./Medium/2055_plates-between-candles/plates-between-candles.py) |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | Medium |  | [Python](./Medium/2059_minimum-operations-to-convert-number/minimum-operations-to-convert-number.py) |
