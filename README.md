@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-675/3032-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-676/3032-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/767-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-464/1594-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-77/671-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-78/671-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -364,6 +364,7 @@
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |  | [Python](./Medium/1334_find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium |  | [Python](./Medium/1339_maximum-product-of-splitted-binary-tree/maximum-product-of-splitted-binary-tree.py) |
+| 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |  | [Python](./Hard/1340_jump-game-v/jump-game-v.py) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |  | [Python](./Medium/1358_number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
