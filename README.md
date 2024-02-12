@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-678/3036-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-679/3036-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-466/1596-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-467/1596-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-78/672-red.svg" alt="">
 </p>
 
@@ -421,6 +421,7 @@
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | Medium |  | [Python](./Medium/1600_throne-inheritance/throne-inheritance.py) |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |  | [Python](./Medium/1604_alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium |  | [Python](./Medium/1605_find-valid-matrix-given-row-and-column-sums/find-valid-matrix-given-row-and-column-sums.py) |
+| 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium |  | [Python](./Medium/1616_split-two-strings-to-make-palindrome/split-two-strings-to-make-palindrome.py) |
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | Medium |  | [Python](./Medium/1620_coordinate-with-maximum-network-quality/coordinate-with-maximum-network-quality.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |  | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | Medium |  | [Python](./Medium/1638_count-substrings-that-differ-by-one-character/count-substrings-that-differ-by-one-character.py) |
