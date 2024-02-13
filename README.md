@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-679/3036-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-680/3036-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-467/1596-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-78/672-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-79/672-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -265,6 +265,7 @@
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |  | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
 | 0919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | Medium |  | [Python](./Medium/0919_complete-binary-tree-inserter/complete-binary-tree-inserter.py) |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium |  | [Python](./Medium/0923_3sum-with-multiplicity/3sum-with-multiplicity.py) |
+| 0924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | Hard |  | [Python](./Hard/0924_minimize-malware-spread/minimize-malware-spread.py) |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
 | 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium |  | [Python](./Medium/0934_shortest-bridge/shortest-bridge.py) |
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
