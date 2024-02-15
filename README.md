@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-681/3036-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-682/3037-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-468/1596-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-79/672-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-469/1596-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-79/673-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -491,6 +491,7 @@
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
 | 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | Medium |  | [Python](./Medium/1993_operations-on-tree/operations-on-tree.py) |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium |  | [Python](./Medium/1996_the-number-of-weak-characters-in-the-game/the-number-of-weak-characters-in-the-game.py) |
+| 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |  | [Python](./Medium/2002_maximum-product-of-the-length-of-two-palindromic-subsequences/maximum-product-of-the-length-of-two-palindromic-subsequences.py) |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | Medium |  | [Python](./Medium/2013_detect-squares/detect-squares.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
