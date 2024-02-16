@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-682/3037-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-683/3037-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/768-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-469/1596-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-470/1596-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-79/673-red.svg" alt="">
 </p>
 
@@ -417,6 +417,7 @@
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium |  | [Python](./Medium/1584_min-cost-to-connect-all-points/min-cost-to-connect-all-points.py) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy |  | [Python](./Easy/1588_sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | Medium |  | [Python](./Medium/1589_maximum-sum-obtained-of-any-permutation/maximum-sum-obtained-of-any-permutation.py) |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium |  | [Python](./Medium/1593_split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium |  | [Python](./Medium/1594_maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.py) |
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | Medium |  | [Python](./Medium/1600_throne-inheritance/throne-inheritance.py) |
