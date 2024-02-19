@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-684/3041-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/770-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-471/1597-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-79/674-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-685/3045-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/771-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-471/1599-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-80/675-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -404,6 +404,7 @@
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium |  | [Python](./Medium/1514_path-with-maximum-probability/path-with-maximum-probability.py) |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |  | [Python](./Hard/1526_minimum-number-of-increments-on-subarrays-to-form-a-target-array/minimum-number-of-increments-on-subarrays-to-form-a-target-array.py) |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | Medium |  | [Python](./Medium/1540_can-convert-string-in-k-moves/can-convert-string-in-k-moves.py) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium |  | [Python](./Medium/1541_minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.py) |
