@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-686/3045-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-687/3045-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/771-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-471/1599-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-472/1599-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-81/675-red.svg" alt="">
 </p>
 
@@ -695,3 +695,4 @@
 | 2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | Medium |  | [Python](./Medium/2800_shortest-string-that-contains-three-strings/shortest-string-that-contains-three-strings.py) |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
+| 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
