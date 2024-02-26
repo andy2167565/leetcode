@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-690/3049-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/772-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-474/1601-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-82/676-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-691/3060-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/775-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-475/1606-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-82/679-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -472,6 +472,7 @@
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | Medium |  | [Python](./Medium/1834_single-threaded-cpu/single-threaded-cpu.py) |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | Hard |  | [Python](./Hard/1835_find-xor-sum-of-all-pairs-bitwise-and/find-xor-sum-of-all-pairs-bitwise-and.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy |  | [Python](./Easy/1837_sum-of-digits-in-base-k/sum-of-digits-in-base-k.py) |
+| 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium |  | [Python](./Medium/1838_frequency-of-the-most-frequent-element/frequency-of-the-most-frequent-element.py) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy |  | [Python](./Easy/1844_replace-all-digits-with-characters/replace-all-digits-with-characters.py) |
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | Medium |  | [Python](./Medium/1849_splitting-a-string-into-descending-consecutive-values/splitting-a-string-into-descending-consecutive-values.py) |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | Medium |  | [Python](./Medium/1864_minimum-number-of-swaps-to-make-the-binary-string-alternating/minimum-number-of-swaps-to-make-the-binary-string-alternating.py) |
