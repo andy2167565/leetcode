@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-691/3060-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-692/3060-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/775-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-475/1606-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-476/1606-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-82/679-red.svg" alt="">
 </p>
 
@@ -273,6 +273,7 @@
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium |  | [Python](./Medium/0948_bag-of-tokens/bag-of-tokens.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium |  | [Python](./Medium/0950_reveal-cards-in-increasing-order/reveal-cards-in-increasing-order.py) |
+| 0955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | Medium |  | [Python](./Medium/0955_delete-columns-to-make-sorted-ii/delete-columns-to-make-sorted-ii.py) |
 | 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |  | [Python](./Medium/0958_check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py) |
 | 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium |  | [Python](./Medium/0962_maximum-width-ramp/maximum-width-ramp.py) |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium |  | [Python](./Medium/0966_vowel-spellchecker/vowel-spellchecker.py) |
