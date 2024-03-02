@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-695/3064-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-696/3064-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/776-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-479/1608-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-82/680-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-83/680-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -312,6 +312,7 @@
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Medium |  | [Python](./Medium/1080_insufficient-nodes-in-root-to-leaf-paths/insufficient-nodes-in-root-to-leaf-paths.py) |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium |  | [Python](./Medium/1091_shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.py) |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard |  | [Python](./Hard/1095_find-in-mountain-array/find-in-mountain-array.py) |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard |  | [Python](./Hard/1106_parsing-a-boolean-expression/parsing-a-boolean-expression.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |  | [Python](./Medium/1111_maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
