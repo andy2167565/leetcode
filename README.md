@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-696/3064-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/776-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-479/1608-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-83/680-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-697/3072-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-480/1612-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-83/682-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -413,6 +413,7 @@
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |  | [Python](./Hard/1526_minimum-number-of-increments-on-subarrays-to-form-a-target-array/minimum-number-of-increments-on-subarrays-to-form-a-target-array.py) |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Medium |  | [Python](./Medium/1536_minimum-swaps-to-arrange-a-binary-grid/minimum-swaps-to-arrange-a-binary-grid.py) |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | Medium |  | [Python](./Medium/1540_can-convert-string-in-k-moves/can-convert-string-in-k-moves.py) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium |  | [Python](./Medium/1541_minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.py) |
 | 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |  | [Python](./Medium/1546_maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.py) |
