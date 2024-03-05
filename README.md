@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-698/3072-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-699/3072-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-481/1612-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-83/682-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-84/682-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -351,6 +351,7 @@
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium |  | [Python](./Medium/1249_minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.py) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |  | [Python](./Medium/1254_number-of-closed-islands/number-of-closed-islands.py) |
+| 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard |  | [Python](./Hard/1255_maximum-score-words-formed-by-letters/maximum-score-words-formed-by-letters.py) |
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
 | 1258 | [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) | Medium | $ | [Python](./Medium/1258_synonymous-sentences/synonymous-sentences.py) |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Medium |  | [Python](./Medium/1262_greatest-sum-divisible-by-three/greatest-sum-divisible-by-three.py) |
