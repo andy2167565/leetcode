@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-699/3072-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-700/3072-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-481/1612-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-482/1612-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-84/682-red.svg" alt="">
 </p>
 
@@ -708,3 +708,4 @@
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
+| 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
