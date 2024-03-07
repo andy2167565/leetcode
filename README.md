@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-700/3072-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-701/3073-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-482/1612-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-483/1613-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-84/682-red.svg" alt="">
 </p>
 
@@ -513,6 +513,7 @@
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | Medium |  | [Python](./Medium/2034_stock-price-fluctuation/stock-price-fluctuation.py) |
 | 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | Medium |  | [Python](./Medium/2039_the-time-when-the-network-becomes-idle/the-time-when-the-network-becomes-idle.py) |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium |  | [Python](./Medium/2048_next-greater-numerically-balanced-number/next-greater-numerically-balanced-number.py) |
+| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium |  | [Python](./Medium/2054_two-best-non-overlapping-events/two-best-non-overlapping-events.py) |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | Medium |  | [Python](./Medium/2055_plates-between-candles/plates-between-candles.py) |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | Medium |  | [Python](./Medium/2059_minimum-operations-to-convert-number/minimum-operations-to-convert-number.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
