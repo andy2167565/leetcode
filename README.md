@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-701/3073-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-702/3073-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-483/1613-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-84/682-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-85/682-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -370,6 +370,7 @@
 | 1316 | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/) | Hard |  | [Python](./Hard/1316_distinct-echo-substrings/distinct-echo-substrings.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |  | [Python](./Medium/1319_number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.py) |
+| 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |  | [Python](./Hard/1326_minimum-number-of-taps-to-open-to-water-a-garden/minimum-number-of-taps-to-open-to-water-a-garden.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |  | [Python](./Medium/1334_find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium |  | [Python](./Medium/1339_maximum-product-of-splitted-binary-tree/maximum-product-of-splitted-binary-tree.py) |
