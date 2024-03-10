@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-703/3073-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/778-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-484/1613-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-704/3073-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/779-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-485/1612-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-85/682-red.svg" alt="">
 </p>
 
@@ -519,6 +519,7 @@
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | Medium |  | [Python](./Medium/2055_plates-between-candles/plates-between-candles.py) |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | Medium |  | [Python](./Medium/2059_minimum-operations-to-convert-number/minimum-operations-to-convert-number.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Medium |  | [Python](./Medium/2064_minimized-maximum-of-products-distributed-to-any-store/minimized-maximum-of-products-distributed-to-any-store.py) |
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium |  | [Python](./Medium/2070_most-beautiful-item-for-each-query/most-beautiful-item-for-each-query.py) |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Medium |  | [Python](./Medium/2074_reverse-nodes-in-even-length-groups/reverse-nodes-in-even-length-groups.py) |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium |  | [Python](./Medium/2075_decode-the-slanted-ciphertext/decode-the-slanted-ciphertext.py) |
