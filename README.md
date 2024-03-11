@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-704/3073-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/779-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-485/1612-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-85/682-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-705/3077-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/780-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-486/1614-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-85/683-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -563,6 +563,7 @@
 | 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | Hard |  | [Python](./Hard/2301_match-substring-after-replacement/match-substring-after-replacement.py) |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard |  | [Python](./Hard/2302_count-subarrays-with-score-less-than-k/count-subarrays-with-score-less-than-k.py) |
 | 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | Medium |  | [Python](./Medium/2304_minimum-path-cost-in-a-grid/minimum-path-cost-in-a-grid.py) |
+| 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | Medium |  | [Python](./Medium/2305_fair-distribution-of-cookies/fair-distribution-of-cookies.py) |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |  | [Python](./Medium/2311_longest-binary-subsequence-less-than-or-equal-to-k/longest-binary-subsequence-less-than-or-equal-to-k.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | Medium |  | [Python](./Medium/2317_maximum-xor-after-operations/maximum-xor-after-operations.py) |
