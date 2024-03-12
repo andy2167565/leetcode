@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-705/3077-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-706/3077-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/780-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-486/1614-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-487/1614-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-85/683-red.svg" alt="">
 </p>
 
@@ -710,6 +710,7 @@
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
 | 2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | Medium |  | [Python](./Medium/2800_shortest-string-that-contains-three-strings/shortest-string-that-contains-three-strings.py) |
 | 2808 | [Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | Medium |  | [Python](./Medium/2808_minimum-seconds-to-equalize-a-circular-array/minimum-seconds-to-equalize-a-circular-array.py) |
+| 2817 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | Medium |  | [Python](./Medium/2817_minimum-absolute-difference-between-elements-with-constraint/minimum-absolute-difference-between-elements-with-constraint.py) |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
