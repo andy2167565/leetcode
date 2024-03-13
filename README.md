@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-706/3077-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-707/3077-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/780-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-487/1614-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-488/1614-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-85/683-red.svg" alt="">
 </p>
 
@@ -635,6 +635,7 @@
 | 2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | Medium |  | [Python](./Medium/2531_make-number-of-distinct-characters-equal/make-number-of-distinct-characters-equal.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |  | [Python](./Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.py) |
 | 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | Medium |  | [Python](./Medium/2536_increment-submatrices-by-one/increment-submatrices-by-one.py) |
+| 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | Medium |  | [Python](./Medium/2537_count-the-number-of-good-subarrays/count-the-number-of-good-subarrays.py) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
 | 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | Medium |  | [Python](./Medium/2541_minimum-operations-to-make-array-equal-ii/minimum-operations-to-make-array-equal-ii.py) |
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Medium |  | [Python](./Medium/2546_apply-bitwise-operations-to-make-strings-equal/apply-bitwise-operations-to-make-strings-equal.py) |
