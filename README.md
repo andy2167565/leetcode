@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-707/3077-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-708/3078-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/780-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-488/1614-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-489/1615-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-85/683-red.svg" alt="">
 </p>
 
@@ -451,6 +451,7 @@
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium |  | [Python](./Medium/1706_where-will-the-ball-fall/where-will-the-ball-fall.py) |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | Medium |  | [Python](./Medium/1711_count-good-meals/count-good-meals.py) |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium |  | [Python](./Medium/1717_maximum-score-from-removing-substrings/maximum-score-from-removing-substrings.py) |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Medium |  | [Python](./Medium/1722_minimize-hamming-distance-after-swap-operations/minimize-hamming-distance-after-swap-operations.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | Medium |  | [Python](./Medium/1738_find-kth-largest-xor-coordinate-value/find-kth-largest-xor-coordinate-value.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
