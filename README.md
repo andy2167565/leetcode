@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-709/3078-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-710/3078-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/780-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-490/1615-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-85/683-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-86/683-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -718,3 +718,4 @@
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
+| 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
