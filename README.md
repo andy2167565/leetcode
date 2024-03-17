@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-710/3078-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/780-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-490/1615-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-86/683-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-711/3086-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/782-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-491/1619-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-86/685-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -489,6 +489,7 @@
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | Medium |  | [Python](./Medium/1865_finding-pairs-with-a-certain-sum/finding-pairs-with-a-certain-sum.py) |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium |  | [Python](./Medium/1870_minimum-speed-to-arrive-on-time/minimum-speed-to-arrive-on-time.py) |
+| 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium |  | [Python](./Medium/1871_jump-game-vii/jump-game-vii.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium |  | [Python](./Medium/1895_largest-magic-square/largest-magic-square.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
