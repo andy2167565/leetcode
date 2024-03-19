@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-712/3087-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-713/3087-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/782-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-492/1620-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-86/685-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-87/685-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -255,6 +255,7 @@
 | 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium |  | [Python](./Medium/0874_walking-robot-simulation/walking-robot-simulation.py) |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium |  | [Python](./Medium/0875_koko-eating-bananas/koko-eating-bananas.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
+| 0878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | Hard |  | [Python](./Hard/0878_nth-magical-number/nth-magical-number.py) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Medium |  | [Python](./Medium/0880_decoded-string-at-index/decoded-string-at-index.py) |
 | 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium |  | [Python](./Medium/0885_spiral-matrix-iii/spiral-matrix-iii.py) |
 | 0886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | Medium |  | [Python](./Medium/0886_possible-bipartition/possible-bipartition.py) |
