@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-713/3087-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-714/3087-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/782-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-492/1620-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-87/685-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-88/685-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -579,6 +579,7 @@
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium |  | [Python](./Medium/2353_design-a-food-rating-system/design-a-food-rating-system.py) |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium |  | [Python](./Medium/2359_find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py) |
+| 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard |  | [Python](./Hard/2360_longest-cycle-in-a-graph/longest-cycle-in-a-graph.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | Medium |  | [Python](./Medium/2365_task-scheduler-ii/task-scheduler-ii.py) |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | Medium |  | [Python](./Medium/2369_check-if-there-is-a-valid-partition-for-the-array/check-if-there-is-a-valid-partition-for-the-array.py) |
