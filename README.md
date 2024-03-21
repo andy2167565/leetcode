@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-714/3087-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-715/3088-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/782-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-492/1620-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-88/685-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-89/686-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -226,6 +226,7 @@
 | 0768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | Hard |  | [Python](./Hard/0768_max-chunks-to-make-sorted-ii/max-chunks-to-make-sorted-ii.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard |  | [Python](./Hard/0773_sliding-puzzle/sliding-puzzle.py) |
 | 0776 | [Split BST](https://leetcode.com/problems/split-bst/) | Medium | $ | [Python](./Medium/0776_split-bst/split-bst.py) |
+| 0780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | Hard |  | [Python](./Hard/0780_reaching-points/reaching-points.py) |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
 | 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | Medium |  | [Python](./Medium/0789_escape-the-ghosts/escape-the-ghosts.py) |
