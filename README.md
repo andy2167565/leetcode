@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-715/3088-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-716/3088-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/782-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-492/1620-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-493/1620-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-89/686-red.svg" alt="">
 </p>
 
@@ -492,6 +492,7 @@
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy |  | [Python](./Easy/1869_longer-contiguous-segments-of-ones-than-zeros/longer-contiguous-segments-of-ones-than-zeros.py) |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium |  | [Python](./Medium/1870_minimum-speed-to-arrive-on-time/minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium |  | [Python](./Medium/1871_jump-game-vii/jump-game-vii.py) |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium |  | [Python](./Medium/1878_get-biggest-three-rhombus-sums-in-a-grid/get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium |  | [Python](./Medium/1895_largest-magic-square/largest-magic-square.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
