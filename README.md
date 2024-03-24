@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-717/3088-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/782-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-494/1620-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-89/686-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-718/3093-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-495/1623-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-89/687-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -239,6 +239,7 @@
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | Medium |  | [Python](./Medium/0820_short-encoding-of-words/short-encoding-of-words.py) |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |  | [Python](./Easy/0821_shortest-distance-to-a-character/shortest-distance-to-a-character.py) |
+| 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | Medium |  | [Python](./Medium/0823_binary-trees-with-factors/binary-trees-with-factors.py) |
 | 0825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | Medium |  | [Python](./Medium/0825_friends-of-appropriate-ages/friends-of-appropriate-ages.py) |
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium |  | [Python](./Medium/0826_most-profit-assigning-work/most-profit-assigning-work.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
