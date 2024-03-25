@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-718/3093-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-719/3093-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-495/1623-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-89/687-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-90/687-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -446,6 +446,7 @@
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium |  | [Python](./Medium/1653_minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.py) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |  | [Python](./Medium/1658_minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py) |
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard |  | [Python](./Hard/1665_minimum-initial-energy-to-finish-tasks/minimum-initial-energy-to-finish-tasks.py) |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |  | [Python](./Medium/1670_design-front-middle-back-queue/design-front-middle-back-queue.py) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
