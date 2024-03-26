@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-719/3093-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-720/3093-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-495/1623-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-496/1623-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-90/687-red.svg" alt="">
 </p>
 
@@ -673,6 +673,7 @@
 | 2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | Medium |  | [Python](./Medium/2598_smallest-missing-non-negative-integer-after-operations/smallest-missing-non-negative-integer-after-operations.py) |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | Easy |  | [Python](./Easy/2600_k-items-with-the-maximum-sum/k-items-with-the-maximum-sum.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium |  | [Python](./Medium/2601_prime-subtraction-operation/prime-subtraction-operation.py) |
+| 2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) | Medium |  | [Python](./Medium/2602_minimum-operations-to-make-all-array-elements-equal/minimum-operations-to-make-all-array-elements-equal.py) |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy |  | [Python](./Easy/2605_form-smallest-number-from-two-digit-arrays/form-smallest-number-from-two-digit-arrays.py) |
 | 2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | Medium |  | [Python](./Medium/2606_find-the-substring-with-maximum-cost/find-the-substring-with-maximum-cost.py) |
 | 2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | Medium |  | [Python](./Medium/2607_make-k-subarray-sums-equal/make-k-subarray-sums-equal.py) |
