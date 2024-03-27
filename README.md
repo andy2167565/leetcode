@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-720/3093-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-721/3093-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-496/1623-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-90/687-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-91/687-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -677,6 +677,7 @@
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy |  | [Python](./Easy/2605_form-smallest-number-from-two-digit-arrays/form-smallest-number-from-two-digit-arrays.py) |
 | 2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | Medium |  | [Python](./Medium/2606_find-the-substring-with-maximum-cost/find-the-substring-with-maximum-cost.py) |
 | 2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | Medium |  | [Python](./Medium/2607_make-k-subarray-sums-equal/make-k-subarray-sums-equal.py) |
+| 2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | Hard |  | [Python](./Hard/2608_shortest-cycle-in-a-graph/shortest-cycle-in-a-graph.py) |
 | 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | Medium |  | [Python](./Medium/2611_mice-and-cheese/mice-and-cheese.py) |
 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | Easy |  | [Python](./Easy/2614_prime-in-diagonal/prime-in-diagonal.py) |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | Medium |  | [Python](./Medium/2615_sum-of-distances/sum-of-distances.py) |
