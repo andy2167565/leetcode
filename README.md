@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-722/3094-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-723/3094-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-497/1624-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-498/1624-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-91/687-red.svg" alt="">
 </p>
 
@@ -731,3 +731,4 @@
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
 | 3030 | [Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | Medium |  | [Python](./Medium/3030_find-the-grid-of-region-average/find-the-grid-of-region-average.py) |
 | 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
+| 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
