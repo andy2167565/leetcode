@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-723/3094-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-724/3094-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-498/1624-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-499/1624-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-91/687-red.svg" alt="">
 </p>
 
@@ -292,6 +292,7 @@
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium |  | [Python](./Medium/0983_minimum-cost-for-tickets/minimum-cost-for-tickets.py) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |  | [Python](./Hard/0987_vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py) |
 | 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |  | [Python](./Medium/0990_satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) |
+| 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium |  | [Python](./Medium/0991_broken-calculator/broken-calculator.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 0995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Hard |  | [Python](./Hard/0995_minimum-number-of-k-consecutive-bit-flips/minimum-number-of-k-consecutive-bit-flips.py) |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | Hard |  | [Python](./Hard/1001_grid-illumination/grid-illumination.py) |
