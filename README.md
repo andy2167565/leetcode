@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-724/3094-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/783-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-499/1624-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-91/687-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-725/3102-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/785-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-499/1628-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-92/689-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -666,6 +666,7 @@
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | Easy |  | [Python](./Easy/2578_split-with-minimum-sum/split-with-minimum-sum.py) |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium |  | [Python](./Medium/2579_count-total-number-of-colored-cells/count-total-number-of-colored-cells.py) |
 | 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Medium |  | [Python](./Medium/2580_count-ways-to-group-overlapping-ranges/count-ways-to-group-overlapping-ranges.py) |
+| 2585 | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | Hard |  | [Python](./Hard/2585_number-of-ways-to-earn-points/number-of-ways-to-earn-points.py) |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy |  | [Python](./Easy/2586_count-the-number-of-vowel-strings-in-range/count-the-number-of-vowel-strings-in-range.py) |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | Medium |  | [Python](./Medium/2587_rearrange-array-to-maximize-prefix-score/rearrange-array-to-maximize-prefix-score.py) |
 | 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | Medium |  | [Python](./Medium/2588_count-the-number-of-beautiful-subarrays/count-the-number-of-beautiful-subarrays.py) |
