@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-725/3102-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-726/3102-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/785-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-499/1628-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-500/1628-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-92/689-red.svg" alt="">
 </p>
 
@@ -254,6 +254,7 @@
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
+| 0873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Medium |  | [Python](./Medium/0873_length-of-longest-fibonacci-subsequence/length-of-longest-fibonacci-subsequence.py) |
 | 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium |  | [Python](./Medium/0874_walking-robot-simulation/walking-robot-simulation.py) |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium |  | [Python](./Medium/0875_koko-eating-bananas/koko-eating-bananas.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |  | [Python](./Easy/0876_middle-of-the-linked-list/middle-of-the-linked-list.py) |
