@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-726/3102-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-727/3104-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/785-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-500/1628-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-92/689-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-501/1628-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-92/691-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -525,6 +525,7 @@
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | Medium |  | [Python](./Medium/2034_stock-price-fluctuation/stock-price-fluctuation.py) |
 | 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | Medium |  | [Python](./Medium/2039_the-time-when-the-network-becomes-idle/the-time-when-the-network-becomes-idle.py) |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | Medium |  | [Python](./Medium/2048_next-greater-numerically-balanced-number/next-greater-numerically-balanced-number.py) |
+| 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | Medium |  | [Python](./Medium/2049_count-nodes-with-the-highest-score/count-nodes-with-the-highest-score.py) |
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium |  | [Python](./Medium/2054_two-best-non-overlapping-events/two-best-non-overlapping-events.py) |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | Medium |  | [Python](./Medium/2055_plates-between-candles/plates-between-candles.py) |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | Medium |  | [Python](./Medium/2059_minimum-operations-to-convert-number/minimum-operations-to-convert-number.py) |
