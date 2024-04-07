@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-728/3104-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-729/3104-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/785-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-501/1628-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-93/691-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-94/691-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -331,6 +331,7 @@
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | Medium |  | [Python](./Medium/1139_largest-1-bordered-square/largest-1-bordered-square.py) |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | Medium |  | [Python](./Medium/1145_binary-tree-coloring-game/binary-tree-coloring-game.py) |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Medium |  | [Python](./Medium/1146_snapshot-array/snapshot-array.py) |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | Hard |  | [Python](./Hard/1147_longest-chunked-palindrome-decomposition/longest-chunked-palindrome-decomposition.py) |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Medium | $ | [Python](./Medium/1152_analyze-user-website-visit-pattern/analyze-user-website-visit-pattern.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
