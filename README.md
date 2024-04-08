@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-729/3104-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/785-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-501/1628-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-94/691-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-730/3108-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/786-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-502/1630-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-94/692-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -501,6 +501,7 @@
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium |  | [Python](./Medium/1878_get-biggest-three-rhombus-sums-in-a-grid/get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium |  | [Python](./Medium/1895_largest-magic-square/largest-magic-square.py) |
+| 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | Medium |  | [Python](./Medium/1898_maximum-number-of-removable-characters/maximum-number-of-removable-characters.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium |  | [Python](./Medium/1905_count-sub-islands/count-sub-islands.py) |
