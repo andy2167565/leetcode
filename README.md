@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-730/3108-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-731/3108-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/786-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-502/1630-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-94/692-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-95/692-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -452,6 +452,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |  | [Python](./Medium/1658_minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard |  | [Python](./Hard/1665_minimum-initial-energy-to-finish-tasks/minimum-initial-energy-to-finish-tasks.py) |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |  | [Python](./Medium/1670_design-front-middle-back-queue/design-front-middle-back-queue.py) |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard |  | [Python](./Hard/1671_minimum-number-of-removals-to-make-mountain-array/minimum-number-of-removals-to-make-mountain-array.py) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | Medium |  | [Python](./Medium/1702_maximum-binary-string-after-change/maximum-binary-string-after-change.py) |
