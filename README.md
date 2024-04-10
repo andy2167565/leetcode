@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-731/3108-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-732/3108-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/786-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-502/1630-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-95/692-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-96/692-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -390,6 +390,7 @@
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Medium |  | [Python](./Medium/1366_rank-teams-by-votes/rank-teams-by-votes.py) |
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |  | [Python](./Medium/1367_linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium |  | [Python](./Medium/1372_longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py) |
+| 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | Hard |  | [Python](./Hard/1373_maximum-sum-bst-in-binary-tree/maximum-sum-bst-in-binary-tree.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | Hard |  | [Python](./Hard/1377_frog-position-after-t-seconds/frog-position-after-t-seconds.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
