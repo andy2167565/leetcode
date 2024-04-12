@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-733/3109-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-734/3109-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/786-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-503/1631-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-96/692-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-97/692-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -551,6 +551,7 @@
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | Medium |  | [Python](./Medium/2146_k-highest-ranked-items-within-a-price-range/k-highest-ranked-items-within-a-price-range.py) |
+| 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard |  | [Python](./Hard/2147_number-of-ways-to-divide-a-long-corridor/number-of-ways-to-divide-a-long-corridor.py) |
 | 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | Medium |  | [Python](./Medium/2162_minimum-cost-to-set-cooking-time/minimum-cost-to-set-cooking-time.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium |  | [Python](./Medium/2166_design-bitset/design-bitset.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
