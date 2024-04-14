@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-735/3109-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/786-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-504/1631-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-97/692-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-736/3117-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-505/1634-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-97/695-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -310,6 +310,7 @@
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium |  | [Python](./Medium/1031_maximum-sum-of-two-non-overlapping-subarrays/maximum-sum-of-two-non-overlapping-subarrays.py) |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium |  | [Python](./Medium/1035_uncrossed-lines/uncrossed-lines.py) |
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | Medium |  | [Python](./Medium/1042_flower-planting-with-no-adjacent/flower-planting-with-no-adjacent.py) |
+| 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium |  | [Python](./Medium/1043_partition-array-for-maximum-sum/partition-array-for-maximum-sum.py) |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | Medium | $ | [Python](./Medium/1066_campus-bikes-ii/campus-bikes-ii.py) |
