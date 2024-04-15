@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-736/3117-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-737/3118-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-505/1634-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-506/1635-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-97/695-red.svg" alt="">
 </p>
 
@@ -708,6 +708,7 @@
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | Easy |  | [Python](./Easy/2670_find-the-distinct-difference-array/find-the-distinct-difference-array.py) |
 | 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | Medium |  | [Python](./Medium/2671_frequency-tracker/frequency-tracker.py) |
 | 2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | Medium |  | [Python](./Medium/2672_number-of-adjacent-elements-with-the-same-color/number-of-adjacent-elements-with-the-same-color.py) |
+| 2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | Medium |  | [Python](./Medium/2673_make-costs-of-paths-equal-in-a-binary-tree/make-costs-of-paths-equal-in-a-binary-tree.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy |  | [Python](./Easy/2678_number-of-senior-citizens/number-of-senior-citizens.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | Medium |  | [Python](./Medium/2679_sum-in-a-matrix/sum-in-a-matrix.py) |
 | 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | Medium |  | [Python](./Medium/2680_maximum-or/maximum-or.py) |
