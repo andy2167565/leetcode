@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-737/3118-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-506/1635-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-97/695-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-738/3118-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/787-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-506/1636-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-98/695-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -604,6 +604,7 @@
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium |  | [Python](./Medium/2385_amount-of-time-for-binary-tree-to-be-infected/amount-of-time-for-binary-tree-to-be-infected.py) |
 | 2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | Medium |  | [Python](./Medium/2397_maximum-rows-covered-by-columns/maximum-rows-covered-by-columns.py) |
+| 2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | Hard |  | [Python](./Hard/2398_maximum-number-of-robots-within-budget/maximum-number-of-robots-within-budget.py) |
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |  | [Python](./Medium/2400_number-of-ways-to-reach-a-position-after-exactly-k-steps/number-of-ways-to-reach-a-position-after-exactly-k-steps.py) |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium |  | [Python](./Medium/2401_longest-nice-subarray/longest-nice-subarray.py) |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium |  | [Python](./Medium/2406_divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.py) |
