@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-738/3118-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-739/3118-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/787-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-506/1636-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-507/1636-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-98/695-red.svg" alt="">
 </p>
 
@@ -744,6 +744,7 @@
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
+| 3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | Medium |  | [Python](./Medium/3002_maximum-size-of-a-set-after-removals/maximum-size-of-a-set-after-removals.py) |
 | 3030 | [Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | Medium |  | [Python](./Medium/3030_find-the-grid-of-region-average/find-the-grid-of-region-average.py) |
 | 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
