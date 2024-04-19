@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-740/3119-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-741/3119-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/787-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-508/1637-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-509/1637-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-98/695-red.svg" alt="">
 </p>
 
@@ -327,6 +327,7 @@
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium |  | [Python](./Medium/1124_longest-well-performing-interval/longest-well-performing-interval.py) |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | Medium |  | [Python](./Medium/1129_shortest-path-with-alternating-colors/shortest-path-with-alternating-colors.py) |
+| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | Medium |  | [Python](./Medium/1130_minimum-cost-tree-from-leaf-values/minimum-cost-tree-from-leaf-values.py) |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | $ | [Python](./Medium/1135_connecting-cities-with-minimum-cost/connecting-cities-with-minimum-cost.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | Medium |  | [Python](./Medium/1139_largest-1-bordered-square/largest-1-bordered-square.py) |
