@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-741/3119-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-742/3119-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/787-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-509/1637-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-98/695-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-99/695-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -403,6 +403,7 @@
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium |  | [Python](./Medium/1405_longest-happy-string/longest-happy-string.py) |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard |  | [Python](./Hard/1411_number-of-ways-to-paint-n-3-grid/number-of-ways-to-paint-n-3-grid.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
+| 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard |  | [Python](./Hard/1416_restore-the-array/restore-the-array.py) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |  | [Python](./Medium/1424_diagonal-traverse-ii/diagonal-traverse-ii.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
