@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-743/3119-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/787-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-510/1637-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-99/695-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-744/3124-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-511/1640-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-99/696-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -730,6 +730,7 @@
 | 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | Medium |  | [Python](./Medium/2718_sum-of-matrix-after-queries/sum-of-matrix-after-queries.py) |
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | Easy |  | [Python](./Easy/2729_check-if-the-number-is-fascinating/check-if-the-number-is-fascinating.py) |
 | 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | Medium |  | [Python](./Medium/2730_find-the-longest-semi-repetitive-substring/find-the-longest-semi-repetitive-substring.py) |
+| 2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/) | Medium |  | [Python](./Medium/2731_movement-of-robots/movement-of-robots.py) |
 | 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | Easy |  | [Python](./Easy/2739_total-distance-traveled/total-distance-traveled.py) |
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | Medium |  | [Python](./Medium/2740_find-the-value-of-the-partition/find-the-value-of-the-partition.py) |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | Medium |  | [Python](./Medium/2741_special-permutations/special-permutations.py) |
