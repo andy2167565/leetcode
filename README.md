@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-747/3125-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-748/3125-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-512/1641-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-513/1641-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-101/696-red.svg" alt="">
 </p>
 
@@ -437,6 +437,7 @@
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium |  | [Python](./Medium/1552_magnetic-force-between-two-balls/magnetic-force-between-two-balls.py) |
 | 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | Medium |  | [Python](./Medium/1558_minimum-numbers-of-function-calls-to-make-target-array/minimum-numbers-of-function-calls-to-make-target-array.py) |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | Medium |  | [Python](./Medium/1559_detect-cycles-in-2d-grid/detect-cycles-in-2d-grid.py) |
+| 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | Medium |  | [Python](./Medium/1562_find-latest-group-of-size-m/find-latest-group-of-size-m.py) |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |  | [Python](./Easy/1566_detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium |  | [Python](./Medium/1567_maximum-length-of-subarray-with-positive-product/maximum-length-of-subarray-with-positive-product.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |  | [Python](./Easy/1576_replace-all-s-to-avoid-consecutive-repeating-characters/replace-all-s-to-avoid-consecutive-repeating-characters.py) |
