@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-748/3125-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-749/3125-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-513/1641-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-514/1641-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-101/696-red.svg" alt="">
 </p>
 
@@ -710,6 +710,7 @@
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | Easy |  | [Python](./Easy/2651_calculate-delayed-arrival-time/calculate-delayed-arrival-time.py) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | Easy |  | [Python](./Easy/2652_sum-multiples/sum-multiples.py) |
 | 2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | Medium |  | [Python](./Medium/2653_sliding-subarray-beauty/sliding-subarray-beauty.py) |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |  | [Python](./Medium/2654_minimum-number-of-operations-to-make-all-array-elements-equal-to-1/minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py) |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | Easy |  | [Python](./Easy/2656_maximum-sum-with-exactly-k-elements/maximum-sum-with-exactly-k-elements.py) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium |  | [Python](./Medium/2657_find-the-prefix-common-array-of-two-arrays/find-the-prefix-common-array-of-two-arrays.py) |
 | 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | Medium |  | [Python](./Medium/2658_maximum-number-of-fish-in-a-grid/maximum-number-of-fish-in-a-grid.py) |
