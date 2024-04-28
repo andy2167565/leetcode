@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-749/3125-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/788-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-514/1641-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-101/696-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-750/3134-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-515/1646-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-101/698-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -489,6 +489,7 @@
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium |  | [Python](./Medium/1792_maximum-average-pass-ratio/maximum-average-pass-ratio.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
+| 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |  | [Python](./Medium/1802_maximum-value-at-a-given-index-in-a-bounded-array/maximum-value-at-a-given-index-in-a-bounded-array.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard |  | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy |  | [Python](./Easy/1812_determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py) |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium |  | [Python](./Medium/1814_count-nice-pairs-in-an-array/count-nice-pairs-in-an-array.py) |
