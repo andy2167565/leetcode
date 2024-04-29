@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-750/3134-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-751/3134-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-515/1646-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-516/1646-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-101/698-red.svg" alt="">
 </p>
 
@@ -533,6 +533,7 @@
 | 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | Medium |  | [Python](./Medium/2008_maximum-earnings-from-taxi/maximum-earnings-from-taxi.py) |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | Medium |  | [Python](./Medium/2013_detect-squares/detect-squares.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
+| 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | Medium |  | [Python](./Medium/2018_check-if-word-can-be-placed-in-crossword/check-if-word-can-be-placed-in-crossword.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |  | [Python](./Medium/2033_minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid.py) |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | Medium |  | [Python](./Medium/2034_stock-price-fluctuation/stock-price-fluctuation.py) |
