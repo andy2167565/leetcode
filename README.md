@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-751/3134-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-752/3134-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-516/1646-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-517/1646-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-101/698-red.svg" alt="">
 </p>
 
@@ -464,6 +464,7 @@
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | Medium |  | [Python](./Medium/1702_maximum-binary-string-after-change/maximum-binary-string-after-change.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
+| 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | Medium |  | [Python](./Medium/1705_maximum-number-of-eaten-apples/maximum-number-of-eaten-apples.py) |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium |  | [Python](./Medium/1706_where-will-the-ball-fall/where-will-the-ball-fall.py) |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | Medium |  | [Python](./Medium/1711_count-good-meals/count-good-meals.py) |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium |  | [Python](./Medium/1717_maximum-score-from-removing-substrings/maximum-score-from-removing-substrings.py) |
