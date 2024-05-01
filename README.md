@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-752/3134-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-753/3134-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-517/1646-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-518/1646-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-101/698-red.svg" alt="">
 </p>
 
@@ -489,6 +489,7 @@
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy |  | [Python](./Easy/1790_check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py) |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium |  | [Python](./Medium/1792_maximum-average-pass-ratio/maximum-average-pass-ratio.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
+| 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | Medium |  | [Python](./Medium/1798_maximum-number-of-consecutive-values-you-can-make/maximum-number-of-consecutive-values-you-can-make.py) |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |  | [Python](./Medium/1802_maximum-value-at-a-given-index-in-a-bounded-array/maximum-value-at-a-given-index-in-a-bounded-array.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard |  | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
