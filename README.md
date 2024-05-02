@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-753/3134-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-754/3134-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-518/1646-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-519/1646-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-101/698-red.svg" alt="">
 </p>
 
@@ -440,6 +440,7 @@
 | 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | Medium |  | [Python](./Medium/1562_find-latest-group-of-size-m/find-latest-group-of-size-m.py) |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |  | [Python](./Easy/1566_detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium |  | [Python](./Medium/1567_maximum-length-of-subarray-with-positive-product/maximum-length-of-subarray-with-positive-product.py) |
+| 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |  | [Python](./Medium/1574_shortest-subarray-to-be-removed-to-make-array-sorted/shortest-subarray-to-be-removed-to-make-array-sorted.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |  | [Python](./Easy/1576_replace-all-s-to-avoid-consecutive-repeating-characters/replace-all-s-to-avoid-consecutive-repeating-characters.py) |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | Medium |  | [Python](./Medium/1583_count-unhappy-friends/count-unhappy-friends.py) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium |  | [Python](./Medium/1584_min-cost-to-connect-all-points/min-cost-to-connect-all-points.py) |
