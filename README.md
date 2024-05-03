@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-754/3134-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-755/3135-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-519/1646-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-101/698-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-519/1647-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-102/698-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -296,6 +296,7 @@
 | 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium |  | [Python](./Medium/0991_broken-calculator/broken-calculator.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 0995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Hard |  | [Python](./Hard/0995_minimum-number-of-k-consecutive-bit-flips/minimum-number-of-k-consecutive-bit-flips.py) |
+| 0996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | Hard |  | [Python](./Hard/0996_number-of-squareful-arrays/number-of-squareful-arrays.py) |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | Hard |  | [Python](./Hard/1001_grid-illumination/grid-illumination.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |  | [Python](./Medium/1004_max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |  | [Python](./Medium/1011_capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py) |
