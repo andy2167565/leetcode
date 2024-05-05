@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-756/3135-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-757/3135-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/790-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-519/1647-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-103/698-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-104/698-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -242,6 +242,7 @@
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | Medium |  | [Python](./Medium/0823_binary-trees-with-factors/binary-trees-with-factors.py) |
 | 0825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | Medium |  | [Python](./Medium/0825_friends-of-appropriate-ages/friends-of-appropriate-ages.py) |
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium |  | [Python](./Medium/0826_most-profit-assigning-work/most-profit-assigning-work.py) |
+| 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | Hard |  | [Python](./Hard/0827_making-a-large-island/making-a-large-island.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
 | 0842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium |  | [Python](./Medium/0842_split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
