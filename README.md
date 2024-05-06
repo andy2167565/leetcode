@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-757/3139-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-758/3140-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/791-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-519/1649-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-520/1650-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-104/699-red.svg" alt="">
 </p>
 
@@ -499,6 +499,7 @@
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy |  | [Python](./Easy/1812_determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.py) |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium |  | [Python](./Medium/1814_count-nice-pairs-in-an-array/count-nice-pairs-in-an-array.py) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | Easy |  | [Python](./Easy/1816_truncate-sentence/truncate-sentence.py) |
+| 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | Medium |  | [Python](./Medium/1818_minimum-absolute-sum-difference/minimum-absolute-sum-difference.py) |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | Hard |  | [Python](./Hard/1819_number-of-different-subsequences-gcds/number-of-different-subsequences-gcds.py) |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy |  | [Python](./Easy/1822_sign-of-the-product-of-an-array/sign-of-the-product-of-an-array.py) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium |  | [Python](./Medium/1823_find-the-winner-of-the-circular-game/find-the-winner-of-the-circular-game.py) |
