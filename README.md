@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-758/3140-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-759/3140-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/791-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-520/1650-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-521/1650-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-104/699-red.svg" alt="">
 </p>
 
@@ -235,6 +235,7 @@
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium |  | [Python](./Medium/0799_champagne-tower/champagne-tower.py) |
 | 0809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | Medium |  | [Python](./Medium/0809_expressive-words/expressive-words.py) |
+| 0813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | Medium |  | [Python](./Medium/0813_largest-sum-of-averages/largest-sum-of-averages.py) |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
 | 0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | Medium |  | [Python](./Medium/0816_ambiguous-coordinates/ambiguous-coordinates.py) |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | Medium |  | [Python](./Medium/0820_short-encoding-of-words/short-encoding-of-words.py) |
