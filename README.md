@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-759/3140-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-760/3140-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/791-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-521/1650-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-522/1650-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-104/699-red.svg" alt="">
 </p>
 
@@ -626,6 +626,7 @@
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |  | [Python](./Medium/2400_number-of-ways-to-reach-a-position-after-exactly-k-steps/number-of-ways-to-reach-a-position-after-exactly-k-steps.py) |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium |  | [Python](./Medium/2401_longest-nice-subarray/longest-nice-subarray.py) |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium |  | [Python](./Medium/2406_divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.py) |
+| 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | Medium |  | [Python](./Medium/2411_smallest-subarrays-with-maximum-bitwise-or/smallest-subarrays-with-maximum-bitwise-or.py) |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard |  | [Python](./Hard/2416_sum-of-prefix-scores-of-strings/sum-of-prefix-scores-of-strings.py) |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | Medium |  | [Python](./Medium/2420_find-all-good-indices/find-all-good-indices.py) |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | Easy |  | [Python](./Easy/2423_remove-letter-to-equalize-frequency/remove-letter-to-equalize-frequency.py) |
