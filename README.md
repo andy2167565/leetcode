@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-760/3140-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-761/3141-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/791-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-522/1650-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-104/699-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-523/1650-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-104/700-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -255,6 +255,7 @@
 | 0861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | Medium |  | [Python](./Medium/0861_score-after-flipping-matrix/score-after-flipping-matrix.py) |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium |  | [Python](./Medium/0863_all-nodes-distance-k-in-binary-tree/all-nodes-distance-k-in-binary-tree.py) |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium |  | [Python](./Medium/0865_smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.py) |
+| 0866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/) | Medium |  | [Python](./Medium/0866_prime-palindrome/prime-palindrome.py) |
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium |  | [Python](./Medium/0870_advantage-shuffle/advantage-shuffle.py) |
 | 0873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Medium |  | [Python](./Medium/0873_length-of-longest-fibonacci-subsequence/length-of-longest-fibonacci-subsequence.py) |
 | 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium |  | [Python](./Medium/0874_walking-robot-simulation/walking-robot-simulation.py) |
