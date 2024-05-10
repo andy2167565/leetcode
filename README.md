@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-761/3141-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-762/3141-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/791-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-523/1650-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-524/1650-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-104/700-red.svg" alt="">
 </p>
 
@@ -226,6 +226,7 @@
 | 0768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | Hard |  | [Python](./Hard/0768_max-chunks-to-make-sorted-ii/max-chunks-to-make-sorted-ii.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard |  | [Python](./Hard/0773_sliding-puzzle/sliding-puzzle.py) |
 | 0776 | [Split BST](https://leetcode.com/problems/split-bst/) | Medium | $ | [Python](./Medium/0776_split-bst/split-bst.py) |
+| 0777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | Medium |  | [Python](./Medium/0777_swap-adjacent-in-lr-string/swap-adjacent-in-lr-string.py) |
 | 0780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | Hard |  | [Python](./Hard/0780_reaching-points/reaching-points.py) |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |  | [Python](./Medium/0785_is-graph-bipartite/is-graph-bipartite.py) |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |  | [Python](./Medium/0787_cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.py) |
