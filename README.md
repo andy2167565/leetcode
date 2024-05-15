@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-766/3150-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-767/3150-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/794-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-527/1654-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-105/702-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-106/702-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -589,6 +589,7 @@
 | 2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | Medium |  | [Python](./Medium/2217_find-palindrome-with-fixed-length/find-palindrome-with-fixed-length.py) |
 | 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | Medium |  | [Python](./Medium/2222_number-of-ways-to-select-buildings/number-of-ways-to-select-buildings.py) |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium |  | [Python](./Medium/2226_maximum-candies-allocated-to-k-children/maximum-candies-allocated-to-k-children.py) |
+| 2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | Hard |  | [Python](./Hard/2227_encrypt-and-decrypt-strings/encrypt-and-decrypt-strings.py) |
 | 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | Medium |  | [Python](./Medium/2232_minimize-result-by-adding-parentheses-to-expression/minimize-result-by-adding-parentheses-to-expression.py) |
 | 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | Medium |  | [Python](./Medium/2233_maximum-product-after-k-increments/maximum-product-after-k-increments.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy |  | [Python](./Easy/2235_add-two-integers/add-two-integers.py) |
