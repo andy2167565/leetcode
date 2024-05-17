@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-768/3151-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-769/3151-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/794-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-528/1655-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-106/702-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-107/702-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -496,6 +496,7 @@
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |  | [Python](./Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy |  | [Python](./Easy/1790_check-if-one-string-swap-can-make-strings-equal/check-if-one-string-swap-can-make-strings-equal.py) |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium |  | [Python](./Medium/1792_maximum-average-pass-ratio/maximum-average-pass-ratio.py) |
+| 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Hard |  | [Python](./Hard/1793_maximum-score-of-a-good-subarray/maximum-score-of-a-good-subarray.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
 | 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | Medium |  | [Python](./Medium/1798_maximum-number-of-consecutive-values-you-can-make/maximum-number-of-consecutive-values-you-can-make.py) |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
