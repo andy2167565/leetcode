@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-769/3151-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-770/3151-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/794-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-528/1655-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-529/1655-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-107/702-red.svg" alt="">
 </p>
 
@@ -460,6 +460,7 @@
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium |  | [Python](./Medium/1616_split-two-strings-to-make-palindrome/split-two-strings-to-make-palindrome.py) |
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | Medium |  | [Python](./Medium/1620_coordinate-with-maximum-network-quality/coordinate-with-maximum-network-quality.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |  | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium |  | [Python](./Medium/1631_path-with-minimum-effort/path-with-minimum-effort.py) |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | Medium |  | [Python](./Medium/1638_count-substrings-that-differ-by-one-character/count-substrings-that-differ-by-one-character.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium |  | [Python](./Medium/1653_minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.py) |
