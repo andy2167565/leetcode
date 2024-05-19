@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-770/3151-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-771/3150-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/794-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-529/1655-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-530/1654-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-107/702-red.svg" alt="">
 </p>
 
@@ -673,6 +673,7 @@
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |  | [Python](./Medium/2507_smallest-value-after-replacing-with-sum-of-prime-factors/smallest-value-after-replacing-with-sum-of-prime-factors.py) |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | Easy |  | [Python](./Easy/2511_maximum-enemy-forts-that-can-be-captured/maximum-enemy-forts-that-can-be-captured.py) |
 | 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | Medium |  | [Python](./Medium/2512_reward-top-k-students/reward-top-k-students.py) |
+| 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium |  | [Python](./Medium/2516_take-k-of-each-character-from-left-and-right/take-k-of-each-character-from-left-and-right.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Easy |  | [Python](./Easy/2520_count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.py) |
 | 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | Medium |  | [Python](./Medium/2521_distinct-prime-factors-of-product-of-array/distinct-prime-factors-of-product-of-array.py) |
 | 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | Medium |  | [Python](./Medium/2522_partition-string-into-substrings-with-values-at-most-k/partition-string-into-substrings-with-values-at-most-k.py) |
