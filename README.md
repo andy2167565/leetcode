@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-771/3150-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/794-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-530/1654-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-107/702-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-772/3156-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/795-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-530/1657-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-108/704-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -671,6 +671,7 @@
 | 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | Medium |  | [Python](./Medium/2502_design-memory-allocator/design-memory-allocator.py) |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | Easy |  | [Python](./Easy/2506_count-pairs-of-similar-strings/count-pairs-of-similar-strings.py) |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |  | [Python](./Medium/2507_smallest-value-after-replacing-with-sum-of-prime-factors/smallest-value-after-replacing-with-sum-of-prime-factors.py) |
+| 2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) | Hard |  | [Python](./Hard/2509_cycle-length-queries-in-a-tree/cycle-length-queries-in-a-tree.py) |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | Easy |  | [Python](./Easy/2511_maximum-enemy-forts-that-can-be-captured/maximum-enemy-forts-that-can-be-captured.py) |
 | 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | Medium |  | [Python](./Medium/2512_reward-top-k-students/reward-top-k-students.py) |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium |  | [Python](./Medium/2516_take-k-of-each-character-from-left-and-right/take-k-of-each-character-from-left-and-right.py) |
