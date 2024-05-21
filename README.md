@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-772/3156-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-773/3156-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/795-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-530/1657-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-108/704-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-109/704-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -340,6 +340,7 @@
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Medium |  | [Python](./Medium/1146_snapshot-array/snapshot-array.py) |
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | Hard |  | [Python](./Hard/1147_longest-chunked-palindrome-decomposition/longest-chunked-palindrome-decomposition.py) |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Medium | $ | [Python](./Medium/1152_analyze-user-website-visit-pattern/analyze-user-website-visit-pattern.py) |
+| 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | Hard | $ | [Python](./Hard/1153_string-transforms-into-another-string/string-transforms-into-another-string.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
