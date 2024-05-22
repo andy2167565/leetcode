@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-773/3156-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-774/3156-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/795-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-530/1657-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-531/1657-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-109/704-red.svg" alt="">
 </p>
 
@@ -471,6 +471,7 @@
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard |  | [Python](./Hard/1671_minimum-number-of-removals-to-make-mountain-array/minimum-number-of-removals-to-make-mountain-array.py) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
+| 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | Medium |  | [Python](./Medium/1690_stone-game-vii/stone-game-vii.py) |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | Medium |  | [Python](./Medium/1702_maximum-binary-string-after-change/maximum-binary-string-after-change.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy |  | [Python](./Easy/1704_determine-if-string-halves-are-alike/determine-if-string-halves-are-alike.py) |
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | Medium |  | [Python](./Medium/1705_maximum-number-of-eaten-apples/maximum-number-of-eaten-apples.py) |
