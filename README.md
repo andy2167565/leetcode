@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-774/3156-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-775/3157-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/795-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-531/1657-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-109/704-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-531/1658-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-110/704-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -370,6 +370,7 @@
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard |  | [Python](./Hard/1255_maximum-score-words-formed-by-letters/maximum-score-words-formed-by-letters.py) |
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
 | 1258 | [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) | Medium | $ | [Python](./Medium/1258_synonymous-sentences/synonymous-sentences.py) |
+| 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/) | Hard | $ | [Python](./Hard/1259_handshakes-that-dont-cross/handshakes-that-dont-cross.py) |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Medium |  | [Python](./Medium/1262_greatest-sum-divisible-by-three/greatest-sum-divisible-by-three.py) |
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |  | [Python](./Hard/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 | 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | Medium | $ | [Python](./Medium/1273_delete-tree-nodes/delete-tree-nodes.py) |
