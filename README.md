@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-775/3157-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-776/3157-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/795-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-531/1658-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-110/704-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-111/704-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -643,6 +643,7 @@
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | Easy |  | [Python](./Easy/2423_remove-letter-to-equalize-frequency/remove-letter-to-equalize-frequency.py) |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | Medium |  | [Python](./Medium/2424_longest-uploaded-prefix/longest-uploaded-prefix.py) |
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | Medium |  | [Python](./Medium/2425_bitwise-xor-of-all-pairings/bitwise-xor-of-all-pairings.py) |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |  | [Python](./Hard/2435_paths-in-matrix-whose-sum-is-divisible-by-k/paths-in-matrix-whose-sum-is-divisible-by-k.py) |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium |  | [Python](./Medium/2438_range-product-queries-of-powers/range-product-queries-of-powers.py) |
 | 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Easy |  | [Python](./Easy/2446_determine-if-two-events-have-conflict/determine-if-two-events-have-conflict.py) |
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | Medium |  | [Python](./Medium/2447_number-of-subarrays-with-gcd-equal-to-k/number-of-subarrays-with-gcd-equal-to-k.py) |
