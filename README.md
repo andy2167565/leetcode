@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-776/3157-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-777/3157-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/795-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-531/1658-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-532/1658-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-111/704-red.svg" alt="">
 </p>
 
@@ -482,6 +482,7 @@
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Medium |  | [Python](./Medium/1722_minimize-hamming-distance-after-swap-operations/minimize-hamming-distance-after-swap-operations.py) |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium |  | [Python](./Medium/1727_largest-submatrix-with-rearrangements/largest-submatrix-with-rearrangements.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |  | [Python](./Medium/1737_change-minimum-characters-to-satisfy-one-of-three-conditions/change-minimum-characters-to-satisfy-one-of-three-conditions.py) |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | Medium |  | [Python](./Medium/1738_find-kth-largest-xor-coordinate-value/find-kth-largest-xor-coordinate-value.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |  | [Python](./Medium/1744_can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.py) |
