@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-781/3166-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-782/3167-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/797-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-535/1663-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-112/706-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-535/1664-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-113/706-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -635,6 +635,7 @@
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | Medium |  | [Python](./Medium/2381_shifting-letters-ii/shifting-letters-ii.py) |
 | 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | Medium |  | [Python](./Medium/2384_largest-palindromic-number/largest-palindromic-number.py) |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium |  | [Python](./Medium/2385_amount-of-time-for-binary-tree-to-be-infected/amount-of-time-for-binary-tree-to-be-infected.py) |
+| 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard |  | [Python](./Hard/2392_build-a-matrix-with-conditions/build-a-matrix-with-conditions.py) |
 | 2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | Medium |  | [Python](./Medium/2397_maximum-rows-covered-by-columns/maximum-rows-covered-by-columns.py) |
 | 2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | Hard |  | [Python](./Hard/2398_maximum-number-of-robots-within-budget/maximum-number-of-robots-within-budget.py) |
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |  | [Python](./Medium/2400_number-of-ways-to-reach-a-position-after-exactly-k-steps/number-of-ways-to-reach-a-position-after-exactly-k-steps.py) |
