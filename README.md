@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-784/3167-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-785/3167-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/797-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-535/1664-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-536/1664-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-115/706-red.svg" alt="">
 </p>
 
@@ -467,6 +467,7 @@
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium |  | [Python](./Medium/1631_path-with-minimum-effort/path-with-minimum-effort.py) |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | Medium |  | [Python](./Medium/1638_count-substrings-that-differ-by-one-character/count-substrings-that-differ-by-one-character.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium |  | [Python](./Medium/1642_furthest-building-you-can-reach/furthest-building-you-can-reach.py) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium |  | [Python](./Medium/1653_minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.py) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |  | [Python](./Medium/1658_minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard |  | [Python](./Hard/1665_minimum-initial-energy-to-finish-tasks/minimum-initial-energy-to-finish-tasks.py) |
