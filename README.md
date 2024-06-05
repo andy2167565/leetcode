@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-787/3172-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-788/3172-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/799-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-538/1666-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-539/1666-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-115/707-red.svg" alt="">
 </p>
 
@@ -549,6 +549,7 @@
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | Hard |  | [Python](./Hard/1964_find-the-longest-valid-obstacle-course-at-each-position/find-the-longest-valid-obstacle-course-at-each-position.py) |
+| 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | Medium |  | [Python](./Medium/1969_minimum-non-zero-product-of-the-array-elements/minimum-non-zero-product-of-the-array-elements.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
 | 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | Medium |  | [Python](./Medium/1993_operations-on-tree/operations-on-tree.py) |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium |  | [Python](./Medium/1996_the-number-of-weak-characters-in-the-game/the-number-of-weak-characters-in-the-game.py) |
