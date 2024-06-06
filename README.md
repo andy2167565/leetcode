@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-788/3172-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/799-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-789/3173-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/800-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-539/1666-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-115/707-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-116/707-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -379,6 +379,7 @@
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |  | [Python](./Hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |  | [Python](./Hard/1293_shortest-path-in-a-grid-with-obstacles-elimination/shortest-path-in-a-grid-with-obstacles-elimination.py) |
 | 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | Medium |  | [Python](./Medium/1297_maximum-number-of-occurrences-of-a-substring/maximum-number-of-occurrences-of-a-substring.py) |
 | 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard |  | [Python](./Hard/1298_maximum-candies-you-can-get-from-boxes/maximum-candies-you-can-get-from-boxes.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
