@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-790/3173-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-791/3173-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/800-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-539/1666-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-540/1666-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-117/707-red.svg" alt="">
 </p>
 
@@ -544,6 +544,7 @@
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium |  | [Python](./Medium/1922_count-good-numbers/count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
+| 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | Medium |  | [Python](./Medium/1943_describe-the-painting/describe-the-painting.py) |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | Medium |  | [Python](./Medium/1947_maximum-compatibility-score-sum/maximum-compatibility-score-sum.py) |
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | Medium |  | [Python](./Medium/1953_maximum-number-of-weeks-for-which-you-can-work/maximum-number-of-weeks-for-which-you-can-work.py) |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | Medium |  | [Python](./Medium/1954_minimum-garden-perimeter-to-collect-enough-apples/minimum-garden-perimeter-to-collect-enough-apples.py) |
