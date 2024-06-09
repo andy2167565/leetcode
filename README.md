@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-791/3173-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/800-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-540/1666-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-117/707-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-792/3177-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/801-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-541/1668-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-117/708-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -247,6 +247,7 @@
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium |  | [Python](./Medium/0826_most-profit-assigning-work/most-profit-assigning-work.py) |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | Hard |  | [Python](./Hard/0827_making-a-large-island/making-a-large-island.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
+| 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium |  | [Python](./Medium/0835_image-overlap/image-overlap.py) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
 | 0842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium |  | [Python](./Medium/0842_split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
