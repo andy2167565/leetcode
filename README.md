@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-792/3177-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/801-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-541/1668-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-117/708-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-793/3182-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/802-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-541/1671-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-118/709-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -315,6 +315,7 @@
 | 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | Medium |  | [Python](./Medium/1027_longest-arithmetic-subsequence/longest-arithmetic-subsequence.py) |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |  | [Python](./Hard/1028_recover-a-tree-from-preorder-traversal/recover-a-tree-from-preorder-traversal.py) |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium |  | [Python](./Medium/1031_maximum-sum-of-two-non-overlapping-subarrays/maximum-sum-of-two-non-overlapping-subarrays.py) |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | Hard |  | [Python](./Hard/1032_stream-of-characters/stream-of-characters.py) |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium |  | [Python](./Medium/1035_uncrossed-lines/uncrossed-lines.py) |
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | Medium |  | [Python](./Medium/1042_flower-planting-with-no-adjacent/flower-planting-with-no-adjacent.py) |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium |  | [Python](./Medium/1043_partition-array-for-maximum-sum/partition-array-for-maximum-sum.py) |
