@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-793/3182-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-794/3182-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/802-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-541/1671-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-542/1671-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-118/709-red.svg" alt="">
 </p>
 
@@ -430,6 +430,7 @@
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy |  | [Python](./Easy/1480_running-sum-of-1d-array/running-sum-of-1d-array.py) |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium |  | [Python](./Medium/1482_minimum-number-of-days-to-make-m-bouquets/minimum-number-of-days-to-make-m-bouquets.py) |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | Medium |  | [Python](./Medium/1487_making-file-names-unique/making-file-names-unique.py) |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium |  | [Python](./Medium/1488_avoid-flood-in-the-city/avoid-flood-in-the-city.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium |  | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium |  | [Python](./Medium/1497_check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
