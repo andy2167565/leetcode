@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-794/3182-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-795/3182-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/802-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-542/1671-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-543/1671-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-118/709-red.svg" alt="">
 </p>
 
@@ -273,6 +273,7 @@
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium |  | [Python](./Medium/0901_online-stock-span/online-stock-span.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
+| 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium |  | [Python](./Medium/0907_sum-of-subarray-minimums/sum-of-subarray-minimums.py) |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium |  | [Python](./Medium/0916_word-subsets/word-subsets.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |  | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
 | 0919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | Medium |  | [Python](./Medium/0919_complete-binary-tree-inserter/complete-binary-tree-inserter.py) |
