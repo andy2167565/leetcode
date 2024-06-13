@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-795/3182-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-796/3183-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/802-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-543/1671-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-544/1672-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-118/709-red.svg" alt="">
 </p>
 
@@ -793,6 +793,7 @@
 | 2808 | [Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | Medium |  | [Python](./Medium/2808_minimum-seconds-to-equalize-a-circular-array/minimum-seconds-to-equalize-a-circular-array.py) |
 | 2817 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | Medium |  | [Python](./Medium/2817_minimum-absolute-difference-between-elements-with-constraint/minimum-absolute-difference-between-elements-with-constraint.py) |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
+| 2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | Medium |  | [Python](./Medium/2831_find-the-longest-equal-subarray/find-the-longest-equal-subarray.py) |
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard |  | [Python](./Hard/2872_maximum-number-of-k-divisible-components/maximum-number-of-k-divisible-components.py) |
 | 2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | Medium |  | [Python](./Medium/2875_minimum-size-subarray-in-infinite-array/minimum-size-subarray-in-infinite-array.py) |
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium |  | [Python](./Medium/2901_longest-unequal-adjacent-groups-subsequence-ii/longest-unequal-adjacent-groups-subsequence-ii.py) |
