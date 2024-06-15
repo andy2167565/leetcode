@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-797/3183-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-798/3183-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/802-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-544/1672-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-545/1672-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-119/709-red.svg" alt="">
 </p>
 
@@ -539,6 +539,7 @@
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium |  | [Python](./Medium/1871_jump-game-vii/jump-game-vii.py) |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium |  | [Python](./Medium/1878_get-biggest-three-rhombus-sums-in-a-grid/get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |  | [Python](./Easy/1880_check-if-word-equals-summation-of-two-words/check-if-word-equals-summation-of-two-words.py) |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | Medium |  | [Python](./Medium/1882_process-tasks-using-servers/process-tasks-using-servers.py) |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium |  | [Python](./Medium/1895_largest-magic-square/largest-magic-square.py) |
 | 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | Medium |  | [Python](./Medium/1898_maximum-number-of-removable-characters/maximum-number-of-removable-characters.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium |  | [Python](./Medium/1899_merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.py) |
