@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-798/3183-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/802-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-545/1672-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-119/709-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-798/3161-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/799-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-544/1656-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-120/706-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -380,6 +380,7 @@
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |  | [Python](./Hard/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 | 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | Medium | $ | [Python](./Medium/1273_delete-tree-nodes/delete-tree-nodes.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
+| 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | Hard |  | [Python](./Hard/1278_palindrome-partitioning-iii/palindrome-partitioning-iii.py) |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |  | [Python](./Hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
