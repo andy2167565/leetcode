@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-802/3188-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-803/3189-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/803-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-547/1674-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-121/711-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-547/1675-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-122/711-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -236,6 +236,7 @@
 | 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Medium |  | [Python](./Medium/0795_number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.py) |
 | 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium |  | [Python](./Medium/0799_champagne-tower/champagne-tower.py) |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium |  | [Python](./Medium/0802_find-eventual-safe-states/find-eventual-safe-states.py) |
+| 0805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | Hard |  | [Python](./Hard/0805_split-array-with-same-average/split-array-with-same-average.py) |
 | 0809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | Medium |  | [Python](./Medium/0809_expressive-words/expressive-words.py) |
 | 0813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | Medium |  | [Python](./Medium/0813_largest-sum-of-averages/largest-sum-of-averages.py) |
 | 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard |  | [Python](./Hard/0815_bus-routes/bus-routes.py) |
