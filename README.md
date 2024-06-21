@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-803/3189-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-804/3189-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/803-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-547/1675-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-122/711-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-123/711-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -372,6 +372,7 @@
 | 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | Medium | $ | [Python](./Medium/1245_tree-diameter/tree-diameter.py) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium |  | [Python](./Medium/1248_count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium |  | [Python](./Medium/1249_minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.py) |
+| 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | Hard |  | [Python](./Hard/1250_check-if-it-is-a-good-array/check-if-it-is-a-good-array.py) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |  | [Python](./Medium/1254_number-of-closed-islands/number-of-closed-islands.py) |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard |  | [Python](./Hard/1255_maximum-score-words-formed-by-letters/maximum-score-words-formed-by-letters.py) |
 | 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | Medium | $ | [Python](./Medium/1257_smallest-common-region/smallest-common-region.py) |
