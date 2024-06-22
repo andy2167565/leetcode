@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-804/3189-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-805/3189-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/803-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-547/1675-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-548/1675-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-123/711-red.svg" alt="">
 </p>
 
@@ -496,6 +496,7 @@
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Medium |  | [Python](./Medium/1722_minimize-hamming-distance-after-swap-operations/minimize-hamming-distance-after-swap-operations.py) |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium |  | [Python](./Medium/1727_largest-submatrix-with-rearrangements/largest-submatrix-with-rearrangements.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
+| 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | Medium |  | [Python](./Medium/1733_minimum-number-of-people-to-teach/minimum-number-of-people-to-teach.py) |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |  | [Python](./Medium/1737_change-minimum-characters-to-satisfy-one-of-three-conditions/change-minimum-characters-to-satisfy-one-of-three-conditions.py) |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | Medium |  | [Python](./Medium/1738_find-kth-largest-xor-coordinate-value/find-kth-largest-xor-coordinate-value.py) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
