@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-805/3189-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/803-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-548/1675-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-123/711-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-806/3193-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/804-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-548/1677-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-124/712-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -807,6 +807,7 @@
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium |  | [Python](./Medium/2901_longest-unequal-adjacent-groups-subsequence-ii/longest-unequal-adjacent-groups-subsequence-ii.py) |
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
+| 2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/) | Hard |  | [Python](./Hard/2963_count-the-number-of-good-partitions/count-the-number-of-good-partitions.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
 | 3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | Medium |  | [Python](./Medium/3002_maximum-size-of-a-set-after-removals/maximum-size-of-a-set-after-removals.py) |
