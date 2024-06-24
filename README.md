@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-806/3193-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/804-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-548/1677-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-124/712-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-807/3197-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/805-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-548/1679-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-125/713-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -284,6 +284,7 @@
 | 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium |  | [Python](./Medium/0934_shortest-bridge/shortest-bridge.py) |
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
 | 0939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | Medium |  | [Python](./Medium/0939_minimum-area-rectangle/minimum-area-rectangle.py) |
+| 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard |  | [Python](./Hard/0940_distinct-subsequences-ii/distinct-subsequences-ii.py) |
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium |  | [Python](./Medium/0948_bag-of-tokens/bag-of-tokens.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium |  | [Python](./Medium/0950_reveal-cards-in-increasing-order/reveal-cards-in-increasing-order.py) |
