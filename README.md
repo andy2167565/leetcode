@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-809/3198-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/806-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-548/1679-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-810/3199-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/807-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-549/1679-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-127/713-red.svg" alt="">
 </p>
 
@@ -220,6 +220,7 @@
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium |  | [Python](./Medium/0752_open-the-lock/open-the-lock.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0755 | [Pour Water](https://leetcode.com/problems/pour-water/) | Medium | $ | [Python](./Medium/0755_pour-water/pour-water.py) |
+| 0756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | Medium |  | [Python](./Medium/0756_pyramid-transition-matrix/pyramid-transition-matrix.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | $ | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
 | 0764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | Medium |  | [Python](./Medium/0764_largest-plus-sign/largest-plus-sign.py) |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |  | [Python](./Medium/0767_reorganize-string/reorganize-string.py) |
