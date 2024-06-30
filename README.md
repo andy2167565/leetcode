@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-812/3199-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-813/3199-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/807-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-551/1679-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-127/713-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-128/713-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -283,6 +283,7 @@
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium |  | [Python](./Medium/0923_3sum-with-multiplicity/3sum-with-multiplicity.py) |
 | 0924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | Hard |  | [Python](./Hard/0924_minimize-malware-spread/minimize-malware-spread.py) |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
+| 0927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | Hard |  | [Python](./Hard/0927_three-equal-parts/three-equal-parts.py) |
 | 0928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | Hard |  | [Python](./Hard/0928_minimize-malware-spread-ii/minimize-malware-spread-ii.py) |
 | 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium |  | [Python](./Medium/0934_shortest-bridge/shortest-bridge.py) |
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
