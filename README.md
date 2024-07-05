@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-816/3205-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-817/3205-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/808-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-553/1683-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-129/714-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-130/714-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -700,6 +700,7 @@
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy |  | [Python](./Easy/2481_minimum-cuts-to-divide-a-circle/minimum-cuts-to-divide-a-circle.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium |  | [Python](./Medium/2482_difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py) |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium |  | [Python](./Medium/2483_minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.py) |
+| 2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | Hard |  | [Python](./Hard/2488_count-subarrays-with-median-k/count-subarrays-with-median-k.py) |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy |  | [Python](./Easy/2490_circular-sentence/circular-sentence.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium |  | [Python](./Medium/2491_divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.py) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium |  | [Python](./Medium/2492_minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.py) |
