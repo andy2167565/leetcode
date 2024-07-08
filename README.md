@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-819/3209-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/809-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-554/1685-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-131/715-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-820/3213-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/810-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-555/1687-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-131/716-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -495,6 +495,7 @@
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard |  | [Python](./Hard/1671_minimum-number-of-removals-to-make-mountain-array/minimum-number-of-removals-to-make-mountain-array.py) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
+| 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | Medium |  | [Python](./Medium/1686_stone-game-vi/stone-game-vi.py) |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | Medium |  | [Python](./Medium/1690_stone-game-vii/stone-game-vii.py) |
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | Medium |  | [Python](./Medium/1696_jump-game-vi/jump-game-vi.py) |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | Medium |  | [Python](./Medium/1702_maximum-binary-string-after-change/maximum-binary-string-after-change.py) |
