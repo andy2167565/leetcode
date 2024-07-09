@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-820/3213-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-821/3214-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/810-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-555/1687-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-131/716-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-132/717-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -650,6 +650,7 @@
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | Hard |  | [Python](./Hard/2321_maximum-score-of-spliced-array/maximum-score-of-spliced-array.py) |
 | 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium |  | [Python](./Medium/2327_number-of-people-aware-of-a-secret/number-of-people-aware-of-a-secret.py) |
+| 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | Hard |  | [Python](./Hard/2328_number-of-increasing-paths-in-a-grid/number-of-increasing-paths-in-a-grid.py) |
 | 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | Medium |  | [Python](./Medium/2332_the-latest-time-to-catch-a-bus/the-latest-time-to-catch-a-bus.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium |  | [Python](./Medium/2337_move-pieces-to-obtain-a-string/move-pieces-to-obtain-a-string.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
