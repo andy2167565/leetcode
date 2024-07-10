@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-821/3214-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-822/3214-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/810-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-555/1687-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-556/1687-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-132/717-red.svg" alt="">
 </p>
 
@@ -816,6 +816,7 @@
 | 2817 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | Medium |  | [Python](./Medium/2817_minimum-absolute-difference-between-elements-with-constraint/minimum-absolute-difference-between-elements-with-constraint.py) |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | Medium |  | [Python](./Medium/2831_find-the-longest-equal-subarray/find-the-longest-equal-subarray.py) |
+| 2850 | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | Medium |  | [Python](./Medium/2850_minimum-moves-to-spread-stones-over-grid/minimum-moves-to-spread-stones-over-grid.py) |
 | 2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | Medium |  | [Python](./Medium/2861_maximum-number-of-alloys/maximum-number-of-alloys.py) |
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard |  | [Python](./Hard/2872_maximum-number-of-k-divisible-components/maximum-number-of-k-divisible-components.py) |
 | 2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | Medium |  | [Python](./Medium/2875_minimum-size-subarray-in-infinite-array/minimum-size-subarray-in-infinite-array.py) |
