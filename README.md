@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-822/3214-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-823/3215-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/810-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-556/1687-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-132/717-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-556/1688-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-133/717-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -600,6 +600,7 @@
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | Medium |  | [Python](./Medium/2080_range-frequency-queries/range-frequency-queries.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |  | [Python](./Medium/2087_minimum-cost-homecoming-of-a-robot-in-a-grid/minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | Hard |  | [Python](./Hard/2092_find-all-people-with-secret/find-all-people-with-secret.py) |
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |  | [Python](./Medium/2096_step-by-step-directions-from-a-binary-tree-node-to-another/step-by-step-directions-from-a-binary-tree-node-to-another.py) |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | Medium |  | [Python](./Medium/2100_find-good-days-to-rob-the-bank/find-good-days-to-rob-the-bank.py) |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium |  | [Python](./Medium/2101_detonate-the-maximum-bombs/detonate-the-maximum-bombs.py) |
