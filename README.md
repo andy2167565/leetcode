@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-824/3215-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/810-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-557/1688-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-133/717-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-825/3219-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/811-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-557/1690-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-134/718-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -517,6 +517,7 @@
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | Medium |  | [Python](./Medium/1754_largest-merge-of-two-strings/largest-merge-of-two-strings.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium |  | [Python](./Medium/1760_minimum-limit-of-balls-in-a-bag/minimum-limit-of-balls-in-a-bag.py) |
+| 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | Hard |  | [Python](./Hard/1761_minimum-degree-of-a-connected-trio-in-a-graph/minimum-degree-of-a-connected-trio-in-a-graph.py) |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | Easy |  | [Python](./Easy/1763_longest-nice-substring/longest-nice-substring.py) |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | Medium |  | [Python](./Medium/1765_map-of-highest-peak/map-of-highest-peak.py) |
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | Medium |  | [Python](./Medium/1774_closest-dessert-cost/closest-dessert-cost.py) |
