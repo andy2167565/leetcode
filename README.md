@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-826/3221-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-827/3221-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/811-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-558/1692-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-134/718-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-135/718-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -372,6 +372,7 @@
 | 1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | Hard | $ | [Python](./Hard/1216_valid-palindrome-iii/valid-palindrome-iii.py) |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium |  | [Python](./Medium/1219_path-with-maximum-gold/path-with-maximum-gold.py) |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | Hard |  | [Python](./Hard/1220_count-vowels-permutation/count-vowels-permutation.py) |
+| 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | Hard |  | [Python](./Hard/1223_dice-roll-simulation/dice-roll-simulation.py) |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | Medium | $ | [Python](./Medium/1230_toss-strange-coins/toss-strange-coins.py) |
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | Medium |  | [Python](./Medium/1234_replace-the-substring-for-balanced-string/replace-the-substring-for-balanced-string.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
