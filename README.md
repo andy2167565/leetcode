@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-828/3221-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/811-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-559/1692-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-135/718-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-829/3229-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/813-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-560/1696-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-135/720-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -658,6 +658,7 @@
 | 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium |  | [Python](./Medium/2327_number-of-people-aware-of-a-secret/number-of-people-aware-of-a-secret.py) |
 | 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | Hard |  | [Python](./Hard/2328_number-of-increasing-paths-in-a-grid/number-of-increasing-paths-in-a-grid.py) |
 | 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | Medium |  | [Python](./Medium/2332_the-latest-time-to-catch-a-bus/the-latest-time-to-catch-a-bus.py) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium |  | [Python](./Medium/2333_minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium |  | [Python](./Medium/2337_move-pieces-to-obtain-a-string/move-pieces-to-obtain-a-string.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
