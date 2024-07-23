@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-830/3230-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-831/3230-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/813-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-561/1697-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-562/1697-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-135/720-red.svg" alt="">
 </p>
 
@@ -709,6 +709,7 @@
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |  | [Python](./Medium/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level/minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | Easy |  | [Python](./Easy/2475_number-of-unequal-triplets-in-array/number-of-unequal-triplets-in-array.py) |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | Medium |  | [Python](./Medium/2476_closest-nodes-queries-in-a-binary-search-tree/closest-nodes-queries-in-a-binary-search-tree.py) |
+| 2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | Medium |  | [Python](./Medium/2477_minimum-fuel-cost-to-report-to-the-capital/minimum-fuel-cost-to-report-to-the-capital.py) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy |  | [Python](./Easy/2481_minimum-cuts-to-divide-a-circle/minimum-cuts-to-divide-a-circle.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium |  | [Python](./Medium/2482_difference-between-ones-and-zeros-in-row-and-column/difference-between-ones-and-zeros-in-row-and-column.py) |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium |  | [Python](./Medium/2483_minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.py) |
