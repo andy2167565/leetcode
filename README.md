@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-832/3230-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-833/3231-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/813-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-562/1697-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-136/720-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-563/1697-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-136/721-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -340,6 +340,7 @@
 | 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard |  | [Python](./Hard/1092_shortest-common-supersequence/shortest-common-supersequence.py) |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard |  | [Python](./Hard/1095_find-in-mountain-array/find-in-mountain-array.py) |
 | 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | Medium | $ | [Python](./Medium/1102_path-with-maximum-minimum-value/path-with-maximum-minimum-value.py) |
+| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | Medium |  | [Python](./Medium/1105_filling-bookcase-shelves/filling-bookcase-shelves.py) |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard |  | [Python](./Hard/1106_parsing-a-boolean-expression/parsing-a-boolean-expression.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |  | [Python](./Medium/1111_maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
