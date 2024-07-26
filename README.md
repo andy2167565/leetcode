@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-833/3231-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-834/3231-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/813-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-563/1697-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-136/721-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-137/721-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -414,6 +414,7 @@
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium |  | [Python](./Medium/1339_maximum-product-of-splitted-binary-tree/maximum-product-of-splitted-binary-tree.py) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |  | [Python](./Hard/1340_jump-game-v/jump-game-v.py) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
+| 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | Hard |  | [Python](./Hard/1354_construct-target-array-with-multiple-sums/construct-target-array-with-multiple-sums.py) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |  | [Python](./Medium/1358_number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard |  | [Python](./Hard/1359_count-all-valid-pickup-and-delivery-options/count-all-valid-pickup-and-delivery-options.py) |
 | 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | Hard |  | [Python](./Hard/1363_largest-multiple-of-three/largest-multiple-of-three.py) |
