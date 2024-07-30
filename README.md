@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-837/3235-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-838/3236-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/814-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-565/1699-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-138/722-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-139/723-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -746,6 +746,7 @@
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
 | 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | Medium |  | [Python](./Medium/2541_minimum-operations-to-make-array-equal-ii/minimum-operations-to-make-array-equal-ii.py) |
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Medium |  | [Python](./Medium/2546_apply-bitwise-operations-to-make-strings-equal/apply-bitwise-operations-to-make-strings-equal.py) |
+| 2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | Hard |  | [Python](./Hard/2547_minimum-cost-to-split-an-array/minimum-cost-to-split-an-array.py) |
 | 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Easy |  | [Python](./Easy/2549_count-distinct-numbers-on-board/count-distinct-numbers-on-board.py) |
 | 2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | Medium |  | [Python](./Medium/2550_count-collisions-of-monkeys-on-a-polygon/count-collisions-of-monkeys-on-a-polygon.py) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | Easy |  | [Python](./Easy/2553_separate-the-digits-in-an-array/separate-the-digits-in-an-array.py) |
