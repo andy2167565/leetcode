@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-838/3236-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-839/3236-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/814-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-565/1699-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-139/723-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-140/723-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -843,6 +843,7 @@
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
 | 3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | Medium |  | [Python](./Medium/3002_maximum-size-of-a-set-after-removals/maximum-size-of-a-set-after-removals.py) |
 | 3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | Hard |  | [Python](./Hard/3008_find-beautiful-indices-in-the-given-array-ii/find-beautiful-indices-in-the-given-array-ii.py) |
+| 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard |  | [Python](./Hard/3027_find-the-number-of-ways-to-place-people-ii/find-the-number-of-ways-to-place-people-ii.py) |
 | 3030 | [Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | Medium |  | [Python](./Medium/3030_find-the-grid-of-region-average/find-the-grid-of-region-average.py) |
 | 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
