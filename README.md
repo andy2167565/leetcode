@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-840/3237-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-841/3237-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/814-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-566/1700-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-567/1700-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-140/723-red.svg" alt="">
 </p>
 
@@ -648,6 +648,7 @@
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium |  | [Python](./Medium/2257_count-unguarded-cells-in-the-grid/count-unguarded-cells-in-the-grid.py) |
 | 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | Medium |  | [Python](./Medium/2261_k-divisible-elements-subarrays/k-divisible-elements-subarrays.py) |
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | Medium |  | [Python](./Medium/2266_count-number-of-texts/count-number-of-texts.py) |
+| 2271 | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | Medium |  | [Python](./Medium/2271_maximum-white-tiles-covered-by-a-carpet/maximum-white-tiles-covered-by-a-carpet.py) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | Medium |  | [Python](./Medium/2280_minimum-lines-to-represent-a-line-chart/minimum-lines-to-represent-a-line-chart.py) |
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | Hard |  | [Python](./Hard/2296_design-a-text-editor/design-a-text-editor.py) |
