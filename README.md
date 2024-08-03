@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-841/3237-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-842/3237-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/814-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-567/1700-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-140/723-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-141/723-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -645,6 +645,7 @@
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | Medium |  | [Python](./Medium/2241_design-an-atm-machine/design-an-atm-machine.py) |
 | 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | Medium |  | [Python](./Medium/2249_count-lattice-points-inside-a-circle/count-lattice-points-inside-a-circle.py) |
 | 2250 | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | Medium |  | [Python](./Medium/2250_count-number-of-rectangles-containing-each-point/count-number-of-rectangles-containing-each-point.py) |
+| 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Hard |  | [Python](./Hard/2251_number-of-flowers-in-full-bloom/number-of-flowers-in-full-bloom.py) |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium |  | [Python](./Medium/2257_count-unguarded-cells-in-the-grid/count-unguarded-cells-in-the-grid.py) |
 | 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | Medium |  | [Python](./Medium/2261_k-divisible-elements-subarrays/k-divisible-elements-subarrays.py) |
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | Medium |  | [Python](./Medium/2266_count-number-of-texts/count-number-of-texts.py) |
