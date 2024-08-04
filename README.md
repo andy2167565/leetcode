@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-842/3237-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/814-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-567/1700-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-141/723-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-843/3245-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/816-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-567/1703-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-142/726-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -371,6 +371,7 @@
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium |  | [Python](./Medium/1191_k-concatenation-maximum-sum/k-concatenation-maximum-sum.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | Medium |  | [Python](./Medium/1202_smallest-string-with-swaps/smallest-string-with-swaps.py) |
+| 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | Hard |  | [Python](./Hard/1210_minimum-moves-to-reach-target-with-rotations/minimum-moves-to-reach-target-with-rotations.py) |
 | 1215 | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | Medium | $ | [Python](./Medium/1215_stepping-numbers/stepping-numbers.py) |
 | 1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | Hard | $ | [Python](./Hard/1216_valid-palindrome-iii/valid-palindrome-iii.py) |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium |  | [Python](./Medium/1219_path-with-maximum-gold/path-with-maximum-gold.py) |
