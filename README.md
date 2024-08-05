@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-843/3245-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/816-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-567/1703-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-844/3246-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/817-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-568/1703-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-142/726-red.svg" alt="">
 </p>
 
@@ -776,6 +776,7 @@
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium |  | [Python](./Medium/2592_maximize-greatness-of-an-array/maximize-greatness-of-an-array.py) |
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium |  | [Python](./Medium/2593_find-score-of-an-array-after-marking-all-elements/find-score-of-an-array-after-marking-all-elements.py) |
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium |  | [Python](./Medium/2594_minimum-time-to-repair-cars/minimum-time-to-repair-cars.py) |
+| 2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | Medium |  | [Python](./Medium/2597_the-number-of-beautiful-subsets/the-number-of-beautiful-subsets.py) |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | Medium |  | [Python](./Medium/2598_smallest-missing-non-negative-integer-after-operations/smallest-missing-non-negative-integer-after-operations.py) |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | Easy |  | [Python](./Easy/2600_k-items-with-the-maximum-sum/k-items-with-the-maximum-sum.py) |
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium |  | [Python](./Medium/2601_prime-subtraction-operation/prime-subtraction-operation.py) |
