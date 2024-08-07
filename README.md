@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-845/3246-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-846/3246-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/817-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-569/1703-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-570/1703-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-142/726-red.svg" alt="">
 </p>
 
@@ -217,6 +217,7 @@
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | [Python](./Medium/0739_daily-temperatures/daily-temperatures.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
 | 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | $ | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
+| 0751 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | Medium | $ | [Python](./Medium/0751_ip-to-cidr/ip-to-cidr.py) |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium |  | [Python](./Medium/0752_open-the-lock/open-the-lock.py) |
 | 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | Medium |  | [Python](./Medium/0754_reach-a-number/reach-a-number.py) |
 | 0755 | [Pour Water](https://leetcode.com/problems/pour-water/) | Medium | $ | [Python](./Medium/0755_pour-water/pour-water.py) |
