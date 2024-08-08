@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-846/3246-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-847/3247-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/817-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-570/1703-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-142/726-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-570/1704-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-143/726-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -334,6 +334,7 @@
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | Medium |  | [Python](./Medium/1053_previous-permutation-with-one-swap/previous-permutation-with-one-swap.py) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |  | [Python](./Medium/1054_distant-barcodes/distant-barcodes.py) |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | Medium | $ | [Python](./Medium/1066_campus-bikes-ii/campus-bikes-ii.py) |
+| 1067 | [Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/) | Hard | $ | [Python](./Hard/1067_digit-count-in-range/digit-count-in-range.py) |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Medium |  | [Python](./Medium/1072_flip-columns-for-maximum-number-of-equal-rows/flip-columns-for-maximum-number-of-equal-rows.py) |
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | Medium |  | [Python](./Medium/1073_adding-two-negabinary-numbers/adding-two-negabinary-numbers.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium |  | [Python](./Medium/1079_letter-tile-possibilities/letter-tile-possibilities.py) |
