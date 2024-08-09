@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-847/3247-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-848/3247-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/817-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-570/1704-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-143/726-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-144/726-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -435,6 +435,7 @@
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |  | [Python](./Medium/1401_circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard |  | [Python](./Hard/1402_reducing-dishes/reducing-dishes.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium |  | [Python](./Medium/1405_longest-happy-string/longest-happy-string.py) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard |  | [Python](./Hard/1406_stone-game-iii/stone-game-iii.py) |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard |  | [Python](./Hard/1411_number-of-ways-to-paint-n-3-grid/number-of-ways-to-paint-n-3-grid.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard |  | [Python](./Hard/1416_restore-the-array/restore-the-array.py) |
