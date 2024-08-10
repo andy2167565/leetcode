@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-848/3247-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-849/3247-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/817-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-570/1704-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-571/1704-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-144/726-red.svg" alt="">
 </p>
 
@@ -494,6 +494,7 @@
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | Medium |  | [Python](./Medium/1620_coordinate-with-maximum-network-quality/coordinate-with-maximum-network-quality.py) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |  | [Python](./Medium/1621_number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | Medium |  | [Python](./Medium/1625_lexicographically-smallest-string-after-applying-operations/lexicographically-smallest-string-after-applying-operations.py) |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | Medium |  | [Python](./Medium/1626_best-team-with-no-conflicts/best-team-with-no-conflicts.py) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium |  | [Python](./Medium/1631_path-with-minimum-effort/path-with-minimum-effort.py) |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | Medium |  | [Python](./Medium/1638_count-substrings-that-differ-by-one-character/count-substrings-that-differ-by-one-character.py) |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |  | [Python](./Medium/1641_count-sorted-vowel-strings/count-sorted-vowel-strings.py) |
