@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-851/3252-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-852/3252-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/818-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-571/1706-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-572/1706-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-146/728-red.svg" alt="">
 </p>
 
@@ -836,6 +836,7 @@
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | Medium |  | [Python](./Medium/2762_continuous-subarrays/continuous-subarrays.py) |
 | 2767 | [Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | Medium |  | [Python](./Medium/2767_partition-string-into-minimum-beautiful-substrings/partition-string-into-minimum-beautiful-substrings.py) |
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium |  | [Python](./Medium/2771_longest-non-decreasing-subarray-from-two-arrays/longest-non-decreasing-subarray-from-two-arrays.py) |
+| 2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | Medium |  | [Python](./Medium/2772_apply-operations-to-make-all-array-elements-equal-to-zero/apply-operations-to-make-all-array-elements-equal-to-zero.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
 | 2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | Medium |  | [Python](./Medium/2800_shortest-string-that-contains-three-strings/shortest-string-that-contains-three-strings.py) |
