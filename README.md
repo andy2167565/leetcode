@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-853/3252-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-854/3253-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/818-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-572/1706-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-573/1707-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-147/728-red.svg" alt="">
 </p>
 
@@ -850,6 +850,7 @@
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard |  | [Python](./Hard/2872_maximum-number-of-k-divisible-components/maximum-number-of-k-divisible-components.py) |
 | 2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | Medium |  | [Python](./Medium/2875_minimum-size-subarray-in-infinite-array/minimum-size-subarray-in-infinite-array.py) |
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium |  | [Python](./Medium/2901_longest-unequal-adjacent-groups-subsequence-ii/longest-unequal-adjacent-groups-subsequence-ii.py) |
+| 2919 | [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | Medium |  | [Python](./Medium/2919_minimum-increment-operations-to-make-array-beautiful/minimum-increment-operations-to-make-array-beautiful.py) |
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/) | Hard |  | [Python](./Hard/2963_count-the-number-of-good-partitions/count-the-number-of-good-partitions.py) |
