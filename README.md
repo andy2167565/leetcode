@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-854/3253-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-855/3253-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/818-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-573/1707-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-147/728-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-148/728-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -443,6 +443,7 @@
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard |  | [Python](./Hard/1416_restore-the-array/restore-the-array.py) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |  | [Python](./Medium/1424_diagonal-traverse-ii/diagonal-traverse-ii.py) |
+| 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard |  | [Python](./Hard/1425_constrained-subsequence-sum/constrained-subsequence-sum.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium |  | [Python](./Medium/1443_minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium |  | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
