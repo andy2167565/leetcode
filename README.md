@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-855/3253-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-856/3253-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/818-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-573/1707-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-148/728-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-149/728-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -657,6 +657,7 @@
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Hard |  | [Python](./Hard/2251_number-of-flowers-in-full-bloom/number-of-flowers-in-full-bloom.py) |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium |  | [Python](./Medium/2257_count-unguarded-cells-in-the-grid/count-unguarded-cells-in-the-grid.py) |
 | 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | Medium |  | [Python](./Medium/2261_k-divisible-elements-subarrays/k-divisible-elements-subarrays.py) |
+| 2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) | Hard |  | [Python](./Hard/2262_total-appeal-of-a-string/total-appeal-of-a-string.py) |
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | Medium |  | [Python](./Medium/2266_count-number-of-texts/count-number-of-texts.py) |
 | 2271 | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | Medium |  | [Python](./Medium/2271_maximum-white-tiles-covered-by-a-carpet/maximum-white-tiles-covered-by-a-carpet.py) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
