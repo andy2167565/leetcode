@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-856/3253-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-857/3257-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/818-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-573/1707-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-149/728-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-573/1709-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-150/730-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -628,6 +628,7 @@
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | Medium |  | [Python](./Medium/2121_intervals-between-identical-elements/intervals-between-identical-elements.py) |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium |  | [Python](./Medium/2134_minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.py) |
 | 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | Medium |  | [Python](./Medium/2135_count-words-obtained-after-adding-a-letter/count-words-obtained-after-adding-a-letter.py) |
+| 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard |  | [Python](./Hard/2136_earliest-possible-day-of-full-bloom/earliest-possible-day-of-full-bloom.py) |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium |  | [Python](./Medium/2140_solving-questions-with-brainpower/solving-questions-with-brainpower.py) |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | Medium |  | [Python](./Medium/2146_k-highest-ranked-items-within-a-price-range/k-highest-ranked-items-within-a-price-range.py) |
