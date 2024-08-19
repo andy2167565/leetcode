@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-857/3257-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/818-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-573/1709-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-150/730-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-858/3261-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/819-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-573/1710-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-151/732-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -250,6 +250,7 @@
 | 0825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | Medium |  | [Python](./Medium/0825_friends-of-appropriate-ages/friends-of-appropriate-ages.py) |
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium |  | [Python](./Medium/0826_most-profit-assigning-work/most-profit-assigning-work.py) |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | Hard |  | [Python](./Hard/0827_making-a-large-island/making-a-large-island.py) |
+| 0828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |  | [Python](./Hard/0828_count-unique-characters-of-all-substrings-of-a-given-string/count-unique-characters-of-all-substrings-of-a-given-string.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
 | 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium |  | [Python](./Medium/0835_image-overlap/image-overlap.py) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
