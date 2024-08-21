@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-859/3261-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-860/3262-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-134/819-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-574/1710-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-151/732-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-574/1711-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/732-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -419,6 +419,7 @@
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |  | [Python](./Hard/1326_minimum-number-of-taps-to-open-to-water-a-garden/minimum-number-of-taps-to-open-to-water-a-garden.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |  | [Python](./Medium/1334_find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
+| 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Hard |  | [Python](./Hard/1335_minimum-difficulty-of-a-job-schedule/minimum-difficulty-of-a-job-schedule.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium |  | [Python](./Medium/1339_maximum-product-of-splitted-binary-tree/maximum-product-of-splitted-binary-tree.py) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |  | [Python](./Hard/1340_jump-game-v/jump-game-v.py) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
