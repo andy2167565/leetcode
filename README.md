@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-860/3262-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-134/819-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-574/1711-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-861/3263-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-134/820-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-575/1711-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/732-red.svg" alt="">
 </p>
 
@@ -357,6 +357,7 @@
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | $ | [Python](./Medium/1135_connecting-cities-with-minimum-cost/connecting-cities-with-minimum-cost.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | Medium |  | [Python](./Medium/1139_largest-1-bordered-square/largest-1-bordered-square.py) |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium |  | [Python](./Medium/1140_stone-game-ii/stone-game-ii.py) |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | Medium |  | [Python](./Medium/1145_binary-tree-coloring-game/binary-tree-coloring-game.py) |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Medium |  | [Python](./Medium/1146_snapshot-array/snapshot-array.py) |
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | Hard |  | [Python](./Hard/1147_longest-chunked-palindrome-decomposition/longest-chunked-palindrome-decomposition.py) |
