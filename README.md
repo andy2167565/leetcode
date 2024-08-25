@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-863/3263-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-135/820-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-864/3263-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-136/820-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1711-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/732-red.svg" alt="">
 </p>
@@ -867,6 +867,7 @@
 | 3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | Medium |  | [Python](./Medium/3002_maximum-size-of-a-set-after-removals/maximum-size-of-a-set-after-removals.py) |
 | 3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | Hard |  | [Python](./Hard/3008_find-beautiful-indices-in-the-given-array-ii/find-beautiful-indices-in-the-given-array-ii.py) |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard |  | [Python](./Hard/3027_find-the-number-of-ways-to-place-people-ii/find-the-number-of-ways-to-place-people-ii.py) |
+| 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | Easy |  | [Python](./Easy/3028_ant-on-the-boundary/ant-on-the-boundary.py) |
 | 3030 | [Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | Medium |  | [Python](./Medium/3030_find-the-grid-of-region-average/find-the-grid-of-region-average.py) |
 | 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
