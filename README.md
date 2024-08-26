@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-864/3263-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-136/820-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1711-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/732-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-865/3267-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-137/821-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1712-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/734-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -439,6 +439,7 @@
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |  | [Python](./Medium/1391_check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid.py) |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | Hard |  | [Python](./Hard/1392_longest-happy-prefix/longest-happy-prefix.py) |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy |  | [Python](./Easy/1394_find-lucky-integer-in-an-array/find-lucky-integer-in-an-array.py) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |  | [Python](./Medium/1401_circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard |  | [Python](./Hard/1402_reducing-dishes/reducing-dishes.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium |  | [Python](./Medium/1405_longest-happy-string/longest-happy-string.py) |
