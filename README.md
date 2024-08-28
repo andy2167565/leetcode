@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-866/3267-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-138/821-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-867/3268-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-139/821-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1712-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/734-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/735-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -457,6 +457,7 @@
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard |  | [Python](./Hard/1458_max-dot-product-of-two-subsequences/max-dot-product-of-two-subsequences.py) |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium |  | [Python](./Medium/1462_course-schedule-iv/course-schedule-iv.py) |
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard |  | [Python](./Hard/1463_cherry-pickup-ii/cherry-pickup-ii.py) |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy |  | [Python](./Easy/1464_maximum-product-of-two-elements-in-an-array/maximum-product-of-two-elements-in-an-array.py) |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |  | [Python](./Medium/1466_reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |  | [Python](./Hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy |  | [Python](./Easy/1470_shuffle-the-array/shuffle-the-array.py) |
