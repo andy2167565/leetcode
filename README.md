@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-868/3269-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-140/821-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-869/3269-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-141/821-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1712-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/736-red.svg" alt="">
 </p>
@@ -454,6 +454,7 @@
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium |  | [Python](./Medium/1443_minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium |  | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
 | 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard |  | [Python](./Hard/1449_form-largest-integer-with-digits-that-add-up-to-target/form-largest-integer-with-digits-that-add-up-to-target.py) |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Easy |  | [Python](./Easy/1450_number-of-students-doing-homework-at-a-given-time/number-of-students-doing-homework-at-a-given-time.py) |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |  | [Python](./Easy/1455_check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard |  | [Python](./Hard/1458_max-dot-product-of-two-subsequences/max-dot-product-of-two-subsequences.py) |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium |  | [Python](./Medium/1462_course-schedule-iv/course-schedule-iv.py) |
