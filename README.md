@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-871/3273-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-143/822-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1713-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/738-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-872/3278-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-144/823-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1715-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/740-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -425,6 +425,7 @@
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |  | [Python](./Hard/1340_jump-game-v/jump-game-v.py) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | Medium |  | [Python](./Medium/1348_tweet-counts-per-frequency/tweet-counts-per-frequency.py) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy |  | [Python](./Easy/1351_count-negative-numbers-in-a-sorted-matrix/count-negative-numbers-in-a-sorted-matrix.py) |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | Medium |  | [Python](./Medium/1353_maximum-number-of-events-that-can-be-attended/maximum-number-of-events-that-can-be-attended.py) |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | Hard |  | [Python](./Hard/1354_construct-target-array-with-multiple-sums/construct-target-array-with-multiple-sums.py) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |  | [Python](./Medium/1358_number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) |
