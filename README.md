@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-872/3278-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-144/823-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-873/3278-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-145/823-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1715-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/740-red.svg" alt="">
 </p>
@@ -881,3 +881,4 @@
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy |  | [Python](./Easy/3099_harshad-number/harshad-number.py) |
 | 3138 | [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | Medium |  | [Python](./Medium/3138_minimum-length-of-anagram-concatenation/minimum-length-of-anagram-concatenation.py) |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
