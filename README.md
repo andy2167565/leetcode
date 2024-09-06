@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-875/3279-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-147/823-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-876/3279-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-148/823-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1715-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/741-red.svg" alt="">
 </p>
@@ -403,6 +403,7 @@
 | 1274 | [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) | Hard | $ | [Python](./Hard/1274_number-of-ships-in-a-rectangle/number-of-ships-in-a-rectangle.py) |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium |  | [Python](./Medium/1277_count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.py) |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | Hard |  | [Python](./Hard/1278_palindrome-partitioning-iii/palindrome-partitioning-iii.py) |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |  | [Python](./Easy/1281_subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.py) |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |  | [Python](./Hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
