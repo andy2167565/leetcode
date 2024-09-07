@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-876/3279-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-148/823-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-877/3279-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-149/823-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1715-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/741-red.svg" alt="">
 </p>
@@ -857,6 +857,7 @@
 | 2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | Medium |  | [Python](./Medium/2772_apply-operations-to-make-all-array-elements-equal-to-zero/apply-operations-to-make-all-array-elements-equal-to-zero.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | Easy |  | [Python](./Easy/2798_number-of-employees-who-met-the-target/number-of-employees-who-met-the-target.py) |
 | 2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | Medium |  | [Python](./Medium/2800_shortest-string-that-contains-three-strings/shortest-string-that-contains-three-strings.py) |
 | 2808 | [Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | Medium |  | [Python](./Medium/2808_minimum-seconds-to-equalize-a-circular-array/minimum-seconds-to-equalize-a-circular-array.py) |
 | 2817 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | Medium |  | [Python](./Medium/2817_minimum-absolute-difference-between-elements-with-constraint/minimum-absolute-difference-between-elements-with-constraint.py) |
