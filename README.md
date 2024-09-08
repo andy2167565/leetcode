@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-877/3279-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-149/823-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1715-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/741-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-878/3283-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-150/824-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1717-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/742-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -356,6 +356,7 @@
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | Medium |  | [Python](./Medium/1130_minimum-cost-tree-from-leaf-values/minimum-cost-tree-from-leaf-values.py) |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | $ | [Python](./Medium/1135_connecting-cities-with-minimum-cost/connecting-cities-with-minimum-cost.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy |  | [Python](./Easy/1137_n-th-tribonacci-number/n-th-tribonacci-number.py) |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | Medium |  | [Python](./Medium/1139_largest-1-bordered-square/largest-1-bordered-square.py) |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium |  | [Python](./Medium/1140_stone-game-ii/stone-game-ii.py) |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | Medium |  | [Python](./Medium/1145_binary-tree-coloring-game/binary-tree-coloring-game.py) |
