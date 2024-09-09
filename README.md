@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-878/3283-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-150/824-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-879/3283-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-151/824-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1717-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/742-red.svg" alt="">
 </p>
@@ -592,6 +592,7 @@
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium |  | [Python](./Medium/1904_the-number-of-full-rounds-you-have-played/the-number-of-full-rounds-you-have-played.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium |  | [Python](./Medium/1905_count-sub-islands/count-sub-islands.py) |
 | 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | Medium |  | [Python](./Medium/1911_maximum-alternating-subsequence-sum/maximum-alternating-subsequence-sum.py) |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy |  | [Python](./Easy/1913_maximum-product-difference-between-two-pairs/maximum-product-difference-between-two-pairs.py) |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium |  | [Python](./Medium/1914_cyclically-rotating-a-grid/cyclically-rotating-a-grid.py) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium |  | [Python](./Medium/1922_count-good-numbers/count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium |  | [Python](./Medium/1926_nearest-exit-from-entrance-in-maze/nearest-exit-from-entrance-in-maze.py) |
