@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-879/3283-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-151/824-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-880/3283-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-152/824-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1717-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/742-red.svg" alt="">
 </p>
@@ -715,6 +715,7 @@
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium |  | [Python](./Medium/2401_longest-nice-subarray/longest-nice-subarray.py) |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium |  | [Python](./Medium/2406_divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.py) |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | Medium |  | [Python](./Medium/2411_smallest-subarrays-with-maximum-bitwise-or/smallest-subarrays-with-maximum-bitwise-or.py) |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy |  | [Python](./Easy/2413_smallest-even-multiple/smallest-even-multiple.py) |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard |  | [Python](./Hard/2416_sum-of-prefix-scores-of-strings/sum-of-prefix-scores-of-strings.py) |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | Medium |  | [Python](./Medium/2420_find-all-good-indices/find-all-good-indices.py) |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | Easy |  | [Python](./Easy/2423_remove-letter-to-equalize-frequency/remove-letter-to-equalize-frequency.py) |
