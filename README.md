@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-880/3283-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-152/824-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-881/3283-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-153/824-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1717-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/742-red.svg" alt="">
 </p>
@@ -849,6 +849,7 @@
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | Easy |  | [Python](./Easy/2729_check-if-the-number-is-fascinating/check-if-the-number-is-fascinating.py) |
 | 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | Medium |  | [Python](./Medium/2730_find-the-longest-semi-repetitive-substring/find-the-longest-semi-repetitive-substring.py) |
 | 2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/) | Medium |  | [Python](./Medium/2731_movement-of-robots/movement-of-robots.py) |
+| 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | Easy |  | [Python](./Easy/2733_neither-minimum-nor-maximum/neither-minimum-nor-maximum.py) |
 | 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | Easy |  | [Python](./Easy/2739_total-distance-traveled/total-distance-traveled.py) |
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | Medium |  | [Python](./Medium/2740_find-the-value-of-the-partition/find-the-value-of-the-partition.py) |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | Medium |  | [Python](./Medium/2741_special-permutations/special-permutations.py) |
