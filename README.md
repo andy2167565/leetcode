@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-883/3284-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-155/824-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-884/3284-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-156/824-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1718-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/742-red.svg" alt="">
 </p>
@@ -734,6 +734,7 @@
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium |  | [Python](./Medium/2452_words-within-two-edits-of-dictionary/words-within-two-edits-of-dictionary.py) |
 | 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | Medium |  | [Python](./Medium/2453_destroy-sequential-targets/destroy-sequential-targets.py) |
 | 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | Hard |  | [Python](./Hard/2454_next-greater-element-iv/next-greater-element-iv.py) |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |  | [Python](./Easy/2455_average-value-of-even-numbers-that-are-divisible-by-three/average-value-of-even-numbers-that-are-divisible-by-three.py) |
 | 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | Medium |  | [Python](./Medium/2457_minimum-addition-to-make-integer-beautiful/minimum-addition-to-make-integer-beautiful.py) |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy |  | [Python](./Easy/2460_apply-operations-to-an-array/apply-operations-to-an-array.py) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |  | [Python](./Medium/2461_maximum-sum-of-distinct-subarrays-with-length-k/maximum-sum-of-distinct-subarrays-with-length-k.py) |
