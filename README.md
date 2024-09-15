@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-884/3284-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-156/824-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1718-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/742-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-885/3288-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-157/825-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1719-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/744-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -407,6 +407,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |  | [Python](./Easy/1281_subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.py) |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |  | [Python](./Hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy |  | [Python](./Easy/1290_convert-binary-number-in-a-linked-list-to-integer/convert-binary-number-in-a-linked-list-to-integer.py) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |  | [Python](./Hard/1293_shortest-path-in-a-grid-with-obstacles-elimination/shortest-path-in-a-grid-with-obstacles-elimination.py) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy |  | [Python](./Easy/1295_find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.py) |
