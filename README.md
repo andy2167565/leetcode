@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-886/3292-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-158/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-887/3292-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-159/826-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1721-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/745-red.svg" alt="">
 </p>
@@ -862,6 +862,7 @@
 | 2767 | [Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | Medium |  | [Python](./Medium/2767_partition-string-into-minimum-beautiful-substrings/partition-string-into-minimum-beautiful-substrings.py) |
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | Medium |  | [Python](./Medium/2771_longest-non-decreasing-subarray-from-two-arrays/longest-non-decreasing-subarray-from-two-arrays.py) |
 | 2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | Medium |  | [Python](./Medium/2772_apply-operations-to-make-all-array-elements-equal-to-zero/apply-operations-to-make-all-array-elements-equal-to-zero.py) |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy |  | [Python](./Easy/2778_sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.py) |
 | 2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | Medium |  | [Python](./Medium/2786_visit-array-positions-to-maximize-score/visit-array-positions-to-maximize-score.py) |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | Medium |  | [Python](./Medium/2787_ways-to-express-an-integer-as-sum-of-powers/ways-to-express-an-integer-as-sum-of-powers.py) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | Easy |  | [Python](./Easy/2798_number-of-employees-who-met-the-target/number-of-employees-who-met-the-target.py) |
