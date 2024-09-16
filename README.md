@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-885/3288-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-157/825-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1719-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/744-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-886/3292-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-158/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1721-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/745-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -462,6 +462,7 @@
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Easy |  | [Python](./Easy/1450_number-of-students-doing-homework-at-a-given-time/number-of-students-doing-homework-at-a-given-time.py) |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |  | [Python](./Easy/1455_check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard |  | [Python](./Hard/1458_max-dot-product-of-two-subsequences/max-dot-product-of-two-subsequences.py) |
+| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Easy |  | [Python](./Easy/1460_make-two-arrays-equal-by-reversing-subarrays/make-two-arrays-equal-by-reversing-subarrays.py) |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium |  | [Python](./Medium/1462_course-schedule-iv/course-schedule-iv.py) |
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard |  | [Python](./Hard/1463_cherry-pickup-ii/cherry-pickup-ii.py) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy |  | [Python](./Easy/1464_maximum-product-of-two-elements-in-an-array/maximum-product-of-two-elements-in-an-array.py) |
