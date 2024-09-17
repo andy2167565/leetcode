@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-887/3292-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-159/826-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1721-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-888/3293-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-160/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1722-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/745-red.svg" alt="">
 </p>
 
@@ -869,6 +869,7 @@
 | 2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | Medium |  | [Python](./Medium/2800_shortest-string-that-contains-three-strings/shortest-string-that-contains-three-strings.py) |
 | 2808 | [Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | Medium |  | [Python](./Medium/2808_minimum-seconds-to-equalize-a-circular-array/minimum-seconds-to-equalize-a-circular-array.py) |
 | 2817 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | Medium |  | [Python](./Medium/2817_minimum-absolute-difference-between-elements-with-constraint/minimum-absolute-difference-between-elements-with-constraint.py) |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | Easy |  | [Python](./Easy/2828_check-if-a-string-is-an-acronym-of-words/check-if-a-string-is-an-acronym-of-words.py) |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | Medium |  | [Python](./Medium/2831_find-the-longest-equal-subarray/find-the-longest-equal-subarray.py) |
 | 2850 | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | Medium |  | [Python](./Medium/2850_minimum-moves-to-spread-stones-over-grid/minimum-moves-to-spread-stones-over-grid.py) |
