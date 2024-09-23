@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-889/3293-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-161/826-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1722-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/745-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-890/3298-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-162/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1726-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/746-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -638,6 +638,7 @@
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | Medium |  | [Python](./Medium/2080_range-frequency-queries/range-frequency-queries.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |  | [Python](./Medium/2087_minimum-cost-homecoming-of-a-robot-in-a-grid/minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy |  | [Python](./Easy/2089_find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.py) |
 | 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | Hard |  | [Python](./Hard/2092_find-all-people-with-secret/find-all-people-with-secret.py) |
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |  | [Python](./Medium/2096_step-by-step-directions-from-a-binary-tree-node-to-another/step-by-step-directions-from-a-binary-tree-node-to-another.py) |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | Medium |  | [Python](./Medium/2100_find-good-days-to-rob-the-bank/find-good-days-to-rob-the-bank.py) |
