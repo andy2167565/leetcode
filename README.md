@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-891/3298-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-163/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-892/3298-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-164/826-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1726-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/746-red.svg" alt="">
 </p>
@@ -898,5 +898,6 @@
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy |  | [Python](./Easy/3099_harshad-number/harshad-number.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy |  | [Python](./Easy/3110_score-of-a-string/score-of-a-string.py) |
 | 3138 | [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | Medium |  | [Python](./Medium/3138_minimum-length-of-anagram-concatenation/minimum-length-of-anagram-concatenation.py) |
+| 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | Easy |  | [Python](./Easy/3146_permutation-difference-between-two-strings/permutation-difference-between-two-strings.py) |
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy |  | [Python](./Easy/3184_count-pairs-that-form-a-complete-day-i/count-pairs-that-form-a-complete-day-i.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
