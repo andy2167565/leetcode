@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-893/3299-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-165/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-894/3299-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-166/826-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1726-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/747-red.svg" alt="">
 </p>
@@ -746,6 +746,7 @@
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard |  | [Python](./Hard/2463_minimum-total-distance-traveled/minimum-total-distance-traveled.py) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | Easy |  | [Python](./Easy/2465_number-of-distinct-averages/number-of-distinct-averages.py) |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium |  | [Python](./Medium/2466_count-ways-to-build-good-strings/count-ways-to-build-good-strings.py) |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy |  | [Python](./Easy/2469_convert-the-temperature/convert-the-temperature.py) |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |  | [Python](./Medium/2471_minimum-number-of-operations-to-sort-a-binary-tree-by-level/minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |  | [Python](./Hard/2472_maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.py) |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | Easy |  | [Python](./Easy/2475_number-of-unequal-triplets-in-array/number-of-unequal-triplets-in-array.py) |
