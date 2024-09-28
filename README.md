@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-894/3299-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-166/826-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-895/3299-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-167/826-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1726-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/747-red.svg" alt="">
 </p>
@@ -701,6 +701,7 @@
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
 | 2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | Hard |  | [Python](./Hard/2350_shortest-impossible-sequence-of-rolls/shortest-impossible-sequence-of-rolls.py) |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | Easy |  | [Python](./Easy/2351_first-letter-to-appear-twice/first-letter-to-appear-twice.py) |
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium |  | [Python](./Medium/2353_design-a-food-rating-system/design-a-food-rating-system.py) |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium |  | [Python](./Medium/2359_find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py) |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard |  | [Python](./Hard/2360_longest-cycle-in-a-graph/longest-cycle-in-a-graph.py) |
