@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-895/3299-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-167/826-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1726-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/747-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-896/3307-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-168/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1730-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/749-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -882,6 +882,7 @@
 | 2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | Medium |  | [Python](./Medium/2875_minimum-size-subarray-in-infinite-array/minimum-size-subarray-in-infinite-array.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy |  | [Python](./Easy/2894_divisible-and-non-divisible-sums-difference/divisible-and-non-divisible-sums-difference.py) |
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium |  | [Python](./Medium/2901_longest-unequal-adjacent-groups-subsequence-ii/longest-unequal-adjacent-groups-subsequence-ii.py) |
+| 2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | Easy |  | [Python](./Easy/2903_find-indices-with-index-and-value-difference-i/find-indices-with-index-and-value-difference-i.py) |
 | 2919 | [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | Medium |  | [Python](./Medium/2919_minimum-increment-operations-to-make-array-beautiful/minimum-increment-operations-to-make-array-beautiful.py) |
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
