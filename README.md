@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-897/3308-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-169/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-898/3308-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-170/828-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1731-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/749-red.svg" alt="">
 </p>
@@ -901,6 +901,7 @@
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy |  | [Python](./Easy/3099_harshad-number/harshad-number.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy |  | [Python](./Easy/3110_score-of-a-string/score-of-a-string.py) |
+| 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | Easy |  | [Python](./Easy/3131_find-the-integer-added-to-array-i/find-the-integer-added-to-array-i.py) |
 | 3138 | [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | Medium |  | [Python](./Medium/3138_minimum-length-of-anagram-concatenation/minimum-length-of-anagram-concatenation.py) |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | Easy |  | [Python](./Easy/3146_permutation-difference-between-two-strings/permutation-difference-between-two-strings.py) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | Easy |  | [Python](./Easy/3151_special-array-i/special-array-i.py) |
