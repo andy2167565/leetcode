@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-899/3308-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-171/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-900/3308-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-172/828-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1731-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/749-red.svg" alt="">
 </p>
@@ -300,6 +300,7 @@
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium |  | [Python](./Medium/0950_reveal-cards-in-increasing-order/reveal-cards-in-increasing-order.py) |
 | 0955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | Medium |  | [Python](./Medium/0955_delete-columns-to-make-sorted-ii/delete-columns-to-make-sorted-ii.py) |
 | 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |  | [Python](./Medium/0958_check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py) |
+| 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy |  | [Python](./Easy/0961_n-repeated-element-in-size-2n-array/n-repeated-element-in-size-2n-array.py) |
 | 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium |  | [Python](./Medium/0962_maximum-width-ramp/maximum-width-ramp.py) |
 | 0963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | Medium |  | [Python](./Medium/0963_minimum-area-rectangle-ii/minimum-area-rectangle-ii.py) |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium |  | [Python](./Medium/0966_vowel-spellchecker/vowel-spellchecker.py) |
