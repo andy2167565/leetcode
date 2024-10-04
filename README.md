@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-900/3308-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-172/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-901/3308-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-173/828-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1731-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/749-red.svg" alt="">
 </p>
@@ -685,6 +685,7 @@
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | Medium |  | [Python](./Medium/2266_count-number-of-texts/count-number-of-texts.py) |
 | 2271 | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | Medium |  | [Python](./Medium/2271_maximum-white-tiles-covered-by-a-carpet/maximum-white-tiles-covered-by-a-carpet.py) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy |  | [Python](./Easy/2278_percentage-of-letter-in-string/percentage-of-letter-in-string.py) |
 | 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | Medium |  | [Python](./Medium/2280_minimum-lines-to-represent-a-line-chart/minimum-lines-to-represent-a-line-chart.py) |
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | Hard |  | [Python](./Hard/2296_design-a-text-editor/design-a-text-editor.py) |
 | 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | Hard |  | [Python](./Hard/2301_match-substring-after-replacement/match-substring-after-replacement.py) |
