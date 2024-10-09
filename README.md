@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-905/3312-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-177/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-906/3313-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-178/828-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1733-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/751-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/752-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -442,6 +442,7 @@
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |  | [Python](./Medium/1367_linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium |  | [Python](./Medium/1372_longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py) |
 | 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | Hard |  | [Python](./Hard/1373_maximum-sum-bst-in-binary-tree/maximum-sum-bst-in-binary-tree.py) |
+| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | Easy |  | [Python](./Easy/1374_generate-a-string-with-characters-that-have-odd-counts/generate-a-string-with-characters-that-have-odd-counts.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | Hard |  | [Python](./Hard/1377_frog-position-after-t-seconds/frog-position-after-t-seconds.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
