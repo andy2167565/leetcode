@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-906/3313-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-178/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-907/3313-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-179/828-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1733-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/752-red.svg" alt="">
 </p>
@@ -855,6 +855,7 @@
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy |  | [Python](./Easy/2706_buy-two-chocolates/buy-two-chocolates.py) |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium |  | [Python](./Medium/2707_extra-characters-in-a-string/extra-characters-in-a-string.py) |
 | 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | Medium |  | [Python](./Medium/2708_maximum-strength-of-a-group/maximum-strength-of-a-group.py) |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | Easy |  | [Python](./Easy/2710_remove-trailing-zeros-from-a-string/remove-trailing-zeros-from-a-string.py) |
 | 2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | Medium |  | [Python](./Medium/2712_minimum-cost-to-make-all-characters-equal/minimum-cost-to-make-all-characters-equal.py) |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | Easy |  | [Python](./Easy/2716_minimize-string-length/minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | Easy |  | [Python](./Easy/2717_semi-ordered-permutation/semi-ordered-permutation.py) |
