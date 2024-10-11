@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-907/3313-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-179/828-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-908/3313-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-180/828-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1733-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/752-red.svg" alt="">
 </p>
@@ -227,6 +227,7 @@
 | 0765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard |  | [Python](./Hard/0765_couples-holding-hands/couples-holding-hands.py) |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |  | [Python](./Medium/0767_reorganize-string/reorganize-string.py) |
 | 0768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | Hard |  | [Python](./Hard/0768_max-chunks-to-make-sorted-ii/max-chunks-to-make-sorted-ii.py) |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy |  | [Python](./Easy/0771_jewels-and-stones/jewels-and-stones.py) |
 | 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard |  | [Python](./Hard/0773_sliding-puzzle/sliding-puzzle.py) |
 | 0776 | [Split BST](https://leetcode.com/problems/split-bst/) | Medium | $ | [Python](./Medium/0776_split-bst/split-bst.py) |
 | 0777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | Medium |  | [Python](./Medium/0777_swap-adjacent-in-lr-string/swap-adjacent-in-lr-string.py) |
