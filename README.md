@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-908/3313-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-180/828-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1733-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/752-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-909/3322-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-181/830-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1737-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/755-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -623,6 +623,7 @@
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium |  | [Python](./Medium/1996_the-number-of-weak-characters-in-the-game/the-number-of-weak-characters-in-the-game.py) |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |  | [Python](./Medium/2002_maximum-product-of-the-length-of-two-palindromic-subsequences/maximum-product-of-the-length-of-two-palindromic-subsequences.py) |
 | 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | Medium |  | [Python](./Medium/2008_maximum-earnings-from-taxi/maximum-earnings-from-taxi.py) |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy |  | [Python](./Easy/2011_final-value-of-variable-after-performing-operations/final-value-of-variable-after-performing-operations.py) |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | Medium |  | [Python](./Medium/2013_detect-squares/detect-squares.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
 | 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | Medium |  | [Python](./Medium/2018_check-if-word-can-be-placed-in-crossword/check-if-word-can-be-placed-in-crossword.py) |
