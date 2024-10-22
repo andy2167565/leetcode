@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-916/3328-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-188/830-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-917/3328-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-189/830-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1742-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/756-red.svg" alt="">
 </p>
@@ -418,6 +418,7 @@
 | 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard |  | [Python](./Hard/1298_maximum-candies-you-can-get-from-boxes/maximum-candies-you-can-get-from-boxes.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard |  | [Python](./Hard/1301_number-of-paths-with-max-score/number-of-paths-with-max-score.py) |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | Easy |  | [Python](./Easy/1304_find-n-unique-integers-sum-up-to-zero/find-n-unique-integers-sum-up-to-zero.py) |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | Medium |  | [Python](./Medium/1311_get-watched-videos-by-your-friends/get-watched-videos-by-your-friends.py) |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |  | [Python](./Hard/1312_minimum-insertion-steps-to-make-a-string-palindrome/minimum-insertion-steps-to-make-a-string-palindrome.py) |
 | 1316 | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/) | Hard |  | [Python](./Hard/1316_distinct-echo-substrings/distinct-echo-substrings.py) |
