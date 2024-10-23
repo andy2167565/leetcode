@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-917/3328-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-189/830-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-918/3329-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-190/830-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1742-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/756-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/757-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -745,6 +745,7 @@
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |  | [Python](./Hard/2435_paths-in-matrix-whose-sum-is-divisible-by-k/paths-in-matrix-whose-sum-is-divisible-by-k.py) |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium |  | [Python](./Medium/2438_range-product-queries-of-powers/range-product-queries-of-powers.py) |
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium |  | [Python](./Medium/2439_minimize-maximum-of-array/minimize-maximum-of-array.py) |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy |  | [Python](./Easy/2441_largest-positive-integer-that-exists-with-its-negative/largest-positive-integer-that-exists-with-its-negative.py) |
 | 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Easy |  | [Python](./Easy/2446_determine-if-two-events-have-conflict/determine-if-two-events-have-conflict.py) |
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | Medium |  | [Python](./Medium/2447_number-of-subarrays-with-gcd-equal-to-k/number-of-subarrays-with-gcd-equal-to-k.py) |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | Hard |  | [Python](./Hard/2448_minimum-cost-to-make-array-equal/minimum-cost-to-make-array-equal.py) |
