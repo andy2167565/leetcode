@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-918/3329-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-190/830-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-919/3329-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-191/830-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1742-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/757-red.svg" alt="">
 </p>
@@ -640,6 +640,7 @@
 | 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | Medium |  | [Python](./Medium/2049_count-nodes-with-the-highest-score/count-nodes-with-the-highest-score.py) |
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium |  | [Python](./Medium/2054_two-best-non-overlapping-events/two-best-non-overlapping-events.py) |
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | Medium |  | [Python](./Medium/2055_plates-between-candles/plates-between-candles.py) |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy |  | [Python](./Easy/2057_smallest-index-with-equal-value/smallest-index-with-equal-value.py) |
 | 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | Medium |  | [Python](./Medium/2059_minimum-operations-to-convert-number/minimum-operations-to-convert-number.py) |
 | 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | Medium |  | [Python](./Medium/2063_vowels-of-all-substrings/vowels-of-all-substrings.py) |
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Medium |  | [Python](./Medium/2064_minimized-maximum-of-products-distributed-to-any-store/minimized-maximum-of-products-distributed-to-any-store.py) |
