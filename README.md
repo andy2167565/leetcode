@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-919/3329-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-191/830-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-920/3329-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-192/830-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1742-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/757-red.svg" alt="">
 </p>
@@ -922,6 +922,7 @@
 | 3138 | [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | Medium |  | [Python](./Medium/3138_minimum-length-of-anagram-concatenation/minimum-length-of-anagram-concatenation.py) |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | Easy |  | [Python](./Easy/3146_permutation-difference-between-two-strings/permutation-difference-between-two-strings.py) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | Easy |  | [Python](./Easy/3151_special-array-i/special-array-i.py) |
+| 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | Easy |  | [Python](./Easy/3162_find-the-number-of-good-pairs-i/find-the-number-of-good-pairs-i.py) |
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy |  | [Python](./Easy/3184_count-pairs-that-form-a-complete-day-i/count-pairs-that-form-a-complete-day-i.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy |  | [Python](./Easy/3232_find-if-digit-game-can-be-won/find-if-digit-game-can-be-won.py) |
