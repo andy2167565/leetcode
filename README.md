@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-920/3329-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-192/830-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-921/3329-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-193/830-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1742-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/757-red.svg" alt="">
 </p>
@@ -904,6 +904,7 @@
 | 2919 | [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | Medium |  | [Python](./Medium/2919_minimum-increment-operations-to-make-array-beautiful/minimum-increment-operations-to-make-array-beautiful.py) |
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
+| 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | Easy |  | [Python](./Easy/2960_count-tested-devices-after-test-operations/count-tested-devices-after-test-operations.py) |
 | 2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/) | Hard |  | [Python](./Hard/2963_count-the-number-of-good-partitions/count-the-number-of-good-partitions.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
