@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-921/3329-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-193/830-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1742-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/757-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-922/3333-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-194/831-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1744-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/758-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -927,6 +927,7 @@
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy |  | [Python](./Easy/3184_count-pairs-that-form-a-complete-day-i/count-pairs-that-form-a-complete-day-i.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy |  | [Python](./Easy/3232_find-if-digit-game-can-be-won/find-if-digit-game-can-be-won.py) |
+| 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | Easy |  | [Python](./Easy/3248_snake-in-matrix/snake-in-matrix.py) |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | Easy |  | [Python](./Easy/3274_check-if-two-chessboard-squares-have-the-same-color/check-if-two-chessboard-squares-have-the-same-color.py) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | Easy |  | [Python](./Easy/3285_find-indices-of-stable-mountains/find-indices-of-stable-mountains.py) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy |  | [Python](./Easy/3289_the-two-sneaky-numbers-of-digitville/the-two-sneaky-numbers-of-digitville.py) |
