@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-923/3337-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-195/831-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1746-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-924/3338-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-196/831-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1747-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/760-red.svg" alt="">
 </p>
 
@@ -742,6 +742,7 @@
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | Medium |  | [Python](./Medium/2424_longest-uploaded-prefix/longest-uploaded-prefix.py) |
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | Medium |  | [Python](./Medium/2425_bitwise-xor-of-all-pairings/bitwise-xor-of-all-pairings.py) |
 | 2426 | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | Hard |  | [Python](./Hard/2426_number-of-pairs-satisfying-inequality/number-of-pairs-satisfying-inequality.py) |
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | Easy |  | [Python](./Easy/2427_number-of-common-factors/number-of-common-factors.py) |
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |  | [Python](./Medium/2434_using-a-robot-to-print-the-lexicographically-smallest-string/using-a-robot-to-print-the-lexicographically-smallest-string.py) |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |  | [Python](./Hard/2435_paths-in-matrix-whose-sum-is-divisible-by-k/paths-in-matrix-whose-sum-is-divisible-by-k.py) |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | Medium |  | [Python](./Medium/2438_range-product-queries-of-powers/range-product-queries-of-powers.py) |
