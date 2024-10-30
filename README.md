@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-924/3338-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-196/831-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-925/3338-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-197/831-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1747-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/760-red.svg" alt="">
 </p>
@@ -223,6 +223,7 @@
 | 0755 | [Pour Water](https://leetcode.com/problems/pour-water/) | Medium | $ | [Python](./Medium/0755_pour-water/pour-water.py) |
 | 0756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | Medium |  | [Python](./Medium/0756_pyramid-transition-matrix/pyramid-transition-matrix.py) |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | Hard | $ | [Python](./Hard/0759_employee-free-time/employee-free-time.py) |
+| 0760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | Easy | $ | [Python](./Easy/0760_find-anagram-mappings/find-anagram-mappings.py) |
 | 0764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | Medium |  | [Python](./Medium/0764_largest-plus-sign/largest-plus-sign.py) |
 | 0765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard |  | [Python](./Hard/0765_couples-holding-hands/couples-holding-hands.py) |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |  | [Python](./Medium/0767_reorganize-string/reorganize-string.py) |
