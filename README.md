@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-930/3343-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-202/832-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-931/3343-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-203/832-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1750-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/761-red.svg" alt="">
 </p>
@@ -916,6 +916,7 @@
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
 | 3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | Medium |  | [Python](./Medium/3002_maximum-size-of-a-set-after-removals/maximum-size-of-a-set-after-removals.py) |
 | 3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | Hard |  | [Python](./Hard/3008_find-beautiful-indices-in-the-given-array-ii/find-beautiful-indices-in-the-given-array-ii.py) |
+| 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | Easy |  | [Python](./Easy/3019_number-of-changing-keys/number-of-changing-keys.py) |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy |  | [Python](./Easy/3024_type-of-triangle/type-of-triangle.py) |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard |  | [Python](./Hard/3027_find-the-number-of-ways-to-place-people-ii/find-the-number-of-ways-to-place-people-ii.py) |
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | Easy |  | [Python](./Easy/3028_ant-on-the-boundary/ant-on-the-boundary.py) |
