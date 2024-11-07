@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-932/3343-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-204/832-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-933/3343-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-205/832-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1750-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/761-red.svg" alt="">
 </p>
@@ -938,6 +938,7 @@
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy |  | [Python](./Easy/3232_find-if-digit-game-can-be-won/find-if-digit-game-can-be-won.py) |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | Easy |  | [Python](./Easy/3248_snake-in-matrix/snake-in-matrix.py) |
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Easy |  | [Python](./Easy/3264_final-array-state-after-k-multiplication-operations-i/final-array-state-after-k-multiplication-operations-i.py) |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | Easy |  | [Python](./Easy/3274_check-if-two-chessboard-squares-have-the-same-color/check-if-two-chessboard-squares-have-the-same-color.py) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | Easy |  | [Python](./Easy/3285_find-indices-of-stable-mountains/find-indices-of-stable-mountains.py) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy |  | [Python](./Easy/3289_the-two-sneaky-numbers-of-digitville/the-two-sneaky-numbers-of-digitville.py) |
