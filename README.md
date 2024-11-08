@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-933/3343-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-205/832-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1750-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-934/3344-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-206/832-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1751-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/761-red.svg" alt="">
 </p>
 
@@ -307,6 +307,7 @@
 | 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy |  | [Python](./Easy/0961_n-repeated-element-in-size-2n-array/n-repeated-element-in-size-2n-array.py) |
 | 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium |  | [Python](./Medium/0962_maximum-width-ramp/maximum-width-ramp.py) |
 | 0963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | Medium |  | [Python](./Medium/0963_minimum-area-rectangle-ii/minimum-area-rectangle-ii.py) |
+| 0965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy |  | [Python](./Easy/0965_univalued-binary-tree/univalued-binary-tree.py) |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium |  | [Python](./Medium/0966_vowel-spellchecker/vowel-spellchecker.py) |
 | 0971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | Medium |  | [Python](./Medium/0971_flip-binary-tree-to-match-preorder-traversal/flip-binary-tree-to-match-preorder-traversal.py) |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | [Python](./Medium/0973_k-closest-points-to-origin/k-closest-points-to-origin.py) |
