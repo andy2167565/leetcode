@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-934/3344-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-206/832-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-935/3344-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-207/832-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-576/1751-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/761-red.svg" alt="">
 </p>
@@ -281,6 +281,7 @@
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |  | [Python](./Hard/0895_maximum-frequency-stack/maximum-frequency-stack.py) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium |  | [Python](./Medium/0901_online-stock-span/online-stock-span.py) |
 | 0902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | Hard |  | [Python](./Hard/0902_numbers-at-most-n-given-digit-set/numbers-at-most-n-given-digit-set.py) |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy |  | [Python](./Easy/0905_sort-array-by-parity/sort-array-by-parity.py) |
 | 0906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | Hard |  | [Python](./Hard/0906_super-palindromes/super-palindromes.py) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium |  | [Python](./Medium/0907_sum-of-subarray-minimums/sum-of-subarray-minimums.py) |
 | 0909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium |  | [Python](./Medium/0909_snakes-and-ladders/snakes-and-ladders.py) |
