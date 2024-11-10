@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-935/3344-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-207/832-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1751-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/761-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-936/3348-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-208/833-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-576/1752-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/763-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -414,6 +414,7 @@
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | Hard |  | [Python](./Hard/1278_palindrome-partitioning-iii/palindrome-partitioning-iii.py) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |  | [Python](./Easy/1281_subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.py) |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |  | [Python](./Hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Easy |  | [Python](./Easy/1287_element-appearing-more-than-25-in-sorted-array/element-appearing-more-than-25-in-sorted-array.py) |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | Hard |  | [Python](./Hard/1289_minimum-falling-path-sum-ii/minimum-falling-path-sum-ii.py) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy |  | [Python](./Easy/1290_convert-binary-number-in-a-linked-list-to-integer/convert-binary-number-in-a-linked-list-to-integer.py) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |  | [Python](./Medium/1292_maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
