@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-937/3352-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-938/3352-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-209/834-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-576/1753-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-577/1753-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/765-red.svg" alt="">
 </p>
 
@@ -470,6 +470,7 @@
 | 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard |  | [Python](./Hard/1425_constrained-subsequence-sum/constrained-subsequence-sum.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy |  | [Python](./Easy/1431_kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium |  | [Python](./Medium/1441_build-an-array-with-stack-operations/build-an-array-with-stack-operations.py) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium |  | [Python](./Medium/1443_minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py) |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy |  | [Python](./Easy/1446_consecutive-characters/consecutive-characters.py) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | Medium |  | [Python](./Medium/1447_simplified-fractions/simplified-fractions.py) |
