@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-938/3352-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-209/834-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-939/3352-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-210/834-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-577/1753-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/765-red.svg" alt="">
 </p>
@@ -926,6 +926,7 @@
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Hard |  | [Python](./Hard/3027_find-the-number-of-ways-to-place-people-ii/find-the-number-of-ways-to-place-people-ii.py) |
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | Easy |  | [Python](./Easy/3028_ant-on-the-boundary/ant-on-the-boundary.py) |
 | 3030 | [Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | Medium |  | [Python](./Medium/3030_find-the-grid-of-region-average/find-the-grid-of-region-average.py) |
+| 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/) | Easy |  | [Python](./Easy/3033_modify-the-matrix/modify-the-matrix.py) |
 | 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | Easy |  | [Python](./Easy/3065_minimum-operations-to-exceed-threshold-value-i/minimum-operations-to-exceed-threshold-value-i.py) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
