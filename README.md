@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-939/3352-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-210/834-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-940/3352-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-211/834-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-577/1753-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/765-red.svg" alt="">
 </p>
@@ -488,6 +488,7 @@
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |  | [Python](./Medium/1477_find-two-non-overlapping-sub-arrays-each-with-target-sum/find-two-non-overlapping-sub-arrays-each-with-target-sum.py) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy |  | [Python](./Easy/1480_running-sum-of-1d-array/running-sum-of-1d-array.py) |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium |  | [Python](./Medium/1482_minimum-number-of-days-to-make-m-bouquets/minimum-number-of-days-to-make-m-bouquets.py) |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy |  | [Python](./Easy/1486_xor-operation-in-an-array/xor-operation-in-an-array.py) |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | Medium |  | [Python](./Medium/1487_making-file-names-unique/making-file-names-unique.py) |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium |  | [Python](./Medium/1488_avoid-flood-in-the-city/avoid-flood-in-the-city.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium |  | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
