@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-940/3352-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-211/834-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-941/3352-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-212/834-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-577/1753-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/765-red.svg" alt="">
 </p>
@@ -949,3 +949,4 @@
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | Easy |  | [Python](./Easy/3274_check-if-two-chessboard-squares-have-the-same-color/check-if-two-chessboard-squares-have-the-same-color.py) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | Easy |  | [Python](./Easy/3285_find-indices-of-stable-mountains/find-indices-of-stable-mountains.py) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy |  | [Python](./Easy/3289_the-two-sneaky-numbers-of-digitville/the-two-sneaky-numbers-of-digitville.py) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy |  | [Python](./Easy/3300_minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.py) |
