@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-941/3352-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-212/834-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-577/1753-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-942/3353-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-212/835-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-578/1753-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/765-red.svg" alt="">
 </p>
 
@@ -261,6 +261,7 @@
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |  | [Python](./Easy/0844_backspace-string-compare/backspace-string-compare.py) |
 | 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |  | [Python](./Medium/0845_longest-mountain-in-array/longest-mountain-in-array.py) |
 | 0851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | Medium |  | [Python](./Medium/0851_loud-and-rich/loud-and-rich.py) |
+| 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium |  | [Python](./Medium/0852_peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.py) |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |  | [Python](./Medium/0853_car-fleet/car-fleet.py) |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | Medium |  | [Python](./Medium/0858_mirror-reflection/mirror-reflection.py) |
 | 0861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | Medium |  | [Python](./Medium/0861_score-after-flipping-matrix/score-after-flipping-matrix.py) |
