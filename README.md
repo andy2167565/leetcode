@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-945/3358-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-215/837-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-578/1755-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/766-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-946/3358-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-216/837-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-578/1756-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/765-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -814,6 +814,7 @@
 | 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | Medium |  | [Python](./Medium/2537_count-the-number-of-good-subarrays/count-the-number-of-good-subarrays.py) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |  | [Python](./Easy/2540_minimum-common-value/minimum-common-value.py) |
 | 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | Medium |  | [Python](./Medium/2541_minimum-operations-to-make-array-equal-ii/minimum-operations-to-make-array-equal-ii.py) |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | Easy |  | [Python](./Easy/2544_alternating-digit-sum/alternating-digit-sum.py) |
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Medium |  | [Python](./Medium/2546_apply-bitwise-operations-to-make-strings-equal/apply-bitwise-operations-to-make-strings-equal.py) |
 | 2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | Hard |  | [Python](./Hard/2547_minimum-cost-to-split-an-array/minimum-cost-to-split-an-array.py) |
 | 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Easy |  | [Python](./Easy/2549_count-distinct-numbers-on-board/count-distinct-numbers-on-board.py) |
