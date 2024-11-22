@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-947/3359-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-217/837-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-948/3359-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-218/837-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1756-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/766-red.svg" alt="">
 </p>
@@ -727,6 +727,7 @@
 | 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | Medium |  | [Python](./Medium/2332_the-latest-time-to-catch-a-bus/the-latest-time-to-catch-a-bus.py) |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium |  | [Python](./Medium/2333_minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium |  | [Python](./Medium/2337_move-pieces-to-obtain-a-string/move-pieces-to-obtain-a-string.py) |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | Easy |  | [Python](./Easy/2341_maximum-number-of-pairs-in-array/maximum-number-of-pairs-in-array.py) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium |  | [Python](./Medium/2343_query-kth-smallest-trimmed-number/query-kth-smallest-trimmed-number.py) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard |  | [Python](./Hard/2344_minimum-deletions-to-make-array-divisible/minimum-deletions-to-make-array-divisible.py) |
 | 2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | Hard |  | [Python](./Hard/2350_shortest-impossible-sequence-of-rolls/shortest-impossible-sequence-of-rolls.py) |
