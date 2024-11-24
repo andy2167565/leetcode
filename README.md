@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-949/3359-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-219/837-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-578/1756-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/766-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-950/3367-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-220/839-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-578/1760-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/768-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -672,6 +672,7 @@
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium |  | [Python](./Medium/2101_detonate-the-maximum-bombs/detonate-the-maximum-bombs.py) |
 | 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | Hard |  | [Python](./Hard/2111_minimum-operations-to-make-the-array-k-increasing/minimum-operations-to-make-the-array-k-increasing.py) |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
+| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy |  | [Python](./Easy/2119_a-number-after-a-double-reversal/a-number-after-a-double-reversal.py) |
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | Medium |  | [Python](./Medium/2121_intervals-between-identical-elements/intervals-between-identical-elements.py) |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium |  | [Python](./Medium/2134_minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.py) |
 | 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | Medium |  | [Python](./Medium/2135_count-words-obtained-after-adding-a-letter/count-words-obtained-after-adding-a-letter.py) |
