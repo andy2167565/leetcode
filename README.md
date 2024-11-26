@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-951/3368-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-221/839-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-952/3368-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-222/839-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1760-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/769-red.svg" alt="">
 </p>
@@ -216,6 +216,7 @@
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium |  | [Python](./Medium/0735_asteroid-collision/asteroid-collision.py) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | [Python](./Medium/0739_daily-temperatures/daily-temperatures.py) |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |  | [Python](./Easy/0746_min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
+| 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy |  | [Python](./Easy/0747_largest-number-at-least-twice-of-others/largest-number-at-least-twice-of-others.py) |
 | 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | Medium | $ | [Python](./Medium/0750_number-of-corner-rectangles/number-of-corner-rectangles.py) |
 | 0751 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | Medium | $ | [Python](./Medium/0751_ip-to-cidr/ip-to-cidr.py) |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium |  | [Python](./Medium/0752_open-the-lock/open-the-lock.py) |
