@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-952/3368-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-222/839-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-953/3368-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-223/839-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1760-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/769-red.svg" alt="">
 </p>
@@ -926,6 +926,7 @@
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy |  | [Python](./Easy/2942_find-words-containing-character/find-words-containing-character.py) |
+| 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | Easy |  | [Python](./Easy/2951_find-the-peaks/find-the-peaks.py) |
 | 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | Easy |  | [Python](./Easy/2960_count-tested-devices-after-test-operations/count-tested-devices-after-test-operations.py) |
 | 2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/) | Hard |  | [Python](./Hard/2963_count-the-number-of-good-partitions/count-the-number-of-good-partitions.py) |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | Easy |  | [Python](./Easy/2974_minimum-number-game/minimum-number-game.py) |
