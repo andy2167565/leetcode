@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-953/3368-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-223/839-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-954/3368-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-224/839-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1760-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/769-red.svg" alt="">
 </p>
@@ -943,6 +943,7 @@
 | 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | Hard |  | [Python](./Hard/3036_number-of-subarrays-that-match-a-pattern-ii/number-of-subarrays-that-match-a-pattern-ii.py) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | Easy |  | [Python](./Easy/3065_minimum-operations-to-exceed-threshold-value-i/minimum-operations-to-exceed-threshold-value-i.py) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
+| 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | Easy |  | [Python](./Easy/3079_find-the-sum-of-encrypted-integers/find-the-sum-of-encrypted-integers.py) |
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |  | [Python](./Easy/3083_existence-of-a-substring-in-a-string-and-its-reverse/existence-of-a-substring-in-a-string-and-its-reverse.py) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy |  | [Python](./Easy/3099_harshad-number/harshad-number.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy |  | [Python](./Easy/3110_score-of-a-string/score-of-a-string.py) |
