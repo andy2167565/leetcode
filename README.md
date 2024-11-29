@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-954/3368-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-224/839-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-955/3368-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-225/839-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1760-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/769-red.svg" alt="">
 </p>
@@ -963,3 +963,4 @@
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | Easy |  | [Python](./Easy/3285_find-indices-of-stable-mountains/find-indices-of-stable-mountains.py) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy |  | [Python](./Easy/3289_the-two-sneaky-numbers-of-digitville/the-two-sneaky-numbers-of-digitville.py) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy |  | [Python](./Easy/3300_minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.py) |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | Easy |  | [Python](./Easy/3340_check-balanced-string/check-balanced-string.py) |
