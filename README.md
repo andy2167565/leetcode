@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-956/3369-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-226/839-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-957/3369-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-227/839-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1760-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/770-red.svg" alt="">
 </p>
@@ -473,6 +473,7 @@
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |  | [Python](./Medium/1424_diagonal-traverse-ii/diagonal-traverse-ii.py) |
 | 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard |  | [Python](./Hard/1425_constrained-subsequence-sum/constrained-subsequence-sum.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy |  | [Python](./Easy/1431_kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | Easy |  | [Python](./Easy/1436_destination-city/destination-city.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium |  | [Python](./Medium/1441_build-an-array-with-stack-operations/build-an-array-with-stack-operations.py) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium |  | [Python](./Medium/1443_minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py) |
