@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-958/3374-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-228/840-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-959/3374-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-229/840-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1762-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/772-red.svg" alt="">
 </p>
@@ -756,6 +756,7 @@
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | Medium |  | [Python](./Medium/2411_smallest-subarrays-with-maximum-bitwise-or/smallest-subarrays-with-maximum-bitwise-or.py) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy |  | [Python](./Easy/2413_smallest-even-multiple/smallest-even-multiple.py) |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard |  | [Python](./Hard/2416_sum-of-prefix-scores-of-strings/sum-of-prefix-scores-of-strings.py) |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy |  | [Python](./Easy/2418_sort-the-people/sort-the-people.py) |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | Medium |  | [Python](./Medium/2420_find-all-good-indices/find-all-good-indices.py) |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | Easy |  | [Python](./Easy/2423_remove-letter-to-equalize-frequency/remove-letter-to-equalize-frequency.py) |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | Medium |  | [Python](./Medium/2424_longest-uploaded-prefix/longest-uploaded-prefix.py) |
