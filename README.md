@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-959/3374-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-229/840-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-960/3374-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-230/840-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1762-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/772-red.svg" alt="">
 </p>
@@ -508,6 +508,7 @@
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |  | [Python](./Hard/1526_minimum-number-of-increments-on-subarrays-to-form-a-target-array/minimum-number-of-increments-on-subarrays-to-form-a-target-array.py) |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy |  | [Python](./Easy/1528_shuffle-string/shuffle-string.py) |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium |  | [Python](./Medium/1530_number-of-good-leaf-nodes-pairs/number-of-good-leaf-nodes-pairs.py) |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Medium |  | [Python](./Medium/1536_minimum-swaps-to-arrange-a-binary-grid/minimum-swaps-to-arrange-a-binary-grid.py) |
 | 1537 | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) | Hard |  | [Python](./Hard/1537_get-the-maximum-score/get-the-maximum-score.py) |
