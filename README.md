@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-960/3374-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-230/840-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-961/3374-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-231/840-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1762-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/772-red.svg" alt="">
 </p>
@@ -474,6 +474,7 @@
 | 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard |  | [Python](./Hard/1425_constrained-subsequence-sum/constrained-subsequence-sum.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy |  | [Python](./Easy/1431_kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | Easy |  | [Python](./Easy/1436_destination-city/destination-city.py) |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Easy |  | [Python](./Easy/1437_check-if-all-1s-are-at-least-length-k-places-away/check-if-all-1s-are-at-least-length-k-places-away.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |  | [Python](./Medium/1438_longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium |  | [Python](./Medium/1441_build-an-array-with-stack-operations/build-an-array-with-stack-operations.py) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium |  | [Python](./Medium/1443_minimum-time-to-collect-all-apples-in-a-tree/minimum-time-to-collect-all-apples-in-a-tree.py) |
