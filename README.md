@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-961/3374-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-231/840-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-962/3374-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-232/840-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1762-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/772-red.svg" alt="">
 </p>
@@ -435,6 +435,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |  | [Python](./Easy/1317_convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |  | [Python](./Medium/1319_number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.py) |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | Hard |  | [Python](./Hard/1320_minimum-distance-to-type-a-word-using-two-fingers/minimum-distance-to-type-a-word-using-two-fingers.py) |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy |  | [Python](./Easy/1323_maximum-69-number/maximum-69-number.py) |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |  | [Python](./Hard/1326_minimum-number-of-taps-to-open-to-water-a-garden/minimum-number-of-taps-to-open-to-water-a-garden.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |  | [Python](./Medium/1334_find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
