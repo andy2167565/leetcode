@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-962/3374-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-232/840-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-963/3374-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-233/840-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1762-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/772-red.svg" alt="">
 </p>
@@ -962,6 +962,7 @@
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | Easy |  | [Python](./Easy/3162_find-the-number-of-good-pairs-i/find-the-number-of-good-pairs-i.py) |
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy |  | [Python](./Easy/3184_count-pairs-that-form-a-complete-day-i/count-pairs-that-form-a-complete-day-i.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
+| 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | Easy |  | [Python](./Easy/3194_minimum-average-of-smallest-and-largest-elements/minimum-average-of-smallest-and-largest-elements.py) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Easy |  | [Python](./Easy/3210_find-the-encrypted-string/find-the-encrypted-string.py) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy |  | [Python](./Easy/3232_find-if-digit-game-can-be-won/find-if-digit-game-can-be-won.py) |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | Easy |  | [Python](./Easy/3248_snake-in-matrix/snake-in-matrix.py) |
