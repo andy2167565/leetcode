@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-964/3382-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-234/842-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-965/3384-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-235/842-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-578/1766-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/774-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/776-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -819,6 +819,7 @@
 | 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | Easy |  | [Python](./Easy/2525_categorize-box-according-to-criteria/categorize-box-according-to-criteria.py) |
 | 2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | Medium |  | [Python](./Medium/2526_find-consecutive-integers-from-a-data-stream/find-consecutive-integers-from-a-data-stream.py) |
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | Medium |  | [Python](./Medium/2527_find-xor-beauty-of-array/find-xor-beauty-of-array.py) |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy |  | [Python](./Easy/2529_maximum-count-of-positive-integer-and-negative-integer/maximum-count-of-positive-integer-and-negative-integer.py) |
 | 2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | Medium |  | [Python](./Medium/2531_make-number-of-distinct-characters-equal/make-number-of-distinct-characters-equal.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |  | [Python](./Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array/difference-between-element-sum-and-digit-sum-of-an-array.py) |
 | 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | Medium |  | [Python](./Medium/2536_increment-submatrices-by-one/increment-submatrices-by-one.py) |
