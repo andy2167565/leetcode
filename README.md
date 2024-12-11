@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-966/3384-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-967/3384-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-236/842-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-578/1766-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-579/1766-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/776-red.svg" alt="">
 </p>
 
@@ -320,6 +320,7 @@
 | 0980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard |  | [Python](./Hard/0980_unique-paths-iii/unique-paths-iii.py) |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  | [Python](./Medium/0981_time-based-key-value-store/time-based-key-value-store.py) |
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium |  | [Python](./Medium/0983_minimum-cost-for-tickets/minimum-cost-for-tickets.py) |
+| 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Medium |  | [Python](./Medium/0985_sum-of-even-numbers-after-queries/sum-of-even-numbers-after-queries.py) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |  | [Python](./Hard/0987_vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py) |
 | 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |  | [Python](./Medium/0990_satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) |
 | 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium |  | [Python](./Medium/0991_broken-calculator/broken-calculator.py) |
