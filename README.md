@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-967/3384-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-236/842-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-968/3385-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-237/842-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-579/1766-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/776-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/777-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -389,6 +389,7 @@
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy |  | [Python](./Easy/1189_maximum-number-of-balloons/maximum-number-of-balloons.py) |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium |  | [Python](./Medium/1191_k-concatenation-maximum-sum/k-concatenation-maximum-sum.py) |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | $ | [Python](./Medium/1197_minimum-knight-moves/minimum-knight-moves.py) |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy |  | [Python](./Easy/1200_minimum-absolute-difference/minimum-absolute-difference.py) |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | Medium |  | [Python](./Medium/1202_smallest-string-with-swaps/smallest-string-with-swaps.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy |  | [Python](./Easy/1207_unique-number-of-occurrences/unique-number-of-occurrences.py) |
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | Hard |  | [Python](./Hard/1210_minimum-moves-to-reach-target-with-rotations/minimum-moves-to-reach-target-with-rotations.py) |
