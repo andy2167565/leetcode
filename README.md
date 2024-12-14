@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-969/3385-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-237/842-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-970/3385-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-238/842-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1766-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/777-red.svg" alt="">
 </p>
@@ -380,6 +380,7 @@
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
 | 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | Hard |  | [Python](./Hard/1163_last-substring-in-lexicographical-order/last-substring-in-lexicographical-order.py) |
+| 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | Easy | $ | [Python](./Easy/1165_single-row-keyboard/single-row-keyboard.py) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | Medium |  | [Python](./Medium/1169_invalid-transactions/invalid-transactions.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Medium |  | [Python](./Medium/1170_compare-strings-by-frequency-of-the-smallest-character/compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |  | [Python](./Medium/1171_remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
