@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-970/3385-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-238/842-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1766-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/777-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-971/3389-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-239/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1768-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/778-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -297,6 +297,7 @@
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium |  | [Python](./Medium/0926_flip-string-to-monotone-increasing/flip-string-to-monotone-increasing.py) |
 | 0927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | Hard |  | [Python](./Hard/0927_three-equal-parts/three-equal-parts.py) |
 | 0928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | Hard |  | [Python](./Hard/0928_minimize-malware-spread-ii/minimize-malware-spread-ii.py) |
+| 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy |  | [Python](./Easy/0929_unique-email-addresses/unique-email-addresses.py) |
 | 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium |  | [Python](./Medium/0934_shortest-bridge/shortest-bridge.py) |
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
 | 0939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | Medium |  | [Python](./Medium/0939_minimum-area-rectangle/minimum-area-rectangle.py) |
