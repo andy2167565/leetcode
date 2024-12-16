@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-971/3389-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-239/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-972/3390-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-240/843-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1768-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/778-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -377,6 +377,7 @@
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | Hard |  | [Python](./Hard/1147_longest-chunked-palindrome-decomposition/longest-chunked-palindrome-decomposition.py) |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Medium | $ | [Python](./Medium/1152_analyze-user-website-visit-pattern/analyze-user-website-visit-pattern.py) |
 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | Hard | $ | [Python](./Hard/1153_string-transforms-into-another-string/string-transforms-into-another-string.py) |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | Easy |  | [Python](./Easy/1154_day-of-the-year/day-of-the-year.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
