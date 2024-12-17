@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-972/3390-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-240/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-973/3390-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-241/843-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1768-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
 </p>
@@ -652,6 +652,7 @@
 | 1986 | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |  | [Python](./Medium/1986_minimum-number-of-work-sessions-to-finish-the-tasks/minimum-number-of-work-sessions-to-finish-the-tasks.py) |
 | 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | Medium |  | [Python](./Medium/1993_operations-on-tree/operations-on-tree.py) |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium |  | [Python](./Medium/1996_the-number-of-weak-characters-in-the-game/the-number-of-weak-characters-in-the-game.py) |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy |  | [Python](./Easy/2000_reverse-prefix-of-word/reverse-prefix-of-word.py) |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | Medium |  | [Python](./Medium/2002_maximum-product-of-the-length-of-two-palindromic-subsequences/maximum-product-of-the-length-of-two-palindromic-subsequences.py) |
 | 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | Medium |  | [Python](./Medium/2008_maximum-earnings-from-taxi/maximum-earnings-from-taxi.py) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy |  | [Python](./Easy/2011_final-value-of-variable-after-performing-operations/final-value-of-variable-after-performing-operations.py) |
