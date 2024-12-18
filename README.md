@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-973/3390-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-241/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-974/3390-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-242/843-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1768-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
 </p>
@@ -697,6 +697,7 @@
 | 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | Hard |  | [Python](./Hard/2151_maximum-good-people-based-on-statements/maximum-good-people-based-on-statements.py) |
 | 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | Medium |  | [Python](./Medium/2162_minimum-cost-to-set-cooking-time/minimum-cost-to-set-cooking-time.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium |  | [Python](./Medium/2166_design-bitset/design-bitset.py) |
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy |  | [Python](./Easy/2169_count-operations-to-obtain-zero/count-operations-to-obtain-zero.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | Medium |  | [Python](./Medium/2171_removing-minimum-number-of-magic-beans/removing-minimum-number-of-magic-beans.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
