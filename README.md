@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-974/3390-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-242/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-975/3390-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-243/843-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1768-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
 </p>
@@ -735,6 +735,7 @@
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |  | [Python](./Medium/2311_longest-binary-subsequence-less-than-or-equal-to-k/longest-binary-subsequence-less-than-or-equal-to-k.py) |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |  | [Python](./Medium/2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph/count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) |
 | 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | Medium |  | [Python](./Medium/2317_maximum-xor-after-operations/maximum-xor-after-operations.py) |
+| 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | Easy |  | [Python](./Easy/2319_check-if-matrix-is-x-matrix/check-if-matrix-is-x-matrix.py) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Medium |  | [Python](./Medium/2320_count-number-of-ways-to-place-houses/count-number-of-ways-to-place-houses.py) |
 | 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | Hard |  | [Python](./Hard/2321_maximum-score-of-spliced-array/maximum-score-of-spliced-array.py) |
 | 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium |  | [Python](./Medium/2327_number-of-people-aware-of-a-secret/number-of-people-aware-of-a-secret.py) |
