@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-975/3390-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-243/843-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1768-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-976/3391-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-244/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1769-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
 </p>
 
@@ -504,6 +504,7 @@
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy |  | [Python](./Easy/1486_xor-operation-in-an-array/xor-operation-in-an-array.py) |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | Medium |  | [Python](./Medium/1487_making-file-names-unique/making-file-names-unique.py) |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium |  | [Python](./Medium/1488_avoid-flood-in-the-city/avoid-flood-in-the-city.py) |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |  | [Python](./Easy/1491_average-salary-excluding-the-minimum-and-maximum-salary/average-salary-excluding-the-minimum-and-maximum-salary.py) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | Medium |  | [Python](./Medium/1492_the-kth-factor-of-n/the-kth-factor-of-n.py) |
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium |  | [Python](./Medium/1497_check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy |  | [Python](./Easy/1502_can-make-arithmetic-progression-from-sequence/can-make-arithmetic-progression-from-sequence.py) |
