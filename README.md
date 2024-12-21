@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-976/3391-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-244/843-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-977/3391-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-245/843-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1769-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
 </p>
@@ -328,6 +328,7 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
 | 0995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Hard |  | [Python](./Hard/0995_minimum-number-of-k-consecutive-bit-flips/minimum-number-of-k-consecutive-bit-flips.py) |
 | 0996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | Hard |  | [Python](./Hard/0996_number-of-squareful-arrays/number-of-squareful-arrays.py) |
+| 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy |  | [Python](./Easy/0997_find-the-town-judge/find-the-town-judge.py) |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | Hard |  | [Python](./Hard/1001_grid-illumination/grid-illumination.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |  | [Python](./Medium/1004_max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |  | [Python](./Medium/1011_capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py) |
