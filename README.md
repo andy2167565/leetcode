@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-977/3391-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-245/843-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1769-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/779-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-978/3395-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-246/844-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1771-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/780-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -689,6 +689,7 @@
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy |  | [Python](./Easy/2119_a-number-after-a-double-reversal/a-number-after-a-double-reversal.py) |
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | Medium |  | [Python](./Medium/2121_intervals-between-identical-elements/intervals-between-identical-elements.py) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy |  | [Python](./Easy/2124_check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.py) |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium |  | [Python](./Medium/2134_minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.py) |
 | 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | Medium |  | [Python](./Medium/2135_count-words-obtained-after-adding-a-letter/count-words-obtained-after-adding-a-letter.py) |
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard |  | [Python](./Hard/2136_earliest-possible-day-of-full-bloom/earliest-possible-day-of-full-bloom.py) |
