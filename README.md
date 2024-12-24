@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-979/3399-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-247/845-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-980/3399-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-248/845-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1772-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/782-red.svg" alt="">
 </p>
@@ -697,6 +697,7 @@
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium |  | [Python](./Medium/2145_count-the-hidden-sequences/count-the-hidden-sequences.py) |
 | 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | Medium |  | [Python](./Medium/2146_k-highest-ranked-items-within-a-price-range/k-highest-ranked-items-within-a-price-range.py) |
 | 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard |  | [Python](./Hard/2147_number-of-ways-to-divide-a-long-corridor/number-of-ways-to-divide-a-long-corridor.py) |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | Easy |  | [Python](./Easy/2148_count-elements-with-strictly-smaller-and-greater-elements/count-elements-with-strictly-smaller-and-greater-elements.py) |
 | 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | Hard |  | [Python](./Hard/2151_maximum-good-people-based-on-statements/maximum-good-people-based-on-statements.py) |
 | 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | Medium |  | [Python](./Medium/2162_minimum-cost-to-set-cooking-time/minimum-cost-to-set-cooking-time.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium |  | [Python](./Medium/2166_design-bitset/design-bitset.py) |
