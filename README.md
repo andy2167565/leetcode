@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-982/3405-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-250/846-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-983/3406-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-251/846-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1775-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/784-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/785-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -643,6 +643,7 @@
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | Medium |  | [Python](./Medium/1943_describe-the-painting/describe-the-painting.py) |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | Medium |  | [Python](./Medium/1947_maximum-compatibility-score-sum/maximum-compatibility-score-sum.py) |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy |  | [Python](./Easy/1952_three-divisors/three-divisors.py) |
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | Medium |  | [Python](./Medium/1953_maximum-number-of-weeks-for-which-you-can-work/maximum-number-of-weeks-for-which-you-can-work.py) |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | Medium |  | [Python](./Medium/1954_minimum-garden-perimeter-to-collect-enough-apples/minimum-garden-perimeter-to-collect-enough-apples.py) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
