@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-983/3406-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-251/846-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-984/3406-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-252/846-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1775-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/785-red.svg" alt="">
 </p>
@@ -968,6 +968,7 @@
 | 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | Easy |  | [Python](./Easy/3038_maximum-number-of-operations-with-the-same-score-i/maximum-number-of-operations-with-the-same-score-i.py) |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | Easy |  | [Python](./Easy/3065_minimum-operations-to-exceed-threshold-value-i/minimum-operations-to-exceed-threshold-value-i.py) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | Medium |  | [Python](./Medium/3067_count-pairs-of-connectable-servers-in-a-weighted-tree-network/count-pairs-of-connectable-servers-in-a-weighted-tree-network.py) |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy |  | [Python](./Easy/3069_distribute-elements-into-two-arrays-i/distribute-elements-into-two-arrays-i.py) |
 | 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy |  | [Python](./Easy/3074_apple-redistribution-into-boxes/apple-redistribution-into-boxes.py) |
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | Easy |  | [Python](./Easy/3079_find-the-sum-of-encrypted-integers/find-the-sum-of-encrypted-integers.py) |
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |  | [Python](./Easy/3083_existence-of-a-substring-in-a-string-and-its-reverse/existence-of-a-substring-in-a-string-and-its-reverse.py) |
