@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-985/3406-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-253/846-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1775-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/785-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-986/3414-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-254/848-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1779-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/787-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -989,6 +989,7 @@
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Easy |  | [Python](./Easy/3264_final-array-state-after-k-multiplication-operations-i/final-array-state-after-k-multiplication-operations-i.py) |
 | 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | Easy |  | [Python](./Easy/3270_find-the-key-of-the-numbers/find-the-key-of-the-numbers.py) |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | Easy |  | [Python](./Easy/3274_check-if-two-chessboard-squares-have-the-same-color/check-if-two-chessboard-squares-have-the-same-color.py) |
+| 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | Easy |  | [Python](./Easy/3280_convert-date-to-binary/convert-date-to-binary.py) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | Easy |  | [Python](./Easy/3285_find-indices-of-stable-mountains/find-indices-of-stable-mountains.py) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | Easy |  | [Python](./Easy/3289_the-two-sneaky-numbers-of-digitville/the-two-sneaky-numbers-of-digitville.py) |
 | 3295 | [Report Spam Message](https://leetcode.com/problems/report-spam-message/) | Medium |  | [Python](./Medium/3295_report-spam-message/report-spam-message.py) |
