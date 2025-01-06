@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-986/3414-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-254/848-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-987/3415-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-255/849-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1779-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/787-red.svg" alt="">
 </p>
@@ -381,6 +381,7 @@
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | Easy |  | [Python](./Easy/1154_day-of-the-year/day-of-the-year.py) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium |  | [Python](./Medium/1155_number-of-dice-rolls-with-target-sum/number-of-dice-rolls-with-target-sum.py) |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | Medium |  | [Python](./Medium/1156_swap-for-longest-repeated-character-substring/swap-for-longest-repeated-character-substring.py) |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy |  | [Python](./Easy/1160_find-words-that-can-be-formed-by-characters/find-words-that-can-be-formed-by-characters.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |  | [Python](./Medium/1162_as-far-from-land-as-possible/as-far-from-land-as-possible.py) |
 | 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | Hard |  | [Python](./Hard/1163_last-substring-in-lexicographical-order/last-substring-in-lexicographical-order.py) |
 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | Easy | $ | [Python](./Easy/1165_single-row-keyboard/single-row-keyboard.py) |
