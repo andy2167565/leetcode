@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-987/3415-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-255/849-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-988/3415-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-256/849-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1779-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/787-red.svg" alt="">
 </p>
@@ -975,6 +975,7 @@
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |  | [Python](./Easy/3083_existence-of-a-substring-in-a-string-and-its-reverse/existence-of-a-substring-in-a-string-and-its-reverse.py) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy |  | [Python](./Easy/3099_harshad-number/harshad-number.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy |  | [Python](./Easy/3110_score-of-a-string/score-of-a-string.py) |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy |  | [Python](./Easy/3120_count-the-number-of-special-characters-i/count-the-number-of-special-characters-i.py) |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | Easy |  | [Python](./Easy/3131_find-the-integer-added-to-array-i/find-the-integer-added-to-array-i.py) |
 | 3138 | [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | Medium |  | [Python](./Medium/3138_minimum-length-of-anagram-concatenation/minimum-length-of-anagram-concatenation.py) |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | Easy |  | [Python](./Easy/3146_permutation-difference-between-two-strings/permutation-difference-between-two-strings.py) |
