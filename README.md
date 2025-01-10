@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-990/3415-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-258/849-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-991/3416-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-259/849-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1779-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/787-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/788-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -715,6 +715,7 @@
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |  | [Python](./Medium/2196_create-binary-tree-from-descriptions/create-binary-tree-from-descriptions.py) |
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | Medium |  | [Python](./Medium/2202_maximize-the-topmost-element-after-k-moves/maximize-the-topmost-element-after-k-moves.py) |
 | 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | Medium |  | [Python](./Medium/2212_maximum-points-in-an-archery-competition/maximum-points-in-an-archery-competition.py) |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy |  | [Python](./Easy/2215_find-the-difference-of-two-arrays/find-the-difference-of-two-arrays.py) |
 | 2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | Medium |  | [Python](./Medium/2217_find-palindrome-with-fixed-length/find-palindrome-with-fixed-length.py) |
 | 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | Medium |  | [Python](./Medium/2222_number-of-ways-to-select-buildings/number-of-ways-to-select-buildings.py) |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium |  | [Python](./Medium/2226_maximum-candies-allocated-to-k-children/maximum-candies-allocated-to-k-children.py) |
