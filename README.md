@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-991/3416-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-259/849-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1779-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/788-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-992/3420-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-260/850-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1781-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -467,6 +467,7 @@
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | Easy |  | [Python](./Easy/1374_generate-a-string-with-characters-that-have-odd-counts/generate-a-string-with-characters-that-have-odd-counts.py) |
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | Hard |  | [Python](./Hard/1377_frog-position-after-t-seconds/frog-position-after-t-seconds.py) |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy |  | [Python](./Easy/1380_lucky-numbers-in-a-matrix/lucky-numbers-in-a-matrix.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |  | [Python](./Medium/1391_check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid.py) |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | Hard |  | [Python](./Hard/1392_longest-happy-prefix/longest-happy-prefix.py) |
