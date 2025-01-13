@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-992/3420-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-260/850-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-993/3420-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-261/850-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1781-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
 </p>
@@ -302,6 +302,7 @@
 | 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium |  | [Python](./Medium/0935_knight-dialer/knight-dialer.py) |
 | 0939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | Medium |  | [Python](./Medium/0939_minimum-area-rectangle/minimum-area-rectangle.py) |
 | 0940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard |  | [Python](./Hard/0940_distinct-subsequences-ii/distinct-subsequences-ii.py) |
+| 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy |  | [Python](./Easy/0941_valid-mountain-array/valid-mountain-array.py) |
 | 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium |  | [Python](./Medium/0947_most-stones-removed-with-same-row-or-column/most-stones-removed-with-same-row-or-column.py) |
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium |  | [Python](./Medium/0948_bag-of-tokens/bag-of-tokens.py) |
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | Medium |  | [Python](./Medium/0949_largest-time-for-given-digits/largest-time-for-given-digits.py) |
