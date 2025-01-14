@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-993/3420-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-261/850-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1781-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-994/3421-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-262/850-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1782-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
 </p>
 
@@ -470,6 +470,7 @@
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | Hard |  | [Python](./Hard/1377_frog-position-after-t-seconds/frog-position-after-t-seconds.py) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy |  | [Python](./Easy/1380_lucky-numbers-in-a-matrix/lucky-numbers-in-a-matrix.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | Easy |  | [Python](./Easy/1389_create-target-array-in-the-given-order/create-target-array-in-the-given-order.py) |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |  | [Python](./Medium/1391_check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid.py) |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | Hard |  | [Python](./Hard/1392_longest-happy-prefix/longest-happy-prefix.py) |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy |  | [Python](./Easy/1394_find-lucky-integer-in-an-array/find-lucky-integer-in-an-array.py) |
