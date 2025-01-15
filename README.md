@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-994/3421-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-262/850-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-995/3421-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-263/850-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1782-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
 </p>
@@ -520,6 +520,7 @@
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy |  | [Python](./Easy/1512_number-of-good-pairs/number-of-good-pairs.py) |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium |  | [Python](./Medium/1514_path-with-maximum-probability/path-with-maximum-probability.py) |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy |  | [Python](./Easy/1523_count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |  | [Python](./Hard/1526_minimum-number-of-increments-on-subarrays-to-form-a-target-array/minimum-number-of-increments-on-subarrays-to-form-a-target-array.py) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy |  | [Python](./Easy/1528_shuffle-string/shuffle-string.py) |
