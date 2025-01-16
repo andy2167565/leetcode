@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-995/3421-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-263/850-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1782-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-996/3422-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-264/850-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1783-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
 </p>
 
@@ -989,6 +989,7 @@
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | Easy |  | [Python](./Easy/3151_special-array-i/special-array-i.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | Easy |  | [Python](./Easy/3158_find-the-xor-of-numbers-which-appear-twice/find-the-xor-of-numbers-which-appear-twice.py) |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | Easy |  | [Python](./Easy/3162_find-the-number-of-good-pairs-i/find-the-number-of-good-pairs-i.py) |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | Easy |  | [Python](./Easy/3168_minimum-number-of-chairs-in-a-waiting-room/minimum-number-of-chairs-in-a-waiting-room.py) |
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy |  | [Python](./Easy/3184_count-pairs-that-form-a-complete-day-i/count-pairs-that-form-a-complete-day-i.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | Easy |  | [Python](./Easy/3194_minimum-average-of-smallest-and-largest-elements/minimum-average-of-smallest-and-largest-elements.py) |
