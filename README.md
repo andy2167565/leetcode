@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-997/3422-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-265/850-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-998/3422-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-266/850-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1783-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
 </p>
@@ -479,6 +479,7 @@
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium |  | [Python](./Medium/1405_longest-happy-string/longest-happy-string.py) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard |  | [Python](./Hard/1406_stone-game-iii/stone-game-iii.py) |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard |  | [Python](./Hard/1411_number-of-ways-to-paint-n-3-grid/number-of-ways-to-paint-n-3-grid.py) |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy |  | [Python](./Easy/1413_minimum-value-to-get-positive-step-by-step-sum/minimum-value-to-get-positive-step-by-step-sum.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard |  | [Python](./Hard/1416_restore-the-array/restore-the-array.py) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
