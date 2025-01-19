@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-998/3422-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-266/850-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1783-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/789-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-999/3430-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-267/852-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1786-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/792-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -504,6 +504,7 @@
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |  | [Python](./Medium/1466_reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |  | [Python](./Hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy |  | [Python](./Easy/1470_shuffle-the-array/shuffle-the-array.py) |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy |  | [Python](./Easy/1475_final-prices-with-a-special-discount-in-a-shop/final-prices-with-a-special-discount-in-a-shop.py) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |  | [Python](./Medium/1477_find-two-non-overlapping-sub-arrays-each-with-target-sum/find-two-non-overlapping-sub-arrays-each-with-target-sum.py) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy |  | [Python](./Easy/1480_running-sum-of-1d-array/running-sum-of-1d-array.py) |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium |  | [Python](./Medium/1482_minimum-number-of-days-to-make-m-bouquets/minimum-number-of-days-to-make-m-bouquets.py) |
