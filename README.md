@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1002/3430-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-270/852-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1003/3430-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-271/852-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1786-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/792-red.svg" alt="">
 </p>
@@ -694,6 +694,7 @@
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |  | [Python](./Medium/2096_step-by-step-directions-from-a-binary-tree-node-to-another/step-by-step-directions-from-a-binary-tree-node-to-another.py) |
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | Medium |  | [Python](./Medium/2100_find-good-days-to-rob-the-bank/find-good-days-to-rob-the-bank.py) |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium |  | [Python](./Medium/2101_detonate-the-maximum-bombs/detonate-the-maximum-bombs.py) |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy |  | [Python](./Easy/2108_find-first-palindromic-string-in-the-array/find-first-palindromic-string-in-the-array.py) |
 | 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | Hard |  | [Python](./Hard/2111_minimum-operations-to-make-the-array-k-increasing/minimum-operations-to-make-the-array-k-increasing.py) |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium |  | [Python](./Medium/2115_find-all-possible-recipes-from-given-supplies/find-all-possible-recipes-from-given-supplies.py) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy |  | [Python](./Easy/2119_a-number-after-a-double-reversal/a-number-after-a-double-reversal.py) |
