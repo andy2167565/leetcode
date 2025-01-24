@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1003/3430-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-271/852-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1786-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1004/3431-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-272/852-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1787-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/792-red.svg" alt="">
 </p>
 
@@ -714,6 +714,7 @@
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy |  | [Python](./Easy/2169_count-operations-to-obtain-zero/count-operations-to-obtain-zero.py) |
 | 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | Medium |  | [Python](./Medium/2170_minimum-operations-to-make-the-array-alternating/minimum-operations-to-make-the-array-alternating.py) |
 | 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | Medium |  | [Python](./Medium/2171_removing-minimum-number-of-magic-beans/removing-minimum-number-of-magic-beans.py) |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy |  | [Python](./Easy/2176_count-equal-and-divisible-pairs-in-an-array/count-equal-and-divisible-pairs-in-an-array.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium |  | [Python](./Medium/2182_construct-string-with-repeat-limit/construct-string-with-repeat-limit.py) |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy |  | [Python](./Easy/2185_counting-words-with-a-given-prefix/counting-words-with-a-given-prefix.py) |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium |  | [Python](./Medium/2187_minimum-time-to-complete-trips/minimum-time-to-complete-trips.py) |
