@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1006/3431-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-274/852-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-580/1787-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/792-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1007/3435-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-275/853-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-580/1789-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/793-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -991,6 +991,7 @@
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | Easy |  | [Python](./Easy/3079_find-the-sum-of-encrypted-integers/find-the-sum-of-encrypted-integers.py) |
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |  | [Python](./Easy/3083_existence-of-a-substring-in-a-string-and-its-reverse/existence-of-a-substring-in-a-string-and-its-reverse.py) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy |  | [Python](./Easy/3099_harshad-number/harshad-number.py) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |  | [Python](./Easy/3105_longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy |  | [Python](./Easy/3110_score-of-a-string/score-of-a-string.py) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy |  | [Python](./Easy/3120_count-the-number-of-special-characters-i/count-the-number-of-special-characters-i.py) |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | Easy |  | [Python](./Easy/3131_find-the-integer-added-to-array-i/find-the-integer-added-to-array-i.py) |
