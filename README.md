@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1007/3435-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-275/853-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1008/3435-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-276/853-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1789-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/793-red.svg" alt="">
 </p>
@@ -561,6 +561,7 @@
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium |  | [Python](./Medium/1642_furthest-building-you-can-reach/furthest-building-you-can-reach.py) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium |  | [Python](./Medium/1653_minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.py) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |  | [Python](./Medium/1658_minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py) |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy |  | [Python](./Easy/1662_check-if-two-string-arrays-are-equivalent/check-if-two-string-arrays-are-equivalent.py) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard |  | [Python](./Hard/1665_minimum-initial-energy-to-finish-tasks/minimum-initial-energy-to-finish-tasks.py) |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |  | [Python](./Medium/1670_design-front-middle-back-queue/design-front-middle-back-queue.py) |
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard |  | [Python](./Hard/1671_minimum-number-of-removals-to-make-mountain-array/minimum-number-of-removals-to-make-mountain-array.py) |
