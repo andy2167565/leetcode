@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1008/3435-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-276/853-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1009/3435-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-277/853-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-580/1789-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/793-red.svg" alt="">
 </p>
@@ -955,6 +955,7 @@
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | Medium |  | [Python](./Medium/2830_maximize-the-profit-as-the-salesman/maximize-the-profit-as-the-salesman.py) |
 | 2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | Medium |  | [Python](./Medium/2831_find-the-longest-equal-subarray/find-the-longest-equal-subarray.py) |
 | 2850 | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | Medium |  | [Python](./Medium/2850_minimum-moves-to-spread-stones-over-grid/minimum-moves-to-spread-stones-over-grid.py) |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | Easy |  | [Python](./Easy/2859_sum-of-values-at-indices-with-k-set-bits/sum-of-values-at-indices-with-k-set-bits.py) |
 | 2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | Medium |  | [Python](./Medium/2861_maximum-number-of-alloys/maximum-number-of-alloys.py) |
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard |  | [Python](./Hard/2872_maximum-number-of-k-divisible-components/maximum-number-of-k-divisible-components.py) |
 | 2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | Medium |  | [Python](./Medium/2875_minimum-size-subarray-in-infinite-array/minimum-size-subarray-in-infinite-array.py) |
