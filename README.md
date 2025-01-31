@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1010/3436-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-277/854-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-581/1789-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1011/3437-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-278/854-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-581/1790-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/793-red.svg" alt="">
 </p>
 
@@ -435,6 +435,7 @@
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy |  | [Python](./Easy/1295_find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.py) |
 | 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | Medium |  | [Python](./Medium/1297_maximum-number-of-occurrences-of-a-substring/maximum-number-of-occurrences-of-a-substring.py) |
 | 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard |  | [Python](./Hard/1298_maximum-candies-you-can-get-from-boxes/maximum-candies-you-can-get-from-boxes.py) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy |  | [Python](./Easy/1299_replace-elements-with-greatest-element-on-right-side/replace-elements-with-greatest-element-on-right-side.py) |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium |  | [Python](./Medium/1300_sum-of-mutated-array-closest-to-target/sum-of-mutated-array-closest-to-target.py) |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard |  | [Python](./Hard/1301_number-of-paths-with-max-score/number-of-paths-with-max-score.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | Easy |  | [Python](./Easy/1304_find-n-unique-integers-sum-up-to-zero/find-n-unique-integers-sum-up-to-zero.py) |
