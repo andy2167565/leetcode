@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1011/3437-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-278/854-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1012/3437-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-279/854-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-581/1790-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/793-red.svg" alt="">
 </p>
@@ -403,6 +403,7 @@
 | 1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | Hard | $ | [Python](./Hard/1216_valid-palindrome-iii/valid-palindrome-iii.py) |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium |  | [Python](./Medium/1219_path-with-maximum-gold/path-with-maximum-gold.py) |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | Hard |  | [Python](./Hard/1220_count-vowels-permutation/count-vowels-permutation.py) |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy |  | [Python](./Easy/1221_split-a-string-in-balanced-strings/split-a-string-in-balanced-strings.py) |
 | 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | Hard |  | [Python](./Hard/1223_dice-roll-simulation/dice-roll-simulation.py) |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | Medium | $ | [Python](./Medium/1230_toss-strange-coins/toss-strange-coins.py) |
 | 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | Hard | $ | [Python](./Hard/1231_divide-chocolate/divide-chocolate.py) |
