@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1013/3445-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1014/3445-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-280/856-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-581/1793-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-582/1793-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/796-red.svg" alt="">
 </p>
 
@@ -789,6 +789,7 @@
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium |  | [Python](./Medium/2406_divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.py) |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | Medium |  | [Python](./Medium/2411_smallest-subarrays-with-maximum-bitwise-or/smallest-subarrays-with-maximum-bitwise-or.py) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy |  | [Python](./Easy/2413_smallest-even-multiple/smallest-even-multiple.py) |
+| 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | Medium |  | [Python](./Medium/2414_length-of-the-longest-alphabetical-continuous-substring/length-of-the-longest-alphabetical-continuous-substring.py) |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard |  | [Python](./Hard/2416_sum-of-prefix-scores-of-strings/sum-of-prefix-scores-of-strings.py) |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy |  | [Python](./Easy/2418_sort-the-people/sort-the-people.py) |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | Medium |  | [Python](./Medium/2420_find-all-good-indices/find-all-good-indices.py) |
