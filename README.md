@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1014/3445-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-280/856-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1015/3445-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-281/856-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1793-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/796-red.svg" alt="">
 </p>
@@ -570,6 +570,7 @@
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard |  | [Python](./Hard/1671_minimum-number-of-removals-to-make-mountain-array/minimum-number-of-removals-to-make-mountain-array.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy |  | [Python](./Easy/1672_richest-customer-wealth/richest-customer-wealth.py) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |  | [Python](./Medium/1673_find-the-most-competitive-subsequence/find-the-most-competitive-subsequence.py) |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | Easy |  | [Python](./Easy/1678_goal-parser-interpretation/goal-parser-interpretation.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium |  | [Python](./Medium/1680_concatenation-of-consecutive-binary-numbers/concatenation-of-consecutive-binary-numbers.py) |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | Medium |  | [Python](./Medium/1686_stone-game-vi/stone-game-vi.py) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Easy |  | [Python](./Easy/1688_count-of-matches-in-tournament/count-of-matches-in-tournament.py) |
