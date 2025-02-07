@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1017/3445-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-283/856-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1018/3445-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-284/856-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1793-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/796-red.svg" alt="">
 </p>
@@ -1014,6 +1014,7 @@
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy |  | [Python](./Easy/3184_count-pairs-that-form-a-complete-day-i/count-pairs-that-form-a-complete-day-i.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |  | [Python](./Easy/3190_find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | Easy |  | [Python](./Easy/3194_minimum-average-of-smallest-and-largest-elements/minimum-average-of-smallest-and-largest-elements.py) |
+| 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | Easy |  | [Python](./Easy/3206_alternating-groups-i/alternating-groups-i.py) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Easy |  | [Python](./Easy/3210_find-the-encrypted-string/find-the-encrypted-string.py) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy |  | [Python](./Easy/3232_find-if-digit-game-can-be-won/find-if-digit-game-can-be-won.py) |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | Easy |  | [Python](./Easy/3248_snake-in-matrix/snake-in-matrix.py) |
