@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1018/3445-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-284/856-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1019/3445-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-285/856-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1793-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/796-red.svg" alt="">
 </p>
@@ -451,6 +451,7 @@
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy |  | [Python](./Easy/1332_remove-palindromic-subsequences/remove-palindromic-subsequences.py) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |  | [Python](./Medium/1334_find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Hard |  | [Python](./Hard/1335_minimum-difficulty-of-a-job-schedule/minimum-difficulty-of-a-job-schedule.py) |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy |  | [Python](./Easy/1337_the-k-weakest-rows-in-a-matrix/the-k-weakest-rows-in-a-matrix.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium |  | [Python](./Medium/1339_maximum-product-of-splitted-binary-tree/maximum-product-of-splitted-binary-tree.py) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |  | [Python](./Hard/1340_jump-game-v/jump-game-v.py) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy |  | [Python](./Easy/1342_number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.py) |
