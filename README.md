@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1019/3445-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-285/856-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-582/1793-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/796-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1020/3450-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-286/857-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-582/1795-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/798-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -456,6 +456,7 @@
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |  | [Python](./Hard/1340_jump-game-v/jump-game-v.py) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy |  | [Python](./Easy/1342_number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.py) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |  | [Python](./Hard/1345_jump-game-iv/jump-game-iv.py) |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy |  | [Python](./Easy/1346_check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.py) |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | Medium |  | [Python](./Medium/1348_tweet-counts-per-frequency/tweet-counts-per-frequency.py) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy |  | [Python](./Easy/1351_count-negative-numbers-in-a-sorted-matrix/count-negative-numbers-in-a-sorted-matrix.py) |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | Medium |  | [Python](./Medium/1353_maximum-number-of-events-that-can-be-attended/maximum-number-of-events-that-can-be-attended.py) |
