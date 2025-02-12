@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1020/3450-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-286/857-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1021/3450-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-287/857-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1795-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/798-red.svg" alt="">
 </p>
@@ -775,6 +775,7 @@
 | 2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | Hard |  | [Python](./Hard/2350_shortest-impossible-sequence-of-rolls/shortest-impossible-sequence-of-rolls.py) |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | Easy |  | [Python](./Easy/2351_first-letter-to-appear-twice/first-letter-to-appear-twice.py) |
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium |  | [Python](./Medium/2353_design-a-food-rating-system/design-a-food-rating-system.py) |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | Easy |  | [Python](./Easy/2357_make-array-zero-by-subtracting-equal-amounts/make-array-zero-by-subtracting-equal-amounts.py) |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium |  | [Python](./Medium/2359_find-closest-node-to-given-two-nodes/find-closest-node-to-given-two-nodes.py) |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Hard |  | [Python](./Hard/2360_longest-cycle-in-a-graph/longest-cycle-in-a-graph.py) |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium |  | [Python](./Medium/2364_count-number-of-bad-pairs/count-number-of-bad-pairs.py) |
