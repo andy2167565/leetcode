@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1021/3450-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-287/857-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1022/3451-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-288/857-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1795-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/798-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/799-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -369,6 +369,7 @@
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium |  | [Python](./Medium/1124_longest-well-performing-interval/longest-well-performing-interval.py) |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | Medium |  | [Python](./Medium/1129_shortest-path-with-alternating-colors/shortest-path-with-alternating-colors.py) |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | Medium |  | [Python](./Medium/1130_minimum-cost-tree-from-leaf-values/minimum-cost-tree-from-leaf-values.py) |
+| 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | Easy | $ | [Python](./Easy/1133_largest-unique-number/largest-unique-number.py) |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | $ | [Python](./Medium/1135_connecting-cities-with-minimum-cost/connecting-cities-with-minimum-cost.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy |  | [Python](./Easy/1137_n-th-tribonacci-number/n-th-tribonacci-number.py) |
