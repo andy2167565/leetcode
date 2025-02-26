@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1024/3466-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-290/861-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1025/3466-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-291/861-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1801-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/804-red.svg" alt="">
 </p>
@@ -597,6 +597,7 @@
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | Hard |  | [Python](./Hard/1739_building-boxes/building-boxes.py) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |  | [Python](./Medium/1744_can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.py) |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | Hard |  | [Python](./Hard/1745_palindrome-partitioning-iv/palindrome-partitioning-iv.py) |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | Easy |  | [Python](./Easy/1748_sum-of-unique-elements/sum-of-unique-elements.py) |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | Medium |  | [Python](./Medium/1753_maximum-score-from-removing-stones/maximum-score-from-removing-stones.py) |
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | Medium |  | [Python](./Medium/1754_largest-merge-of-two-strings/largest-merge-of-two-strings.py) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy |  | [Python](./Easy/1758_minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
