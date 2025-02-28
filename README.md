@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1026/3466-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-292/861-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1027/3466-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-293/861-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1801-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/804-red.svg" alt="">
 </p>
@@ -619,6 +619,7 @@
 | 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Hard |  | [Python](./Hard/1793_maximum-score-of-a-good-subarray/maximum-score-of-a-good-subarray.py) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy |  | [Python](./Easy/1796_second-largest-digit-in-a-string/second-largest-digit-in-a-string.py) |
 | 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | Medium |  | [Python](./Medium/1798_maximum-number-of-consecutive-values-you-can-make/maximum-number-of-consecutive-values-you-can-make.py) |
+| 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy |  | [Python](./Easy/1800_maximum-ascending-subarray-sum/maximum-ascending-subarray-sum.py) |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium |  | [Python](./Medium/1801_number-of-orders-in-the-backlog/number-of-orders-in-the-backlog.py) |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |  | [Python](./Medium/1802_maximum-value-at-a-given-index-in-a-bounded-array/maximum-value-at-a-given-index-in-a-bounded-array.py) |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | Hard |  | [Python](./Hard/1808_maximize-number-of-nice-divisors/maximize-number-of-nice-divisors.py) |
