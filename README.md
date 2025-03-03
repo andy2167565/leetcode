@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1027/3466-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-293/861-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-582/1801-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/804-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1028/3475-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-294/863-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-582/1806-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/806-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -589,6 +589,7 @@
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | Medium |  | [Python](./Medium/1711_count-good-meals/count-good-meals.py) |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium |  | [Python](./Medium/1717_maximum-score-from-removing-substrings/maximum-score-from-removing-substrings.py) |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Medium |  | [Python](./Medium/1722_minimize-hamming-distance-after-swap-operations/minimize-hamming-distance-after-swap-operations.py) |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | Easy |  | [Python](./Easy/1725_number-of-rectangles-that-can-form-the-largest-square/number-of-rectangles-that-can-form-the-largest-square.py) |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium |  | [Python](./Medium/1727_largest-submatrix-with-rearrangements/largest-submatrix-with-rearrangements.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | $ | [Python](./Medium/1730_shortest-path-to-get-food/shortest-path-to-get-food.py) |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | Medium |  | [Python](./Medium/1733_minimum-number-of-people-to-teach/minimum-number-of-people-to-teach.py) |
