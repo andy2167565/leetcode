@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1029/3476-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-295/863-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1030/3476-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-296/863-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1807-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/806-red.svg" alt="">
 </p>
@@ -372,6 +372,7 @@
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | Medium |  | [Python](./Medium/1129_shortest-path-with-alternating-colors/shortest-path-with-alternating-colors.py) |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | Medium |  | [Python](./Medium/1130_minimum-cost-tree-from-leaf-values/minimum-cost-tree-from-leaf-values.py) |
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | Easy | $ | [Python](./Easy/1133_largest-unique-number/largest-unique-number.py) |
+| 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | Easy | $ | [Python](./Easy/1134_armstrong-number/armstrong-number.py) |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium | $ | [Python](./Medium/1135_connecting-cities-with-minimum-cost/connecting-cities-with-minimum-cost.py) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | Medium | $ | [Python](./Medium/1136_parallel-courses/parallel-courses.py) |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy |  | [Python](./Easy/1137_n-th-tribonacci-number/n-th-tribonacci-number.py) |
