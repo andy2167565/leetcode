@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1030/3476-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-296/863-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1031/3476-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-297/863-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1807-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/806-red.svg" alt="">
 </p>
@@ -673,6 +673,7 @@
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | Hard |  | [Python](./Hard/1964_find-the-longest-valid-obstacle-course-at-each-position/find-the-longest-valid-obstacle-course-at-each-position.py) |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Easy |  | [Python](./Easy/1967_number-of-strings-that-appear-as-substrings-in-word/number-of-strings-that-appear-as-substrings-in-word.py) |
 | 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | Medium |  | [Python](./Medium/1969_minimum-non-zero-product-of-the-array-elements/minimum-non-zero-product-of-the-array-elements.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium |  | [Python](./Medium/1975_maximum-matrix-sum/maximum-matrix-sum.py) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy |  | [Python](./Easy/1979_find-greatest-common-divisor-of-array/find-greatest-common-divisor-of-array.py) |
