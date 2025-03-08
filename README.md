@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1031/3476-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-297/863-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1032/3476-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-298/863-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1807-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/806-red.svg" alt="">
 </p>
@@ -365,6 +365,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy |  | [Python](./Easy/1108_defanging-an-ip-address/defanging-an-ip-address.py) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |  | [Python](./Medium/1111_maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
 | 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | Easy | $ | [Python](./Easy/1118_number-of-days-in-a-month/number-of-days-in-a-month.py) |
+| 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | Easy | $ | [Python](./Easy/1119_remove-vowels-from-a-string/remove-vowels-from-a-string.py) |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | Hard | $ | [Python](./Hard/1121_divide-array-into-increasing-sequences/divide-array-into-increasing-sequences.py) |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |  | [Python](./Easy/1122_relative-sort-array/relative-sort-array.py) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium |  | [Python](./Medium/1123_lowest-common-ancestor-of-deepest-leaves/lowest-common-ancestor-of-deepest-leaves.py) |
