@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1032/3476-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-298/863-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-582/1807-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/806-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1033/3480-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-299/864-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-582/1809-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/807-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -995,6 +995,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | Easy |  | [Python](./Easy/2974_minimum-number-game/minimum-number-game.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | Easy |  | [Python](./Easy/2980_check-if-bitwise-or-has-trailing-zeros/check-if-bitwise-or-has-trailing-zeros.py) |
 | 3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | Medium |  | [Python](./Medium/3002_maximum-size-of-a-set-after-removals/maximum-size-of-a-set-after-removals.py) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy |  | [Python](./Easy/3005_count-elements-with-maximum-frequency/count-elements-with-maximum-frequency.py) |
 | 3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | Hard |  | [Python](./Hard/3008_find-beautiful-indices-in-the-given-array-ii/find-beautiful-indices-in-the-given-array-ii.py) |
