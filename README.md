@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1033/3480-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-299/864-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1034/3480-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-300/864-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1809-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/807-red.svg" alt="">
 </p>
@@ -672,6 +672,7 @@
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | Medium |  | [Python](./Medium/1953_maximum-number-of-weeks-for-which-you-can-work/maximum-number-of-weeks-for-which-you-can-work.py) |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | Medium |  | [Python](./Medium/1954_minimum-garden-perimeter-to-collect-enough-apples/minimum-garden-perimeter-to-collect-enough-apples.py) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | Medium |  | [Python](./Medium/1958_check-if-move-is-legal/check-if-move-is-legal.py) |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | Easy |  | [Python](./Easy/1961_check-if-string-is-a-prefix-of-array/check-if-string-is-a-prefix-of-array.py) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |  | [Python](./Medium/1963_minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.py) |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | Hard |  | [Python](./Hard/1964_find-the-longest-valid-obstacle-course-at-each-position/find-the-longest-valid-obstacle-course-at-each-position.py) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Easy |  | [Python](./Easy/1967_number-of-strings-that-appear-as-substrings-in-word/number-of-strings-that-appear-as-substrings-in-word.py) |
