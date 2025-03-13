@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1035/3482-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-301/864-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1036/3482-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-302/864-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1810-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/808-red.svg" alt="">
 </p>
@@ -333,6 +333,7 @@
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy |  | [Python](./Easy/0997_find-the-town-judge/find-the-town-judge.py) |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | Hard |  | [Python](./Hard/1001_grid-illumination/grid-illumination.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |  | [Python](./Medium/1004_max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy |  | [Python](./Easy/1009_complement-of-base-10-integer/complement-of-base-10-integer.py) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |  | [Python](./Medium/1011_capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.py) |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium |  | [Python](./Medium/1014_best-sightseeing-pair/best-sightseeing-pair.py) |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium |  | [Python](./Medium/1015_smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.py) |
