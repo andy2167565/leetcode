@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1036/3482-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-302/864-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1037/3482-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-303/864-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1810-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/808-red.svg" alt="">
 </p>
@@ -325,6 +325,7 @@
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium |  | [Python](./Medium/0983_minimum-cost-for-tickets/minimum-cost-for-tickets.py) |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | Medium |  | [Python](./Medium/0985_sum-of-even-numbers-after-queries/sum-of-even-numbers-after-queries.py) |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |  | [Python](./Hard/0987_vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py) |
+| 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy |  | [Python](./Easy/0989_add-to-array-form-of-integer/add-to-array-form-of-integer.py) |
 | 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |  | [Python](./Medium/0990_satisfiability-of-equality-equations/satisfiability-of-equality-equations.py) |
 | 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium |  | [Python](./Medium/0991_broken-calculator/broken-calculator.py) |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |  | [Python](./Medium/0994_rotting-oranges/rotting-oranges.py) |
