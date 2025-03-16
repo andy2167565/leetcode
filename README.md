@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1037/3482-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-303/864-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-582/1810-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/808-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1038/3490-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-304/866-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-582/1813-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/811-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -481,6 +481,7 @@
 | 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Medium |  | [Python](./Medium/1375_number-of-times-binary-string-is-prefix-aligned/number-of-times-binary-string-is-prefix-aligned.py) |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | Hard |  | [Python](./Hard/1377_frog-position-after-t-seconds/frog-position-after-t-seconds.py) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy |  | [Python](./Easy/1380_lucky-numbers-in-a-matrix/lucky-numbers-in-a-matrix.py) |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy |  | [Python](./Easy/1385_find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |  | [Python](./Medium/1386_cinema-seat-allocation/cinema-seat-allocation.py) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | Easy |  | [Python](./Easy/1389_create-target-array-in-the-given-order/create-target-array-in-the-given-order.py) |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |  | [Python](./Medium/1391_check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid.py) |
