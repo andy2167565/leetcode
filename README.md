@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1039/3490-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-305/866-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1040/3491-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-306/867-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-582/1813-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/811-red.svg" alt="">
 </p>
@@ -990,6 +990,7 @@
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | Medium |  | [Python](./Medium/2901_longest-unequal-adjacent-groups-subsequence-ii/longest-unequal-adjacent-groups-subsequence-ii.py) |
 | 2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | Easy |  | [Python](./Easy/2903_find-indices-with-index-and-value-difference-i/find-indices-with-index-and-value-difference-i.py) |
 | 2919 | [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | Medium |  | [Python](./Medium/2919_minimum-increment-operations-to-make-array-beautiful/minimum-increment-operations-to-make-array-beautiful.py) |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | Easy |  | [Python](./Easy/2923_find-champion-i/find-champion-i.py) |
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy |  | [Python](./Easy/2942_find-words-containing-character/find-words-containing-character.py) |
