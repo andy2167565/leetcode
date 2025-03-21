@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1042/3491-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-307/867-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1043/3491-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-308/867-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-583/1813-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/811-red.svg" alt="">
 </p>
@@ -986,6 +986,7 @@
 | 2850 | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | Medium |  | [Python](./Medium/2850_minimum-moves-to-spread-stones-over-grid/minimum-moves-to-spread-stones-over-grid.py) |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | Easy |  | [Python](./Easy/2859_sum-of-values-at-indices-with-k-set-bits/sum-of-values-at-indices-with-k-set-bits.py) |
 | 2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | Medium |  | [Python](./Medium/2861_maximum-number-of-alloys/maximum-number-of-alloys.py) |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy |  | [Python](./Easy/2864_maximum-odd-binary-number/maximum-odd-binary-number.py) |
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard |  | [Python](./Hard/2872_maximum-number-of-k-divisible-components/maximum-number-of-k-divisible-components.py) |
 | 2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | Medium |  | [Python](./Medium/2875_minimum-size-subarray-in-infinite-array/minimum-size-subarray-in-infinite-array.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy |  | [Python](./Easy/2894_divisible-and-non-divisible-sums-difference/divisible-and-non-divisible-sums-difference.py) |
