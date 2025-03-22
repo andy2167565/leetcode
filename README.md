@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1043/3491-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-308/867-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1044/3491-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-309/867-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-583/1813-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/811-red.svg" alt="">
 </p>
@@ -497,6 +497,7 @@
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard |  | [Python](./Hard/1416_restore-the-array/restore-the-array.py) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy |  | [Python](./Easy/1422_maximum-score-after-splitting-a-string/maximum-score-after-splitting-a-string.py) |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |  | [Python](./Medium/1424_diagonal-traverse-ii/diagonal-traverse-ii.py) |
 | 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard |  | [Python](./Hard/1425_constrained-subsequence-sum/constrained-subsequence-sum.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy |  | [Python](./Easy/1431_kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) |
