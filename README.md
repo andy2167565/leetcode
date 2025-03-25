@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1045/3495-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-310/868-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-583/1815-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1046/3496-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-311/868-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-583/1816-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/812-red.svg" alt="">
 </p>
 
@@ -711,6 +711,7 @@
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Medium |  | [Python](./Medium/2070_most-beautiful-item-for-each-query/most-beautiful-item-for-each-query.py) |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Medium |  | [Python](./Medium/2074_reverse-nodes-in-even-length-groups/reverse-nodes-in-even-length-groups.py) |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium |  | [Python](./Medium/2075_decode-the-slanted-ciphertext/decode-the-slanted-ciphertext.py) |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | Easy |  | [Python](./Easy/2078_two-furthest-houses-with-different-colors/two-furthest-houses-with-different-colors.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | Medium |  | [Python](./Medium/2080_range-frequency-queries/range-frequency-queries.py) |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |  | [Python](./Medium/2086_minimum-number-of-food-buckets-to-feed-the-hamsters/minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |  | [Python](./Medium/2087_minimum-cost-homecoming-of-a-robot-in-a-grid/minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
