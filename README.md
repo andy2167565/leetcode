@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1046/3496-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-311/868-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1047/3496-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-312/868-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-583/1816-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/812-red.svg" alt="">
 </p>
@@ -772,6 +772,7 @@
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium |  | [Python](./Medium/2275_largest-combination-with-bitwise-and-greater-than-zero/largest-combination-with-bitwise-and-greater-than-zero.py) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy |  | [Python](./Easy/2278_percentage-of-letter-in-string/percentage-of-letter-in-string.py) |
 | 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | Medium |  | [Python](./Medium/2280_minimum-lines-to-represent-a-line-chart/minimum-lines-to-represent-a-line-chart.py) |
+| 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | Easy |  | [Python](./Easy/2293_min-max-game/min-max-game.py) |
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | Hard |  | [Python](./Hard/2296_design-a-text-editor/design-a-text-editor.py) |
 | 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | Hard |  | [Python](./Hard/2301_match-substring-after-replacement/match-substring-after-replacement.py) |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard |  | [Python](./Hard/2302_count-subarrays-with-score-less-than-k/count-subarrays-with-score-less-than-k.py) |
