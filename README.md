@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1047/3496-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-312/868-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-583/1816-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/812-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1048/3510-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-313/871-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-583/1820-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/819-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -774,6 +774,7 @@
 | 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | Medium |  | [Python](./Medium/2280_minimum-lines-to-represent-a-line-chart/minimum-lines-to-represent-a-line-chart.py) |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | Easy |  | [Python](./Easy/2293_min-max-game/min-max-game.py) |
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | Hard |  | [Python](./Hard/2296_design-a-text-editor/design-a-text-editor.py) |
+| 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | Easy |  | [Python](./Easy/2299_strong-password-checker-ii/strong-password-checker-ii.py) |
 | 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | Hard |  | [Python](./Hard/2301_match-substring-after-replacement/match-substring-after-replacement.py) |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard |  | [Python](./Hard/2302_count-subarrays-with-score-less-than-k/count-subarrays-with-score-less-than-k.py) |
 | 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | Medium |  | [Python](./Medium/2304_minimum-path-cost-in-a-grid/minimum-path-cost-in-a-grid.py) |
