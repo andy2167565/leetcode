@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1049/3511-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-314/871-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-583/1821-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/819-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1050/3526-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-315/873-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-583/1829-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/824-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -496,6 +496,7 @@
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy |  | [Python](./Easy/1413_minimum-value-to-get-positive-step-by-step-sum/minimum-value-to-get-positive-step-by-step-sum.py) |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |  | [Python](./Medium/1415_the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard |  | [Python](./Hard/1416_restore-the-array/restore-the-array.py) |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | Easy |  | [Python](./Easy/1417_reformat-the-string/reformat-the-string.py) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | Medium |  | [Python](./Medium/1419_minimum-number-of-frogs-croaking/minimum-number-of-frogs-croaking.py) |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy |  | [Python](./Easy/1422_maximum-score-after-splitting-a-string/maximum-score-after-splitting-a-string.py) |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |  | [Python](./Medium/1424_diagonal-traverse-ii/diagonal-traverse-ii.py) |
