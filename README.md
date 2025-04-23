@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1050/3526-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1051/3526-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-315/873-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-583/1829-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-584/1829-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/824-red.svg" alt="">
 </p>
 
@@ -292,6 +292,7 @@
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy |  | [Python](./Easy/0917_reverse-only-letters/reverse-only-letters.py) |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |  | [Python](./Medium/0918_maximum-sum-circular-subarray/maximum-sum-circular-subarray.py) |
 | 0919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | Medium |  | [Python](./Medium/0919_complete-binary-tree-inserter/complete-binary-tree-inserter.py) |
+| 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium |  | [Python](./Medium/0921_minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py) |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy |  | [Python](./Easy/0922_sort-array-by-parity-ii/sort-array-by-parity-ii.py) |
 | 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium |  | [Python](./Medium/0923_3sum-with-multiplicity/3sum-with-multiplicity.py) |
 | 0924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | Hard |  | [Python](./Hard/0924_minimize-malware-spread/minimize-malware-spread.py) |
