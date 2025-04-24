@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1051/3526-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-315/873-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1052/3526-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-316/873-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-584/1829-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/824-red.svg" alt="">
 </p>
@@ -672,6 +672,7 @@
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium |  | [Python](./Medium/1927_sum-game/sum-game.py) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy |  | [Python](./Easy/1929_concatenation-of-array/concatenation-of-array.py) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy |  | [Python](./Easy/1935_maximum-number-of-words-you-can-type/maximum-number-of-words-you-can-type.py) |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Easy |  | [Python](./Easy/1941_check-if-all-characters-have-equal-number-of-occurrences/check-if-all-characters-have-equal-number-of-occurrences.py) |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium |  | [Python](./Medium/1942_the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.py) |
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | Medium |  | [Python](./Medium/1943_describe-the-painting/describe-the-painting.py) |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | Medium |  | [Python](./Medium/1947_maximum-compatibility-score-sum/maximum-compatibility-score-sum.py) |
