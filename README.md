@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1054/3540-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-318/874-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-584/1837-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/829-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1055/3548-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-319/876-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-584/1840-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/832-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -256,6 +256,7 @@
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | Hard |  | [Python](./Hard/0827_making-a-large-island/making-a-large-island.py) |
 | 0828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |  | [Python](./Hard/0828_count-unique-characters-of-all-substrings-of-a-given-string/count-unique-characters-of-all-substrings-of-a-given-string.py) |
 | 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | Hard |  | [Python](./Hard/0829_consecutive-numbers-sum/consecutive-numbers-sum.py) |
+| 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy |  | [Python](./Easy/0832_flipping-an-image/flipping-an-image.py) |
 | 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium |  | [Python](./Medium/0835_image-overlap/image-overlap.py) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium |  | [Python](./Medium/0838_push-dominoes/push-dominoes.py) |
 | 0842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium |  | [Python](./Medium/0842_split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
