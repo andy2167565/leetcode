@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1056/3549-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-320/876-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1057/3549-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-321/876-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-584/1840-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/833-red.svg" alt="">
 </p>
@@ -1065,3 +1065,4 @@
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy |  | [Python](./Easy/3300_minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.py) |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | Easy |  | [Python](./Easy/3340_check-balanced-string/check-balanced-string.py) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy |  | [Python](./Easy/3345_smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.py) |
+| 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/) | Easy |  | [Python](./Easy/3502_minimum-cost-to-reach-every-position/minimum-cost-to-reach-every-position.py) |
