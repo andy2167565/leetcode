@@ -1,9 +1,9 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1059/3554-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-323/877-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-584/1842-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1060/3555-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-324/877-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-584/1843-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/835-red.svg" alt="">
 </p>
 
@@ -1014,6 +1014,7 @@
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | Easy |  | [Python](./Easy/2956_find-common-elements-between-two-arrays/find-common-elements-between-two-arrays.py) |
 | 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | Easy |  | [Python](./Easy/2960_count-tested-devices-after-test-operations/count-tested-devices-after-test-operations.py) |
 | 2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/) | Hard |  | [Python](./Hard/2963_count-the-number-of-good-partitions/count-the-number-of-good-partitions.py) |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy |  | [Python](./Easy/2965_find-missing-and-repeated-values/find-missing-and-repeated-values.py) |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | Easy |  | [Python](./Easy/2974_minimum-number-game/minimum-number-game.py) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | Medium |  | [Python](./Medium/2975_maximum-square-area-by-removing-fences-from-a-field/maximum-square-area-by-removing-fences-from-a-field.py) |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium |  | [Python](./Medium/2976_minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.py) |
