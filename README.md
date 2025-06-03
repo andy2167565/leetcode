@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1061/3555-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-325/877-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-584/1843-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/835-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1062/3571-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-326/880-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-584/1852-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/839-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -541,6 +541,7 @@
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |  | [Python](./Hard/1510_stone-game-iv/stone-game-iv.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy |  | [Python](./Easy/1512_number-of-good-pairs/number-of-good-pairs.py) |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium |  | [Python](./Medium/1514_path-with-maximum-probability/path-with-maximum-probability.py) |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy |  | [Python](./Easy/1518_water-bottles/water-bottles.py) |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |  | [Python](./Medium/1519_number-of-nodes-in-the-sub-tree-with-the-same-label/number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy |  | [Python](./Easy/1523_count-odd-numbers-in-an-interval-range/count-odd-numbers-in-an-interval-range.py) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |  | [Python](./Medium/1524_number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py) |
