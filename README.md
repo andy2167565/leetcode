@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1063/3571-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-327/880-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1064/3571-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-328/880-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-584/1852-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/839-red.svg" alt="">
 </p>
@@ -700,6 +700,7 @@
 | 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | Medium |  | [Python](./Medium/2008_maximum-earnings-from-taxi/maximum-earnings-from-taxi.py) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy |  | [Python](./Easy/2011_final-value-of-variable-after-performing-operations/final-value-of-variable-after-performing-operations.py) |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | Medium |  | [Python](./Medium/2013_detect-squares/detect-squares.py) |
+| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy |  | [Python](./Easy/2016_maximum-difference-between-increasing-elements/maximum-difference-between-increasing-elements.py) |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium |  | [Python](./Medium/2017_grid-game/grid-game.py) |
 | 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | Medium |  | [Python](./Medium/2018_check-if-word-can-be-placed-in-crossword/check-if-word-can-be-placed-in-crossword.py) |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium |  | [Python](./Medium/2024_maximize-the-confusion-of-an-exam/maximize-the-confusion-of-an-exam.py) |
