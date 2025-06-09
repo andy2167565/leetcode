@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1064/3571-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-328/880-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-584/1852-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/839-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1065/3580-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-329/880-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-584/1858-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/842-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -1012,6 +1012,7 @@
 | 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | Easy |  | [Python](./Easy/2923_find-champion-i/find-champion-i.py) |
 | 2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | Medium |  | [Python](./Medium/2925_maximum-score-after-applying-operations-on-a-tree/maximum-score-after-applying-operations-on-a-tree.py) |
 | 2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/) | Hard |  | [Python](./Hard/2931_maximum-spending-after-buying-items/maximum-spending-after-buying-items.py) |
+| 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | Easy |  | [Python](./Easy/2932_maximum-strong-pair-xor-i/maximum-strong-pair-xor-i.py) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy |  | [Python](./Easy/2942_find-words-containing-character/find-words-containing-character.py) |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | Easy |  | [Python](./Easy/2951_find-the-peaks/find-the-peaks.py) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | Easy |  | [Python](./Easy/2956_find-common-elements-between-two-arrays/find-common-elements-between-two-arrays.py) |
