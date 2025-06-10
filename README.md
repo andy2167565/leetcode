@@ -1,8 +1,8 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1065/3580-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-329/880-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1066/3580-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-330/880-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-584/1858-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-152/842-red.svg" alt="">
 </p>
@@ -419,6 +419,7 @@
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | Easy | $ | [Python](./Easy/1228_missing-number-in-arithmetic-progression/missing-number-in-arithmetic-progression.py) |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | Medium | $ | [Python](./Medium/1230_toss-strange-coins/toss-strange-coins.py) |
 | 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | Hard | $ | [Python](./Hard/1231_divide-chocolate/divide-chocolate.py) |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy |  | [Python](./Easy/1232_check-if-it-is-a-straight-line/check-if-it-is-a-straight-line.py) |
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | Medium |  | [Python](./Medium/1234_replace-the-substring-for-balanced-string/replace-the-substring-for-balanced-string.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |  | [Python](./Hard/1235_maximum-profit-in-job-scheduling/maximum-profit-in-job-scheduling.py) |
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | Medium |  | [Python](./Medium/1238_circular-permutation-in-binary-representation/circular-permutation-in-binary-representation.py) |
