@@ -1,10 +1,10 @@
 <img width="300" src="https://raw.githubusercontent.com/andy2167565/leetcode/master/img/site-logo.png">
 
 <p>
-    <img src="https://img.shields.io/badge/Solved-1066/3580-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-330/880-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-584/1858-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-152/842-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Solved-1067/3586-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-331/882-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-584/1861-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-152/843-red.svg" alt="">
 </p>
 
 | # | Title | Difficulty | Premium | Solution |
@@ -1060,6 +1060,7 @@
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | Easy |  | [Python](./Easy/3206_alternating-groups-i/alternating-groups-i.py) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Easy |  | [Python](./Easy/3210_find-the-encrypted-string/find-the-encrypted-string.py) |
 | 3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | Easy |  | [Python](./Easy/3216_lexicographically-smallest-string-after-a-swap/lexicographically-smallest-string-after-a-swap.py) |
+| 3226 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | Easy |  | [Python](./Easy/3226_number-of-bit-changes-to-make-two-integers-equal/number-of-bit-changes-to-make-two-integers-equal.py) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy |  | [Python](./Easy/3232_find-if-digit-game-can-be-won/find-if-digit-game-can-be-won.py) |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | Easy |  | [Python](./Easy/3248_snake-in-matrix/snake-in-matrix.py) |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Easy |  | [Python](./Easy/3264_final-array-state-after-k-multiplication-operations-i/final-array-state-after-k-multiplication-operations-i.py) |
